@@ -7,3 +7,4 @@ See:
 - virtue signal
 - characteristic narrative fiction
 - toxic threads
+- tribal narrative

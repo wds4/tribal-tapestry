@@ -5,9 +5,23 @@ According to the TTT model, ` virtue signal` is a test designed to differentiate
 
 ## Basic methodology 
 
-The basic function of the virtue signal is to test for the presence or absence of the [tribal tapestry](./tribalTapestry.md) within the individual
+The basic function of the virtue signal is to test for the presence or absence of the [tribal tapestry](./tribalTapestry.md) within the individual.
 
 ## Anatomy of the virtue signal 
+
+The virtue signal consists of a challenge designed to provoke a response. The challenge contains two basic components: the core component and the toxic overlay. 
+
+## Toxic threads
+
+There are two major categories of toxicity: statements of fact and logical constructs.
+
+Statements of fact:
+- provably false statements
+- nonfalsifiable statements
+
+Logical constructs:
+- logical inconsistencies
+- hypocrisy
 
 ## Test result
 

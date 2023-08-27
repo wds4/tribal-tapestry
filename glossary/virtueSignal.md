@@ -9,7 +9,13 @@ The basic function of the virtue signal is to test for the presence or absence o
 
 ## Anatomy of the virtue signal 
 
-The virtue signal consists of a challenge designed to provoke a response. The challenge contains two basic components: the core component and the toxic overlay. 
+The virtue signal consists of a challenge designed to provoke a response. The challenge contains two basic components: the `core truth` and the `toxic overlay`. 
+
+The challenge is put together so that the individual must either choose both or reject both together. (Or trying to tease them apart takes too much cognitive effort.) A properly `calibrated` virtue signalling construct is one that formulates and balances the core truth and the toxic overlay so that tribal members will endorse them together, whereas non-members, and especially enemies of the tribe, will reject them both. The tribal member will attend to the core truth and ignore or excuse the toxic overlay; the tribal outsider will attend to the toxic overlay and ignore or excuse the core truth.
+
+In at least one, but often in both cases (to endorsse or reject the challenge), a `cognitive expense` is incurred. Incursion of the cognitive expense is interpreted as an indicator of loyalty to the tribe.
+
+In both cases, to 'excuse' the core truth or the toxic overlay means to employ dishonest equivocation in the construction of a logical fallacy, if necessary. This entails cognitive expense; therefore it is generally preferred to ignore rather than to excuse.
 
 ## Toxic threads
 

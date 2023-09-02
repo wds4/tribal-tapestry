@@ -1,7 +1,7 @@
 narrative fiction
 =====
 
-In the context of the tribal tapestry model, the narrative fiction corresponds to the set of threads which are `toxic`.
+In the context of the tribal tapestry model, the narrative fiction corresponds to the set of threads which are [toxic](./toxicThread,md)`.
 
 Iain McGilchrist, describing his study of literature and his realization that "the things we prized about the work" of a great piece of literature "turned to a handful of dust" upon close inspection, Ways of Attending, p 3:
 *... the uniqueness of the work, which lay in these very same much-valued qualities, seemed to consist only of imperfections.*

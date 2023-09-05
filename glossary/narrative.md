@@ -23,9 +23,9 @@ Just as tribes can vary in size, overlap, and change over time, so too can triba
 
 ### Formation of the narrative
 
-Why do some narratives remain static for long periods of time while others undergo rapid changes? 
+Why do some narratives remain static for long periods of time while others undergo rapid changes? (Give some examples, speculate some basic reasons.)
 
-Intertribal competition vs intratribal conmpetition. We postulate that periods of intense intratribal competition may be reflected in a rise in `virtue signaling`, the result of which can be rapid changes in the narrative, and in particular, the `narrative fiction`.
+Intertribal competition vs intratribal conmpetition. We postulate that periods of intense intratribal competition may be reflected in a rise in `virtue signaling`, the result of which can be rapid changes in the narrative, and in particular, in the `narrative fiction`.
 
 ### Who decides the narrative?
 

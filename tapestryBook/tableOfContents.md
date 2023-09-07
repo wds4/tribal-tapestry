@@ -11,6 +11,8 @@ Table of Contents
 
 # The Tapestry Model of Knowledge Representation and Curation
 
+## Threads
+
 ## The Concept Graph
 
 ## The Grapevine
@@ -22,6 +24,8 @@ Table of Contents
 ## What is a Tribal Narrative?
 
 ## The Tribal Narrative Fiction
+
+## Toxic Threads
 
 ## Virtue Signaling
 

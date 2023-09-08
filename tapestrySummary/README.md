@@ -55,4 +55,20 @@ In general, any single node may have any number of class threads either originat
 
 Incidentally, the name "class" is in reference to the notion of a `class` in object-oriented programming. A class in javascript, for example, is similar in some ways to a concept in the Tapestry model. 
 
+## Mathematical aside
 
+I make note of the fact that many branches of mathematics can be founded upon set theory, and that the basic starting point of set theory is the relation:
+
+```
+a is an element of b
+```
+
+It is remarkable that the meaning of the relation, `is an element of`, *is not given a set theoretic definition*. Of course, we all have an intuitive understanding of what it means: it means that b is a set, and a is a thing that is inside the set, like an object inside a bag. But in set theory, there is no attempt to explain what this means. The meaning of the relation emerges from the way that the relation is used. (Link to lecture series that makes this point.)
+
+I bring this up because it seems to me that within the Tapestry model, the class thread plays a role very similar to the fundamental relation of set theory. A class thread denoting that Alice is a user, or Germany is a country, are effectively statements of the form: a is an element of b. If the cortical tapestry hypothesis is true, it would mean that the brain is, as incredible as it may seem, mathematics in its purest form.
+
+# The grapevine
+
+The grapevine is a web of trust that is designed specifically to interface with the concept graph. Working examples of the grapevine have been built as proofs of concept for the decentralized web. My thoughts on how the grapevine might work in the brain are much less clear. I postulate simply that the essential features of the grapevine, in the dWeb, may be used to postulate analogous features in the brain. In the discussion that follows, I will be referring primarily to the dWeb.
+
+The relationship between the concept graph and the grapevine can be summarized by noting that the concept graph is used to formulate a question, and the grapevine is used to answer it. For example: if Alice wants her web of trust to rank the local coffee shops from best to worst, she would begin by creating a concept called Coffee Shop and fleshing it out with all of the coffee shops in town. By grouping them into one concept, she can proceed with an apples-to-apples comparison.

@@ -40,3 +40,19 @@ The question is: how *exactly* is information encoded in nodes, in edges, and in
 - Nodes store a variable amount of information, with no specific upper bound on how much information is stored in any given node. In a graph database such as neo4j, a common practice would be for each node to represent a file, with different nodes pointing to different file types (images, data files, etc) of varying size. In the brain, if we assume that each node is a cortical column, I would point out that the size and structure of cortical columns is highly variable. 
 - Edges store a relatively small, relatively fixed amount of information. For example, in neo4j, each edge can be directed or not and will be assigned an edge type, such as "is owned by" or "is married to." In principle, the edge type could be a pointer to a data file, but in practice this is not done. In the brain, if we imagine an edge to correspond to an axonal projection from one neuron or one cortical column to another, we might imagine that different firing patterns or physical attributes of the projections could store some limited amount of information, akin to the name of the edge type in a computer graph database.
 - The method that data is encoded into the topology of the graph is distinct from the method that it is encoded within nodes and edges.
+
+Note that graph databases, such as neo4j, tend to come equipped with query languages -- cypher, in the case of neo4j -- which can be used to search for patterns within any given graph. A number of algorithms are in common usage to search for paths that match a particular pattern, for example. The notion of searching for paths that match specific patterns will be important in the next section on class threads.
+
+We turn our attention next to the encoding of information into the topology of a graph. 
+
+## Class Threads
+
+In the Tapestry model, a small handful of constraints are used to impose structure upon the graph. The first and most important of these constraints is the `class thread`.
+
+A `thread` is defined as any contiguous series of edges. A `class thread` is defined as a special type of thread, recognizable by the pattern of edge types along the path, with the understanding that the node at one end of the thread is understood to be an `element` of the node at the beginning of the thread. For example, if the end of a class thread points to a file with information on the user "Alice," and the node that the beginning of the class thread points to a file called "User", then the constraint would be true for this thread, because Alice is a user. However, if the beginning of that thread pointed to a file called "Country", then the contraint would be violated, since Alice is not a country. The `class thread constraint` is the requirement that for every class threads in a graph database, this contraint is always true.
+
+In general, any single node may have any number of class threads either originating or terminating at it. For example, given three users, Alice Bob and Charlie, there could be three class threads, each one of which originates at the node "user" and terminates at the node for one of the three individuals. The node at the beginning of a class thread is referred to as the `class node`. In the Tapestry model, a `concept` is defined as the set of all nodes and edges traversed by the set of all class threads that emanate from any individual `class node`. The nodes at the end of these class threads are called `specific instances` or `elements` of the concept.
+
+Incidentally, the name "class" is in reference to the notion of a `class` in object-oriented programming. A class in javascript, for example, is similar in some ways to a concept in the Tapestry model. 
+
+

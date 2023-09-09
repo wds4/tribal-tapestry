@@ -72,3 +72,7 @@ I bring this up because it seems to me that within the Tapestry model, the class
 The grapevine is a web of trust that is designed specifically to interface with the concept graph. Working examples of the grapevine have been built as proofs of concept for the decentralized web. My thoughts on how the grapevine might work in the brain are much less clear. I postulate simply that the essential features of the grapevine, in the dWeb, may be used to postulate analogous features in the brain. In the discussion that follows, I will be referring primarily to the dWeb.
 
 The relationship between the concept graph and the grapevine can be summarized by noting that the concept graph is used to formulate a question, and the grapevine is used to answer it. For example: if Alice wants her web of trust to rank the local coffee shops from best to worst, she would begin by creating a concept called Coffee Shop and fleshing it out with all of the coffee shops in town. By grouping them into one concept, she can proceed with an apples-to-apples comparison.
+
+# References
+
+See also the [tribal tapestry glossary](https://github.com/wds4/tribal-tapestry/tree/main/glossary) and the [DCoSL glossary](https://github.com/wds4/DCoSL/tree/main/glossary).

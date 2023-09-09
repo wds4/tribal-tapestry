@@ -75,4 +75,4 @@ The relationship between the concept graph and the grapevine can be summarized b
 
 # References
 
-See also the [tribal tapestry glossary](https://github.com/wds4/tribal-tapestry/tree/main/glossary) and the [DCoSL glossary](https://github.com/wds4/DCoSL/tree/main/glossary).
+See my other repository, [DCoSL: decentralized curation of simple lists](https://github.com/wds4/DCoSL/tree/main), which is an attempt to build a protocol to implement the Tapestry model for use with decentralized social media, such as nostr. Application of the Tapestry model to the brain has been moved to this repository, the [Tribal Tapestry](https://github.com/wds4/tribal-tapestry). See, in particular, the [DCoSL glossary](https://github.com/wds4/DCoSL/tree/main/glossary) and the [tribal tapestry glossary](https://github.com/wds4/tribal-tapestry/tree/main/glossary).

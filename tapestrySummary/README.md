@@ -73,6 +73,8 @@ The grapevine is a web of trust that is designed specifically to interface with 
 
 The relationship between the concept graph and the grapevine can be summarized by noting that the concept graph is used to formulate a question, and the grapevine is used to answer it. For example: if Alice wants her web of trust to rank the local coffee shops from best to worst, she would begin by creating a concept called Coffee Shop and fleshing it out with all of the coffee shops in town. By grouping them into one concept, she can proceed with an apples-to-apples comparison.
 
+This section is incoplete. For a demonstration of the concept graph and the grapevine in action, see [this example](https://github.com/wds4/pretty-good/blob/main/appDescriptions/curatedLists/exampleListCuration.md).
+
 # References
 
 See my other repository, [DCoSL: decentralized curation of simple lists](https://github.com/wds4/DCoSL/tree/main), which is an attempt to build a protocol to implement the Tapestry model for use with decentralized social media, such as nostr. Application of the Tapestry model to the brain has been moved to this repository, the [Tribal Tapestry](https://github.com/wds4/tribal-tapestry). See, in particular, the [DCoSL glossary](https://github.com/wds4/DCoSL/tree/main/glossary) and the [tribal tapestry glossary](https://github.com/wds4/tribal-tapestry/tree/main/glossary).

@@ -27,6 +27,26 @@ Why do these tests happen? The naive answer would be that Alice subjects Bob to 
 
 And what's wrong with wanting to belong? To be a part of something greater than ourselves? It is, indeed, one of our most basic spiritual needs. 
 
+## What is virtue?
+
+For the sake of this essay, virtue is defined as loyalty to tbe tribe. And loyalty is demonstrated by incorporation of the tribal narrative; in particular, internalization of the tribal narrative fiction, those elements of the tribal tapestry that outsiders reject due to toxicity. No one scores points with the tribe for agreeing that water is wet. But if you endorse and internalize the toxic elements, it is evidence of loualty. The more toxic the threads, the greater the expense incurred for incorporating those threads into the fiber of your being, the greater the (apparent) virtue. Of course, no test is perfect. But 
+
+## Common elements of toxicity within the tribal tapestry 
+
+Two almost universal categories of threads:
+
+First, the belief that WE are not toxic. OK maybe sometimes, but always for a good reason. But THEM, on the other hand; toxicity knows no bounds.
+
+Second: some variation on the theme of altruism is frequently (always?) used as the basis for the tribal narrative fiction. 
+
+## The problem
+
+I conjecture that the trigger for toxic tribalism is a rise, for whatever reason, of *intra-tribal* competition. Too many people who think they deserve eleite status withihn the tribe, but not enough chairs to go around. Imagine a game of musical chairs. When times are good and the number of chairs is increasing, there is little need for virtue signaling. But when the chairs are being taken away (or the number of players is increasing), 
+
+When virtue signaling spins out of control, takes on a life of its own, we see the creation of new virtue signals, each more toxic than the ones that came before it. In times of such stress, the tribal narrative itself changes over time. We see new beliefs, new virtue signals, with new elements of toxicity that would have beenj rejected yesterday, but are endorsed with great conviction today. Typically accompanied by a healthy (then again, perhaps unhealthy) dose of moral indignation. Gotta be convincing.
+
+At any given time, it may be difficult to discern what proportion of tribal members are *true believers* and what percentage are simply doing what they perceive needs to be done to survive. At any given time, there are likely some true beleivers and some who are not. But consider Solzhenitsin: they are lying, we know they are lying, they know we know they are lying, etc. So it is conceivable that EVERYONE knows the toxic elemebnts of the tribal tapestry are false and/or internaly inconsistent, yet no one is willing to say so. Why? Because it's impossible to form society without tribes, and it's impossible to form tribes without tribal tapestries, and it's impossible to form tribal tapestries without unique patterns, and it's impossible to do that without toxic threads. Also, it's impossible to form society without virtue signals, and those require toxic threads as one of the essential ingredients. There simply is no virtue signaling without being faced with a difficult choice. And no difficult choices without toxic threads. 
+
 ## My challenge to you
 
 In summary, a virtue signal has three primary components:
@@ -39,3 +59,7 @@ I challenge all readers of this essay to the following two-step process:
 First, identify a virtue signal within a tribe to which you *do not identify*. Why? because this comes naturally to us. You can almost certainly already do it. What you have probably not done, though, is to conceptualize the virtue signal itself, breakiung it down into the three components above.
 
 Second -- this is the hard part -- identify a virtue signal within a tribe to which you DO identify. This step may be difficult for some. We all have the tendency to believe that our own communities are not toxic. Our tribe is enlightened! Evil has been banished, and the truth is always on our side. And so, for this challenge, bear in mind that "toxic" does not mean genuinely wrong: it means that outsiders view it as wrong. Maybe the outsiders have a point; or maybe it's because outsiders are not enlightened enough to see the truth. Whatever floats your boat. 
+
+Once you have identified one or more virtue signals that are active within your community, try to take a step back and observe them in action. Look specificaly for the challenge. Think to yourself that the underlying question has nothing to do with the threads themselves; the REAL question being asked is this: are you with us or against us? When you see someone pass the virtue signaling test, ask: what would happen if the individual were to reject the challenge? Answer is typically that the individual would be the target of microaggressions: moral disapproval. Ask yourself whether the threat of moral disapproval might or might not play a part in the individual's endorsement of the toxic elements of the challenge, and what that implies about whether the toxic elements are in fact true or false. Look for moral indignation among those who accept the challenge (endorse the toxic elements). Consider the damage that may occur as more and more toxic elements are incorporated into your tribe's system of beliefs. Consider whether your tribe might be in the process of running off the proverbial cliff. If any of these thoughts alarm you, then if you care what happens to those around you, and if you have the courage, then do what you can do to call a spade a spade. Be a voice that helps to stop the wave of virtue signals. Be aware that in doing so, you will gain the silent respect of many others in your tribe.
+
+*insert meme with the Nazi saying: are we the bad guys?*

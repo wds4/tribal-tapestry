@@ -27,4 +27,15 @@ Why do these tests happen? The naive answer would be that Alice subjects Bob to 
 
 And what's wrong with wanting to belong? To be a part of something greater than ourselves? It is, indeed, one of our most basic spiritual needs. 
 
+## My challenge to you
 
+In summary, a virtue signal has three primary components:
+- a core benign, non-toxic set of beliefs (threads)
+- a superimposed layer of toxicity
+- a challenge
+
+I challenge all readers of this essay to the following two-step process:
+
+First, identify a virtue signal within a tribe to which you *do not identify*. Why? because this comes naturally to us. You can almost certainly already do it. What you have probably not done, though, is to conceptualize the virtue signal itself, breakiung it down into the three components above.
+
+Second -- this is the hard part -- identify a virtue signal within a tribe to which you DO identify. This step may be difficult for some. We all have the tendency to believe that our own communities are not toxic. Our tribe is enlightened! Evil has been banished, and the truth is always on our side. And so, for this challenge, bear in mind that "toxic" does not mean genuinely wrong: it means that outsiders view it as wrong. Maybe the outsiders have a point; or maybe it's because outsiders are not enlightened enough to see the truth. Whatever floats your boat. 

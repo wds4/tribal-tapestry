@@ -1,11 +1,6 @@
 Anatomy of the Virtue Signal
 =====
 
-Over the past several years, there seems to have been a gradually increasing awareness and concern among people of all political persuasions of what I will refer to in this essay as *pathologic tribalism*.
-
-Anatomy of the Virtue Signal
-=====
-
 Over the past several years, there seems to have been a gradually increasing awareness and concern among people of all political persuasions of what I will refer to in this essay as *pathologic tribalism*. There seems to be a vague unease that something is wrong with The System. But what is it, exactly? What is the problem? Or more importantly -- *who* is the problem?!? There seems to be no consensus on an answer to this question. Even those who would proffer a definitive answer are, sometimes inwardly, increasingly unsure of the narrative they seem to hold with such convistion. In this essay I will tender my own meta-analysis of this trend that we see, in the hopes that I may offer some actinonable insights. Maybe prevent society from running off the proverbial cliff.
 
 I will begin with a definition of some basic ideas: tribe, tribalism, narrative, narrative fiction, and virtue signaling. Some of these terms and ideas are in common usage. Some, I am borrowing from postmodernists. But to a large extent, the terms and ideas are my own, based on observations and interactions with family, friends, and -- perhaps it should go without saying -- strangers on the internet. I will pay particular focus on a high level, abstract description of the phonomenon of virtue signaling, a phenomenon that (perhaps surprisingly to some) is not limited to any one particular political persuasion, segment of society, or tribe. It is my hope that by the end of this essay, the reader will be able to identify pathologic elements of the tribal narrative and of virtue signals, not only from the outside, but also from within one's own tribe. Societies must heal their tribal narratives from within. This begins with an awareness of what it is and why it exists in the first place.

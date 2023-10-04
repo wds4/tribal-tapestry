@@ -23,6 +23,8 @@ The word, toxicity, would seem pejorative, and indeed it is. But to qualify as t
 
 I'm only going to touch upon this briefly. Think back to the analogy to a tapestry, with patterns woven into it, patterns that are characteristic of the tribe. It is my contention that toxicity plays an important, perhaps a necessary, role in construction of the tribal tapestry, because without toxicity, there could be no virtue signals. 
 
+Virtue, by the way, means (for the sake of this essay) *loyalty to the tribe*. More on this later. 
+
 ## Virtue signals
 
 I can remember when the phrase "virtue signal" seemed to appear more and more frequently in public discourse. Perhaps somewhere in the mid 20-teens? Although its definition was opaque to me (at first), there was no doubt that the term was quite pejorative. I remember wondering: what is a virtue signal? What's wrong with virtue, and what's wrong with signaling one's virtue to others? We all want to set a good example, right? Are there good virtue signals and bad ones?

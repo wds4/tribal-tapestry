@@ -94,7 +94,7 @@ In summary, a virtue signal has three primary components:
 
 I challenge all readers of this essay to the following two-step process:
 
-First, identify a virtue signal within a tribe to which you *do not identify*. Why? because this comes naturally to us. You can almost certainly already do it. What you have probably not done, though, is to conceptualize the virtue signal itself, breakiung it down into the three components above.
+First, identify a virtue signal within a tribe to which you *do not identify*. Why? because this comes naturally to us. You can almost certainly already do it. You don't need me to tell you that THOSE PEOPLE (you know who I'm talking about!!) are so stupid, and so hypocritical, in so many ways, that it's hard to count them all. What you have probably not done, though, is to conceptualize the virtue signal itself, breakiung it down into the three components above. So pick one of the ways, at break down the components.
 
 Second -- this is the hard part -- identify a virtue signal within a tribe to which you DO identify. This step may be difficult for some. We all have the tendency to believe that our own communities are not toxic. Our tribe is enlightened! Evil has been banished, and the truth is always on our side. And so, for this challenge, bear in mind that "toxic" does not mean genuinely wrong: it means that outsiders view it as wrong. Maybe the outsiders have a point; or maybe it's because outsiders are not enlightened enough to see the truth. Whatever floats your boat. 
 

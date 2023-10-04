@@ -29,6 +29,8 @@ Why do these tests happen? The naive answer would be that Alice subjects Bob to 
 
 And what's wrong with wanting to belong? To be a part of something greater than ourselves? It is, indeed, one of our most basic spiritual needs. 
 
+The question is not: do you believe this particularly idea, which is toxic. The answerto this quesiton, in isolation, would be no. The question is this: if you were to weigh the significance of the nontoxic core versus the toxic overlay, which is more weighty? By implication: if you had to accept both or reject both, which would you choose? The first is not a legitimate question; but the second one is! Are you willing to endorse that 2+2=5? Obviously, no. But are you willing to endorse 2+2=5 if it is the price you must pay to reverse the injustices of the past? If you accept the premise of the question, then the question does not have an obvious answer. A valid case can be made for a yes.
+
 ## How to pass the test
 
 My observations are that there are two broad categories by which a virtuous member of a tribe internalizes the toxic elements of a virtue signal. 

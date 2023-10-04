@@ -123,5 +123,6 @@ Brian Armstrong famously, and to his credit, made it a point that virtue signali
 
 Step one is understanding. Identify the virtue signals. In particular, the healthy core and the toxic overlay. In discussions, acknowledge the healthy core. But then call the virtue signalers to task for the introduction of the toxic overlay. Make it clear how the toxic overlay is a betrayal of the core elements. Most importantly: anticipate how they will respond. Anticipate an escalation, with much moral indignation. these will be accompanied by either rationalization or studious ignorance. Be prepared to call out this behaviour for exactly what it is. Use the terminology of this essay in public discourse to explain the big picture, the real big picture, not the fictional one advocated by the virtue signalers.
 
-Use some of the terminology in this essay to describe what they are doing and why it is pathologic for the organization. For example: the leader of the TED organization could
+Use some of the terminology in this essay to describe what they are doing and why it is pathologic for the organization. For example: the leader of the TED organization. (Expand on details.)
+
 

@@ -125,4 +125,6 @@ Step one is understanding. Identify the virtue signals. In particular, the healt
 
 Use some of the terminology in this essay to describe what they are doing and why it is pathologic for the organization. For example: the leader of the TED organization. (Expand on details.)
 
+The standard reaction, when calling out virtue signaling, whether we call it this or something else, is to demonize it, label it something obviously bad, somthing attributable to THEM, never to US. Or when we do the mea culpa -- using words like original sin or privilege -- we once again denounce toxic threads as something universally bad; when present in us, it is something to be resisted, something attributable to selfish behaviour, which is evil. The truth is that yes indeed, selfishness is what drives our tolerance of toxic beliefs; but tribal virtue, as defined in this essay, is not the enemy of toxic beliefs; it is the cause. 
+
 

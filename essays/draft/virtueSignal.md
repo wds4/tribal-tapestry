@@ -27,6 +27,22 @@ Why do these tests happen? The naive answer would be that Alice subjects Bob to 
 
 And what's wrong with wanting to belong? To be a part of something greater than ourselves? It is, indeed, one of our most basic spiritual needs. 
 
+## How to pass the test
+
+My observations are that there are two broad categories by which a virtuous member of a tribe internalizes the toxic elements of a virtue signal. 
+
+The first broad category is what would be termed *rationalization*. The individual finds a reason to justify the toxic elements, making strategic use of one or more logical fallicies if necessary (which, generally speaking, they are due to the internal logical inconsistencies inhernet to the toxic elements). This process is not an easy one, cognitively speaking. It genuinely takes work. One must not only figure out which logical fallacies spport the virtue signal and the broader narrative; one must activley endorse these fallacies. This is often not easy to do with a straight face. In some cases, the virtuous individual may pretend to endorse the toxic elements; but frequently, perhaps usually, practice is to genuinely convince oneself that the fallacies are not fallacies, using whatever arguments one can grasp. (These arguments are often referred to derogatorily as [reasons], as in: you say X because of [reasons].) 
+
+But rationalization of the toxic elements of the virtue signal is not the only mechanism for aceptance. It is probably not the preferred method. Whenever possible, the favored method is to *ignore* the toxicity. Easier it is to ignore a logical inconsistency, or never even to note it in the first place, than it is to constuct a (sometimes convoluted) argument in its defense. Despite the rlative ease, however, this also takes effort, cognitive work. The virtuous individual must learn what, specifically, to ignore. Where not to look. WHen you hear someone use the phrase "studiously ignore," this is what they are talking about.
+
+## Proof of work
+
+There is a reason people at times are extolled to "do the work." The above two processes, rationalization and studied ignorance, require effort. These processes can be cognitively demanding. And on top of that, the internalization of such fallacies can hinder one's understanding of objective reality. This is how tribal fiction, tribal blind spots are constructed. At some point, perhaps in a separate essay, I may go through examples of tribes throughout history in which this process has been to the detriment of the tribe. One example, in passing, is that many prominent scientists in the Nazi community were uncomfortable saying or supporting anything that might be interpreted by their peers as supporting Einstein's theory of relativity, including the equation E=mc2 which allows us to calulate the amnount of energy released in an atomic bomb. This reluctance to support "jewish science" may have (likely? need ref) hindered anhy progression the regime may have made on the atomic bomb.
+
+In some instances, the amount of cognitive work that is expected by the community seems to undergo adjustment. We have been witnessing this over the past few years among the tribal left. When the requisite cognitive workload goes up, we observe new virtue signals flow through society with greater degree of toxicity. Who decides when these adjustments occur and by how much? Like the bitcoin adjustment algorithm, the answer is that no single individual or panel of individusla is in charge. It is, seemingly, an algorithm, run by everyone in the community, with at least some semblance of consensus that arises in the process.
+
+My reference to bitcoin's proof of work is no accident. I conisder this essay to be an extension of the journey through the rabbit hole. Motivated and made possible by the realization and appreciation of the centrality of proof of work in understanding the human condition.
+
 ## What is virtue?
 
 For the sake of this essay, virtue is defined as loyalty to tbe tribe. And loyalty is demonstrated by incorporation of the tribal narrative; in particular, internalization of the tribal narrative fiction, those elements of the tribal tapestry that outsiders reject due to toxicity. No one scores points with the tribe for agreeing that water is wet. But if you endorse and internalize the toxic elements, it is evidence of loualty. The more toxic the threads, the greater the expense incurred for incorporating those threads into the fiber of your being, the greater the (apparent) virtue. Of course, no test is perfect. But 

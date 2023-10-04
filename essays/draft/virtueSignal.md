@@ -43,6 +43,8 @@ In some instances, the amount of cognitive work that is expected by the communit
 
 My reference to bitcoin's proof of work is no accident. I conisder this essay to be an extension of the journey through the rabbit hole. Motivated and made possible by the realization and appreciation of the centrality of proof of work in understanding the human condition.
 
+Comprehension and internalization (* internalization: weave threads into your own tapestry) of non-toxic elements does take some dgree of effort. But internalization of toxic threads is always harder. Virtually always exacts a greater cost to the individual. When someone tells you to *do the work*, you are literally being shamed into internalization of a toxic narrative.
+
 ## What is virtue?
 
 For the sake of this essay, virtue is defined as loyalty to tbe tribe. And loyalty is demonstrated by incorporation of the tribal narrative; in particular, internalization of the tribal narrative fiction, those elements of the tribal tapestry that outsiders reject due to toxicity. No one scores points with the tribe for agreeing that water is wet. But if you endorse and internalize the toxic elements, it is evidence of loualty. The more toxic the threads, the greater the expense incurred for incorporating those threads into the fiber of your being, the greater the (apparent) virtue. Of course, no test is perfect. But 

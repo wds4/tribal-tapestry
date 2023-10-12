@@ -41,7 +41,7 @@ The question is not: do you believe this particularly idea, which is toxic. The 
 
 ## How to pass the test
 
-My observations are that there are two broad categories by which a virtuous member of a tribe internalizes the toxic elements of a virtue signal. 
+My observations are that there are two broad categories by which a virtuous member of a tribe internalizes the toxic elements of a virtue signal: *rationalization* and *studious ignorance*.
 
 The first broad category is what would be termed *rationalization*. The individual finds a reason to justify the toxic elements, making strategic use of one or more logical fallicies if necessary (which, generally speaking, they are due to the internal logical inconsistencies inhernet to the toxic elements). This process is not an easy one, cognitively speaking. It genuinely takes work. One must not only figure out which logical fallacies spport the virtue signal and the broader narrative; one must activley endorse these fallacies. This is often not easy to do with a straight face. In some cases, the virtuous individual may pretend to endorse the toxic elements; but frequently, perhaps usually, practice is to genuinely convince oneself that the fallacies are not fallacies, using whatever arguments one can grasp. (These arguments are often referred to derogatorily as [reasons], as in: you say X because of [reasons].) 
 

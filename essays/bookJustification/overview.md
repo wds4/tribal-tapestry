@@ -19,27 +19,37 @@ I claim that the CTTH is well formulated, novel, plausible, and useful.
 
 The CTTH is a series of hypotheses, listed below, each of which builds upon the ones before it.
 
-## social linguistic consensus
+## 1. social linguistic consensus (SLC)
 
 The organization of the brain is determined primarily by the need to address the problem of [social linguistic consensus](https://github.com/wds4/tribal-tapestry/blob/main/glossary/socialLinguisticConsensus.md).
 
-## knowledge in the cortex is organized topologically
+## 2. knowledge in the cortex is organized topologically
 
 Knowledge is broken down into small chunks, called nodes, and organized into a graph.
 
-## Principles of organization
+## 3. principles of organization
 
 Structure is imposed on the graph by principles of organization. The mandate to achieve social linguistic consensus dictates that these principles must be as simple and universal as possible.
 
 The first two principles of organization are the class thread principle and object principles.
 
-## Class thread principle
+## 3.1 Class thread principle
 
 Pieces of data are organized into sets using class threads.
 
-## Object principles
+## 3.2 class object principles
 
 Constraints are decomposed in a manner that maximizes horizontal integration of knowledge.
+
+## 4. Tribalism is antisocial linguistic consensus
+
+SLC aims to communicate with as many entities as possible. Tribalism aims to do the opposite: to break down into tribes. It demarcates the conversion of influence into power.
+
+## 4.1 Dual modes: objective mode and tribal mode
+
+## 4.2 Toxic 
+
+The tribal narrative of most (all?) tribes contains toxic threads that serve a purpose: to set the narrative apart from all others.
 
 # Utility
 

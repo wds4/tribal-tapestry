@@ -27,4 +27,28 @@ The organization of the brain is determined primarily by the need to address the
 
 Knowledge is broken down into small chunks, called nodes, and organized into a graph.
 
-## Structure is provided to the grpah 
+## Principles of organization
+
+Structure is imposed on the graph by principles of organization. The mandate to achieve social linguistic consensus dictates that these principles must be as simple and universal as possible.
+
+The first two principles of organization are the class thread principle and object principles.
+
+## Class thread principle
+
+Pieces of data are organized into sets using class threads.
+
+## Object principles
+
+Constraints are decomposed in a manner that maximizes horizontal integration of knowledge.
+
+# Utility
+
+At the individual level: to maximize meaning, belonging, and acceptance while minimizing the costs accociated with tribalism. 
+
+- to diagnose pathology internally, from within one's own tribe
+- to diagnose pathology in The Other's tribe and inform our decisions regarding how to respond
+
+
+
+
+

@@ -17,11 +17,14 @@ I claim that the CTTH is well formulated, novel, plausible, and useful.
 
 # Hypotheses
 
-The CTTH is a series of hypotheses, each of which builds upon the ones before it.
+The CTTH is a series of hypotheses, listed below, each of which builds upon the ones before it.
 
 ## social linguistic consensus
 
-The organization of the brain is determined primarily by the need to address the problem of social linguistic consensus.
+The organization of the brain is determined primarily by the need to address the problem of [social linguistic consensus](https://github.com/wds4/tribal-tapestry/blob/main/glossary/socialLinguisticConsensus.md).
 
-## knowledge representation
+## knowledge in the cortex is organized topologically
 
+Knowledge is broken down into small chunks, called nodes, and organized into a graph.
+
+## Structure is provided to the grpah 

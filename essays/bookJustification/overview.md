@@ -141,15 +141,17 @@ The brain defaults to the objective mode except in very special circumstances wh
 
 The tribal mode employs logical fallacy strategically to defend the tribal narrative fiction.
 
-## 11 Toxicity serves a purpose: tribal acceptance.
+## 11. Toxicity serves a purpose: tribal acceptance.
 
 The tribal narrative of most (all?) tribes contains toxic threads that serve a purpose: to set the narrative apart from all others.
 
-The mandate as set forth by [social linguistic consensus](https://github.com/wds4/tribal-tapestry/blob/main/glossary/socialLinguisticConsensus.md) aims to be as maximally inclusive as possible.  and is predicated on the notion that acceptance by the tribe is predicated upon exclusion of The Other.
+The mandate as set forth by [social linguistic consensus](https://github.com/wds4/tribal-tapestry/blob/main/glossary/socialLinguisticConsensus.md) aims to be as maximally inclusive as possible.
 
-The mandate of tribal consensus represents a reversal of SLC: it is based upon exclusion rather than inclusion. If SLC social linguistic consensus, tribalism is antisocial linguistic consensus.
+The mandate of tribal consensus (TC) represents a reversal of SLC: it is based upon exclusion rather than inclusion. It is predicated on the notion that acceptance by the tribe demands a renunciation of The Other.
 
-SLC aims to communicate with as many entities as possible. Tribalism aims to do the opposite: to break down into tribes. SLC facilitates influence; tribalism is the capitulation of influence in deference to power.
+SLC aims to communicate with as many entities as possible. Tribalism aims to do the opposite: to break down into tribes. SLC facilitates influence; tribalism is the triumph of power over influence.
+
+(On a side note: the purpose of my apps is to build influence via an implementation of SLC. It is in opposition to TC.)
 
 ## 12. The Enlightenment and postmodernism represent the rejection of the tribal mode and the objective mode, respectively.
 

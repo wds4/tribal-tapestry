@@ -68,9 +68,9 @@ Left: Definition of a class thread. It is defined by three edge types: path init
 
 Right: a concept is defined in terms of a class origin node: Given the set of all class threads that emanate from a single class origin node, a concept is defined as the set of all nodes and all edges that are traversed by those threads.
 
-Interpretations of path edges:
-- Path propagation edges (grey arrows) mean "Node B is a subset of Node A."
-- Path termination edges (red arrows) mean "Node B is a specific instance of the class origin node."
+What do the path edges *mean*?
+- Path propagation edges (grey arrows) mean "Node B is a subset of Node A," e.g. Sheep Dogs are a subset of Dogs.
+- Path termination edges (red arrows) mean "Node B is a specific instance of the class origin node," e.g. Rover is a specific instance of Dog.
 
 ## 5. Concepts are formatted according to constraint nodes.  
 

@@ -6,7 +6,12 @@ Before we can proceed with our celebrated Oprah Book Club selection and NYT Best
 
 # The Claim
 
-I claim that the CTTH is well formulated, novel, plausible, and useful.
+I claim that the CTTH is all of the following.
+
+- well formulated: a coherent theory that is substantive and falsifiable
+- novel
+- plausible
+- useful
 
 # Counterclaim
 

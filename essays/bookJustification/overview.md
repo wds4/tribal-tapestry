@@ -70,9 +70,35 @@ Right: a concept is defined in terms of a class origin node: Given the set of al
 
 ## 5. Concepts are formatted according to constraint nodes.  
 
+<span style="display:inline-block" >
+  <img
+    align="top"
+    width="45%"
+    src="../../images/aFormattedConcept.png"
+  />
+</span>
+  
 ## 6. Concepts are integrated vertically using the edges that make up class threads.
-
+  
 ## 7. Constraint nodes are decomposed into properties in a manner designed to maximize horizontal integration of the graph.
+
+<div>
+  <span style="display:inline-block" >
+    <img
+      align="top"
+      width="45%"
+      src="../../images/aPropertyTree.png"
+    />
+  </span>
+  
+  <span style="display:inline-block" >
+    <img
+      align="top"
+      width="45%"
+      src="../../images/aConceptGraph.png"
+    />
+  </span>
+</div>
 
 ## 8. The tapestry is normalized.
 
@@ -104,13 +130,13 @@ The mandate of tribal consensus represents a reversal of SLC: it is based upon e
 
 SLC aims to communicate with as many entities as possible. Tribalism aims to do the opposite: to break down into tribes. SLC facilitates influence; tribalism is the capitulation of influence in deference to power.
 
-## 4.2 Enlightenment versus postmodernism
+## 12. The Enlightenment and postmodernism represent the rejection of the tribal mode and the objective mode, respectively.
 
 Postmodernism represents the attempt to enshrine toxicity in the search for Truth. The triumph of the tribal mindset over the objective mindset. 
 
 Enlightenment represents the attempt to purge toxicity in the search for Truth. The triumph of the objective mindset over the tribal mindset.
 
-## 4.4 The CTTH is universally toxic
+## 13. The CTTH is universally toxic.
 
 I called this the Prime Directive, but you did not like this name and I can never remember what name we replaced it with.
 
@@ -118,12 +144,25 @@ The reason the cortical tapestry hypothesis remains undiscovered by the neurosci
 
 # Utility
 
-At the individual level: to maximize meaning, belonging, and acceptance while minimizing the costs accociated with tribalism. 
+## 1. At the individual level: to maximize meaning, belonging, and acceptance while minimizing the costs accociated with tribalism. 
 
 - to diagnose pathology internally, from within one's own tribe
 - to diagnose pathology in The Other's tribe and inform our decisions regarding how to respond
 
-May yield insights into the function of sleep. 
+## 2. May yield insights into normal brain function and brain pathology, including: 
+
+- the function of sleep (see above)
+- neurodegenerative dementia: why memory loss is retrograde
+- Denial, a form of self deception, does NOT necessarily imply childhood trauma. 
+
+## 3. Fun with philosophy.
+
+The reason paradox is deep is because toxicity in service to the tribe is the literal definition of virtue, according to the tribal mode.
+
+Question of the day: is tribal toxicity REALLY necessary? Could we resect it, like the spleen or appendix, and do fine without it? Maybe yes, but only in a world where conflicts were impossible?
+
+
+
 
 
 

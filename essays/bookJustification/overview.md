@@ -24,7 +24,7 @@ I claim that the CTTH is all of the following.
 
 The CTTH is a series of hypotheses, listed below, each of which builds upon the ones before it.
 
-## 1. The representation of knowledge in the brain is profoundly influenced by the problem of *social linguistic consensus* (SLC).
+## 1. The representation of knowledge in the brain is profoundly influenced by the mandate to facilitate *social linguistic consensus* (SLC).
 
 The organization of the brain is determined primarily by the need to address the problem of [social linguistic consensus](https://github.com/wds4/tribal-tapestry/blob/main/glossary/socialLinguisticConsensus.md). We need a universal language to get the ball rolling. That universal language is methematics. Specifically: graph theory (see below) and set theory (see below).
 
@@ -48,28 +48,23 @@ The first two principles of organization are the class thread principle and obje
 
 ## 5. Concepts are formatted according to constraint nodes.  
 
-Concept is defined in terms of a class origin node: Given the set of all class threads that emanate from a single class origin node, a concept is defined as the set of all nodes and all edges that are traversed by those threads.
+A concept is defined in terms of a class origin node: Given the set of all class threads that emanate from a single class origin node, a concept is defined as the set of all nodes and all edges that are traversed by those threads.
 
-## 6. Constraint nodes are decomposed into properties in a manner designed to maximize horizontal integration of the graph.
+## 6. Concepts are integrated vertically using the edges that make up class threads.
 
-## 7. The tapestry is normalized.
+## 7. Constraint nodes are decomposed into properties in a manner designed to maximize horizontal integration of the graph.
 
-Normalization means that every node is unique. The concept of normalization of a database is familiar to computer scientists and developers. Sometimes normalization is broken, and that happens in the CTTH, but there must always be a reason for breaking it. In the CTTH, normalization may be broken for data redundancy (so you don't forget something important). See *The Thousand Brains Hypothesis* -- a very interesting book.
+## 8. The tapestry is normalized.
 
-## 8. The topology of the tapestry is optimized to increase search efficiency.
+Normalization means that every node is unique. The concept of normalization of a database is familiar to computer scientists and database engineers. Sometimes normalization is broken, and that happens in the CTTH, but there must always be a reason for breaking it. In the CTTH, normalization is likely broken for data redundancy (so you don't forget something important when you bump your head and microinfarct a single cortical column). See *The Thousand Brains Hypothesis* -- a very interesting book. Other reasons to break normalization also exist: multiple versions of the same node facilitate the opportinuty to experiment with minor variations to a given concept.
 
-Organization of the graph lends itself well to the algorithmic search for analogies (similarity in graphical topology between disparate regions) and other processes that well merit the label: *thinking*. However, such searches will be computationally very expensive. Background processing to optimze the tapestry for such searches will be important.
+## 9. The topology of the tapestry is optimized to increase search efficiency.
 
+Organization of the graph lends itself well to the algorithmic search for similarity in graphical topology between disparate regions,a.k.a. *analogies*, as well as other processes that well merit the label: *thinking*. However, such searches will be computationally very expensive. Background processing to optimze the tapestry for such searches will be important, and could be an important role for nonREM sleep.
 
-## Information theory, sleep
+## 10. Basic human * cognition employs two distinct modes to arrive at truth: the objective mode and the tribal mode.
 
-Interaction of data between the two layers is likely to yield insights into brain function. This is what I mean when I say that this is an idea that no one has run with.
-
-## 4. Tribalism is antisocial linguistic consensus
-
-SLC aims to communicate with as many entities as possible. Tribalism aims to do the opposite: to break down into tribes. It demarcates the conversion of influence into power.
-
-## 4.1 Dual modes: objective mode and tribal mode
+* This probably applies to all social organisms.
 
 There are two modalities that our brains process information to arrive at what our brains consider to be "the truth."
 
@@ -79,15 +74,21 @@ The brain defaults to the objective mode except in very special circumstances wh
 
 The tribal mode employs logical fallacy strategically to defend the tribal narrative fiction.
 
+## 11 Toxicity serves a purpose: tribal acceptance.
+
+The tribal narrative of most (all?) tribes contains toxic threads that serve a purpose: to set the narrative apart from all others.
+
+The mandate as set forth by [social linguistic consensus](https://github.com/wds4/tribal-tapestry/blob/main/glossary/socialLinguisticConsensus.md) aims to be as maximally inclusive as possible.  and is predicated on the notion that acceptance by the tribe is predicated upon exclusion of The Other.
+
+The mandate of tribal consensus represents a reversal of SLC: it is based upon exclusion rather than inclusion. If SLC social linguistic consensus, tribalism is antisocial linguistic consensus.
+
+SLC aims to communicate with as many entities as possible. Tribalism aims to do the opposite: to break down into tribes. SLC facilitates influence; tribalism is the capitulation of influence in deference to power.
+
 ## 4.2 Enlightenment versus postmodernism
 
 Postmodernism represents the attempt to enshrine toxicity in the search for Truth. The triumph of the tribal mindset over the objective mindset. 
 
 Enlightenment represents the attempt to purge toxicity in the search for Truth. The triumph of the objective mindset over the tribal mindset.
-
-## 4.3 Toxicity serves a purpose
-
-The tribal narrative of most (all?) tribes contains toxic threads that serve a purpose: to set the narrative apart from all others.
 
 ## 4.4 The CTTH is universally toxic
 
@@ -102,7 +103,7 @@ At the individual level: to maximize meaning, belonging, and acceptance while mi
 - to diagnose pathology internally, from within one's own tribe
 - to diagnose pathology in The Other's tribe and inform our decisions regarding how to respond
 
-
+May yield insights into the function of sleep. 
 
 
 

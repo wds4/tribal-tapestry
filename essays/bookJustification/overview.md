@@ -2,7 +2,7 @@
 
 # Abstract 
 
-Before we can proceed with our celebrated Oprah Book Club selection and NYT Best Seller, *The Tribal Tapestry*, we must first come to an agreement as to 1) what the Cortical Tribal Tapestry Hypothesis actually states and 2) whether it is well formulated, novel, plausibly true, and useful. If it does not meet ALL of those requirements, it means we have nothing new to say and there is no sense writing the book – unless we want to be charlatans, repackaging tired old ideas in a new wrapper, which neither one of us wants to do. Whether or not we present the full hypothesis in all its glorious detail in the book is another matter. Some parts may be too dry and boring. But leaving it out of the book doesn't mean we don't need to discuss it first. Because there’s no way to decide which parts to include without first coming to agreement on the model itself. Below, I present the model as a series of hypotheses, each of which layer upon the ones before it.
+Before we (USS and WDS4) can proceed with our celebrated Oprah Book Club selection and NYT Best Seller, *The Tribal Tapestry*, we must first come to an agreement as to 1) what the Cortical Tribal Tapestry Hypothesis actually states and 2) whether it is well formulated, novel, plausibly true, and useful. If it does not meet ALL of those requirements, it means we have nothing new to say and there is no sense writing the book – unless we want to be charlatans, repackaging tired old ideas in a new wrapper, which neither one of us wants to do. Whether or not we present the full hypothesis in all its glorious detail in the book is another matter. Some parts may be too dry and boring. But leaving it out of the book doesn't mean we don't need to discuss it first. Because there’s no way to decide which parts to include without first coming to agreement on the model itself. Below, I present the model as a series of hypotheses, each of which layer upon the ones before it.
 
 # The Claim
 
@@ -39,6 +39,8 @@ There are important differences between information storage between these two me
 ## 3. There are a small handful of principles by which structure is imposed over the graph.
 
 Structure is imposed on the graph by *principles of organization*. The mandate to achieve social linguistic consensus dictates that these principles must be as simple and universal as possible.
+
+(btw this is the part where Oprah's audience falls asleep. So might not include it in the book. But this is a large part of what makes the CTTH substantive, which is why WE need to talk about it.)
 
 The first two principles of organization are the class thread principle and object principles.
 

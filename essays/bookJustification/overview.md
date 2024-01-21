@@ -9,7 +9,7 @@ Before we (USS and WDS4) can proceed with our celebrated Oprah Book Club selecti
 I claim that the CTTH is all of the following.
 
 - well formulated: a coherent theory that is substantive and falsifiable
-- novel
+- novel: none (with maybe a few pseudo-exceptions) of the 15 hypotheses below exist in the literature
 - plausible
 - useful
 

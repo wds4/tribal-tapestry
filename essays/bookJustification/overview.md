@@ -19,7 +19,7 @@ I claim that the CTTH is well formulated, novel, plausible, and useful.
 
 The CTTH is a series of hypotheses, listed below, each of which builds upon the ones before it.
 
-## 1. Organization of the brain is designed to solve the problem of social linguistic consensus (SLC).
+## 1. The representation of knowledge in the brain is profoundly influenced by the problem of *social linguistic consensus* (SLC).
 
 The organization of the brain is determined primarily by the need to address the problem of [social linguistic consensus](https://github.com/wds4/tribal-tapestry/blob/main/glossary/socialLinguisticConsensus.md). We need a universal language to get the ball rolling. That universal language is methematics. Specifically: graph theory (see below) and set theory (see below).
 

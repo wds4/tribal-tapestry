@@ -80,26 +80,19 @@ Right: a concept is defined in terms of a class origin node: Given the set of al
   
 ## 6. Concepts are integrated vertically using the edges that make up class threads.
 
-See Figure, below.
-- Dog Breed and Irish Setter are connected vertically by the *path termination* edge (red arrow).
-- Dog and Irish Setter are connected vertically by the *path propagation* edge (grey arrow).
+See Figure X, below.
 
 ## 7. Constraint nodes are decomposed into properties in a manner designed to facilitate and maximize horizontal integration of the graph.
 
-<span style="display:inline-block" >
-  <img
-    align="top"
-    width="45%"
-    src="../../images/aPropertyTree.png"
-  />
-</span>
-Fig. Decomposition of a constraint (purple square) into a tree of properties (orange diamonds).
-  
-See Fig. X. The "breed" property on the right is only allowed to have two values: Sheep Dog and Irish Setter, because those are the only two Dog Breeds that exist in the local database. We introduce a fourth edge type, the enumeration edge (blue arrow) to achieve horizontal integration of the concepts of Dog Breed and Dog.
-
-- Dog Breed and Dog are connected horizontally by the enumeration arror (blue arrow).
-
 <div>
+  <span style="display:inline-block" >
+    <img
+      align="top"
+      width="45%"
+      src="../../images/aPropertyTree.png"
+    />
+  </span>
+  
   <span style="display:inline-block" >
     <img
       align="top"
@@ -107,16 +100,20 @@ See Fig. X. The "breed" property on the right is only allowed to have two values
       src="../../images/enumeration.png"
     />
   </span>
-  
-  <span style="display:inline-block" >
-    <img
-      align="top"
-      width="45%"
-      src="../../images/aConceptGraph.png"
-    />
-  </span>
 </div>
+Fig A. Decomposition of a constraint (purple square) into a tree of properties (orange diamonds). The "breed" property on the right is only allowed to have two values: Sheep Dog and Irish Setter, because those are the only two Dog Breeds that exist in the local database. We introduce a fourth edge type, the enumeration edge (blue arrow) to achieve horizontal integration of the concepts of Dog Breed and Dog.
 
+<span style="display:inline-block" >
+  <img
+    width="100%"
+    src="../../images/aConceptGraph.png"
+  />
+</span>
+Fig. X.
+- Dog Breed and Irish Setter are connected vertically by the *path termination* edge (red arrow).
+- Dog and Irish Setter are connected vertically by the *path propagation* edge (grey arrow).
+- Dog Breed and Dog are connected horizontally by the enumeration arror (blue arrow).
+  
 ## 8. The tapestry is normalized.
 
 Normalization means that every node is unique. The concept of normalization of a database is familiar to computer scientists and database engineers. Sometimes normalization is broken, and that happens in the CTTH, but there must always be a reason for breaking it. In the CTTH, normalization is likely broken for data redundancy (so you don't forget something important when you bump your head and microinfarct a single cortical column). See *The Thousand Brains Hypothesis* -- a very interesting book. Other reasons to break normalization also exist: multiple versions of the same node facilitate the opportinuty to experiment with minor variations to a given concept.

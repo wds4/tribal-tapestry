@@ -29,7 +29,7 @@ Knowledge is broken down into small chunks, called nodes, and organized into a g
 
 The physical form and data format of individual nodes can be anything. The tapestry method places no restrictions. In the biological realm, nodes are patches of neurons: cortical columns, cortical minicolumns, nuclei, or other structures. In the digital realm, a node is a digital file: a data file, an image file, anything.
 
-Knowledge is represented in two layers: the *nodal layer* and the *topological layer*.
+Knowledge is represented in two layers: the *nodal layer* and the *topological layer*. The tapestry method is concerned with the principles of organization of the topological layer and the interaction of data between the two layers.
 
 ## 3. principles of organization
 

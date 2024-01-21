@@ -59,7 +59,7 @@ The first two principles of organization are the class thread principle and obje
     <img
       align="top"
       width="45%"
-      src="../../images/aConcept"
+      src="../../images/aConcept.png"
     />
   </span>
 </div>

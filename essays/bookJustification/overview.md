@@ -129,7 +129,19 @@ Normalization means that every node is unique. The concept of normalization of a
 
 Organization of the graph lends itself well to the algorithmic search for similarity in graphical topology between disparate regions,a.k.a. *analogies*, as well as other processes that well merit the label: *thinking*. However, such searches will be computationally very expensive. Background processing to optimze the tapestry for such searches will be important, and could be an important role for nonREM sleep.
 
-## 10. Basic human * cognition employs two distinct modes to arrive at what it considers "truth:" the objective mode and the tribal mode.
+## 10. Theory of mind: each tapestry must contain an internal representation (in the form of a concept) of other entities (other people).
+
+This is a necessary prerequisite for web of trust.
+
+## 11. Decentralized consensus is achieved using Web of Trust.
+
+See my [15 minute slide presentation at Nostrville, Nov 2023 in Nashville](https://open.spotify.com/episode/1SYE5ooZiHaswOsXR23STp), where I propose a two-stage roadmap to build web of trust in the digital realm, followed by my [Overview of Curated Lists](https://github.com/wds4/pretty-good/blob/main/appDescriptions/curatedLists/overview.md) where I present my proof of concept for stage 1 in the form of a desktop app. 
+
+The purpose of web of trust is to DISINTERMEDIATE THE POWERFUL by giving INFLUENCE to those who best deserve it. You ask the excellent question: who decides? The answer is that you decide, because YOU are always and evermore at the center of YOUR web of trust. 
+
+Web of trust gives INFLUENCE to those who ought to have it (and in a context-specific manner). Anyone who abuses said influence can and probably will lose it in a jiffy. This is what distinguishes INFLUENCE from POWER. 
+
+## 12. Basic human * cognition employs two distinct modes to arrive at what it considers "truth:" the objective mode and the tribal mode.
 
 * This probably applies to all social organisms.
 
@@ -141,7 +153,7 @@ The brain defaults to the objective mode except in very special circumstances wh
 
 The tribal mode employs logical fallacy strategically to defend the tribal narrative fiction.
 
-## 11. Toxicity serves a purpose: tribal acceptance.
+## 13. Toxicity serves a purpose: tribal acceptance.
 
 The tribal narrative of most (all?) tribes contains toxic threads that serve a purpose: to set the narrative apart from all others.
 
@@ -153,13 +165,13 @@ SLC aims to communicate with as many entities as possible. Tribalism aims to do 
 
 (On a side note: the purpose of my apps is to build influence via an implementation of SLC. It is in opposition to TC.)
 
-## 12. The Enlightenment and postmodernism represent the rejection of the tribal mode and the objective mode, respectively.
+## 14. The Enlightenment and postmodernism represent the rejection of the tribal mode and the objective mode, respectively.
 
 Postmodernism represents the attempt to enshrine toxicity in the search for Truth. The triumph of the tribal mindset over the objective mindset. 
 
 Enlightenment represents the attempt to purge toxicity in the search for Truth. The triumph of the objective mindset over the tribal mindset.
 
-## 13. The CTTH is universally toxic.
+## 15. The CTTH is universally toxic.
 
 I called this the Prime Directive, but you did not like this name and I can never remember what name we replaced it with.
 

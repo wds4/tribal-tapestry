@@ -22,7 +22,7 @@ I claim that the CTTH is all of the following.
 
 # Hypotheses
 
-The CTTH is a series of hypotheses, listed below, each of which builds upon the ones before it.
+The CTTH is a series of hypotheses, listed below, each of which builds upon the ones before it. The first one is the launching pad.
 
 ## 1. The representation of knowledge in the brain is profoundly influenced by the mandate to facilitate *social linguistic consensus* (SLC).
 

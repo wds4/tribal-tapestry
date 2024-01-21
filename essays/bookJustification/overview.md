@@ -44,11 +44,29 @@ Structure is imposed on the graph by *principles of organization*. The mandate t
 
 The first two principles of organization are the class thread principle and object principles.
 
-## 4. Nodes of the graph are organized into sets using class threads.
+## 4. Nodes of the graph are organized into sets and concepts using class threads.
 
-## 5. Concepts are formatted according to constraint nodes.  
+<div>
+  <span style="display:inline-block" >
+    <img
+      align="top"
+      width="45%"
+      src="../../images/classThreadEvolution.png"
+    />
+  </span>
+  
+  <span style="display:inline-block" >
+    <img
+      align="top"
+      width="45%"
+      src="../../images/aConcept"
+    />
+  </span>
+</div>
 
 A concept is defined in terms of a class origin node: Given the set of all class threads that emanate from a single class origin node, a concept is defined as the set of all nodes and all edges that are traversed by those threads.
+
+## 5. Concepts are formatted according to constraint nodes.  
 
 ## 6. Concepts are integrated vertically using the edges that make up class threads.
 

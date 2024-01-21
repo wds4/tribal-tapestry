@@ -68,9 +68,9 @@ Left: Definition of a class thread. It is defined by three edge types: path init
 
 Right: a concept is defined in terms of a class origin node: Given the set of all class threads that emanate from a single class origin node, a concept is defined as the set of all nodes and all edges that are traversed by those threads.
 
-What do the path edges *mean*?
-- Path propagation edges (grey arrows) mean "Node B is a subset of Node A," e.g. Sheep Dogs are a subset of Dogs.
-- Path termination edges (red arrows) mean "Node B is a specific instance of the class origin node," e.g. Rover is a specific instance of Dog.
+What do the path edges *mean*? We interpret:
+- Path propagation edges (grey arrows) mean "Node B is a subset of Node A," e.g. Sheep Dogs are a subset of Dogs. We can rename this edge type: *isASubsetOf*.
+- Path termination edges (red arrows) mean "Node B is a specific instance of the class origin node," e.g. Rover is a specific instance of Dog. We can rename this edge type: *isASpecificInstanceOf*.
 
 ## 5. Concepts are formatted according to constraint nodes.  
 
@@ -86,7 +86,7 @@ The purple square is a *constraint node*. It specifies formatting rules that mus
   
 ## 6. Concepts are integrated vertically using the class propagation edge and the class termination edge (2 of the 3 edges that go into the definition of class threads).
 
-See Figure X, below. The concept of Irish Setter is integrated vertically to the concept of Dog Breed (path termination edge, red arrow) and to the concept of Dog (path propagation edge, grey arrow).
+See Figure X, below. The concept of Irish Setter is integrated vertically to the concept of Dog Breed (path termination edge, red arrow) and to the concept of Dog (path propagation edge, grey arrow). Note that the *interpretations* of these two edge types (*isASubsetOf* and *isASpecificInstanceOf*, see above) remain intact.
 
 ## 7. Constraint nodes are decomposed into properties in a manner designed to facilitate and maximize horizontal integration of the graph.
 

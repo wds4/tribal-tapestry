@@ -48,7 +48,7 @@ The first two principles of organization are the class thread principle and obje
 
 ## 5. Concepts are formatted according to constraint nodes.  
 
-Concept is defined in terms of a class origin node: Given the set of all class threads that emanate from the class origin node, the concept is defined as the set of all nodes and all edges that are traversed by those threads.
+Concept is defined in terms of a class origin node: Given the set of all class threads that emanate from a single class origin node, a concept is defined as the set of all nodes and all edges that are traversed by those threads.
 
 ## 6. Constraint nodes are decomposed into properties in a manner designed to maximize horizontal integration of the graph.
 

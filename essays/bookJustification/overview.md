@@ -129,7 +129,7 @@ Normalization means that every node is unique. The concept of normalization of a
 
 Organization of the graph lends itself well to the algorithmic search for similarity in graphical topology between disparate regions,a.k.a. *analogies*, as well as other processes that well merit the label: *thinking*. However, such searches will be computationally very expensive. Background processing to optimze the tapestry for such searches will be important, and could be an important role for nonREM sleep.
 
-## 10. Basic human * cognition employs two distinct modes to arrive at truth: the objective mode and the tribal mode.
+## 10. Basic human * cognition employs two distinct modes to arrive at what it considers "truth:" the objective mode and the tribal mode.
 
 * This probably applies to all social organisms.
 

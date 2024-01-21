@@ -79,7 +79,11 @@ Right: a concept is defined in terms of a class origin node: Given the set of al
 </span>
   
 ## 6. Concepts are integrated vertically using the edges that make up class threads.
-  
+
+See Figure, below.
+- Dog Breed and Irish Setter are connected vertically by the *path termination* edge (red arrow).
+- Dog and Irish Setter are connected vertically by the *path propagation* edge (grey arrow).
+
 ## 7. Constraint nodes are decomposed into properties in a manner designed to facilitate and maximize horizontal integration of the graph.
 
 <div>

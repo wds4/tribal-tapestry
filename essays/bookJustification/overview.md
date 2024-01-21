@@ -27,9 +27,9 @@ The organization of the brain is determined primarily by the need to address the
 
 Knowledge is broken down into small chunks, called nodes, and organized into a graph. This is not exactly controversial or new. It's hard to imagine that this is NOT the case. 
 
-The physical form and data format of individual nodes can be anything. The tapestry method places no restrictions. In the biological realm, nodes are patches of neurons: cortical columns, cortical minicolumns, nuclei, or other structures. In the digital realm, a node is a digital file: a data file, an image file, anything.
+Knowledge is represented in two layers: the *nodal layer* and the *topological layer*. First and foremost, the tapestry method is concerned with the principles of organization of the topological layer. Conversely, the tapestry method places no restrictions on the physical form and data format of individual nodes. In the biological realm, nodes are patches of neurons: cortical columns, cortical minicolumns, nuclei, or other structures. In the digital realm, a node is a digital file: a data file, an image file, anything. 
 
-Knowledge is represented in two layers: the *nodal layer* and the *topological layer*. The tapestry method is concerned with the principles of organization of the topological layer and the interaction of data between the two layers.
+There are important differences between information storage between these two methods. The topological layer can store information more efficiently and lends itself to discovery of new relationships. However, information retrieval is much more efficient (faster) from the nodal layer. Much of the brain's "down time" is likely spent on 1) mining the graph for new relationships, the results of which can be stored in nodes, and 2) optimizations of graphical topology. 
 
 ## 3. principles of organization
 
@@ -45,15 +45,39 @@ Pieces of data are organized into sets using class threads.
 
 Constraints are decomposed in a manner that maximizes horizontal integration of knowledge.
 
+## Information theory, sleep
+
+Interaction of data between the two layers is likely to yield insights into brain function. This is what I mean when I say that this is an idea that no one has run with.
+
 ## 4. Tribalism is antisocial linguistic consensus
 
 SLC aims to communicate with as many entities as possible. Tribalism aims to do the opposite: to break down into tribes. It demarcates the conversion of influence into power.
 
 ## 4.1 Dual modes: objective mode and tribal mode
 
-## 4.2 Toxic 
+There are two modalities that our brains process information to arrive at what our brains consider to be "the truth."
+
+The objective mode is what we would call the scientific method.
+
+The brain defaults to the objective mode except in very special circumstances when the tribal mode kicks in. Basically when the tribal narrative fiction demands it.
+
+The tribal mode employs logical fallacy strategically to defend the tribal narrative fiction.
+
+## 4.2 Enlightenment versus postmodernism
+
+Postmodernism represents the attempt to enshrine toxicity in the search for Truth. The triumph of the tribal mindset over the objective mindset. 
+
+Enlightenment represents the attempt to purge toxicity in the search for Truth. The triumph of the objective mindset over the tribal mindset.
+
+## 4.3 Toxicity serves a purpose
 
 The tribal narrative of most (all?) tribes contains toxic threads that serve a purpose: to set the narrative apart from all others.
+
+## 4.4 The CTTH is universally toxic
+
+I called this the Prime Directive, but you did not like this name and I can never remember what name we replaced it with.
+
+The reason the cortical tapestry hypothesis remains undiscovered by the neuroscience community is that it is universally toxic. The cortical tapestry hypothesis exists firmly within everyone's cognitive blond spot, as evidenced by the difficulty of finding vocabulary even to state the hypothesis that is not immediately rejected as pejorative, insulting, etc. There is no non-pejorative terminology for: toxic, objective versus tribal mindset, narrative fiction. 
 
 # Utility
 

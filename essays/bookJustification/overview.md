@@ -36,7 +36,7 @@ Knowledge is represented in two layers: the *nodal layer* and the *topological l
 
 There are important differences between information storage between these two methods. The topological layer can store information more efficiently and lends itself to discovery of new relationships. However, information retrieval is much more efficient (faster) from the nodal layer. Much of the brain's "down time" is likely spent on 1) mining the graph for new relationships, the results of which can be stored in nodes, and 2) optimizations of graphical topology. 
 
-## 3. There are a small handful of principles by which structure is imposed over the graph.
+## 3. The principles by which structure is imposed over the graph must be as simple and universal as possible.
 
 Structure is imposed on the graph by *principles of organization*. The mandate to achieve social linguistic consensus dictates that these principles must be as simple and universal as possible.
 
@@ -44,13 +44,22 @@ Structure is imposed on the graph by *principles of organization*. The mandate t
 
 The first two principles of organization are the class thread principle and object principles.
 
-## 3.1 Class thread principle
+## 4. Nodes of the graph are organized into sets using class threads.
 
-Pieces of data are organized into sets using class threads.
+## 5. Concepts are formatted according to constraint nodes.  
 
-## 3.2 class object principles
+Concept is defined in terms of a class origin node: Given the set of all class threads that emanate from the class origin node, the concept is defined as the set of all nodes and all edges that are traversed by those threads.
 
-Constraints are decomposed in a manner that maximizes horizontal integration of knowledge.
+## 6. Constraint nodes are decomposed into properties in a manner designed to maximize horizontal integration of the graph.
+
+## 7. The tapestry is normalized.
+
+Normalization means that every node is unique. The concept of normalization of a database is familiar to computer scientists and developers. Sometimes normalization is broken, and that happens in the CTTH, but there must always be a reason for breaking it. In the CTTH, normalization may be broken for data redundancy (so you don't forget something important). See *The Thousand Brains Hypothesis* -- a very interesting book.
+
+## 8. The topology of the tapestry is optimized to increase search efficiency.
+
+Organization of the graph lends itself well to the algorithmic search for analogies (similarity in graphical topology between disparate regions) and other processes that well merit the label: *thinking*. However, such searches will be computationally very expensive. Background processing to optimze the tapestry for such searches will be important.
+
 
 ## Information theory, sleep
 

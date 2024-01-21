@@ -115,7 +115,7 @@ Fig A. Decomposition of a constraint (purple square) into a tree of properties (
     src="../../images/aConceptGraph.png"
   />
 </span>
-Fig. X.
+Fig. X. Vertical and horizontal integration of 3 concepts.
 
 - Dog Breed and Irish Setter are connected vertically by the *path termination* edge (red arrow).
 - Dog and Irish Setter are connected vertically by the *path propagation* edge (grey arrow).

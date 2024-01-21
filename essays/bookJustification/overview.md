@@ -36,7 +36,7 @@ Knowledge is represented in two layers: the *nodal layer* and the *topological l
 
 There are important differences between information storage between these two methods. The topological layer can store information more efficiently and is well suited as a means to search for patterns, discover new relationships, and generate hypotheses. However, information retrieval is much more efficient (faster) from the nodal layer. Much of the brain's "up time" is likely spent updating the graph with new information. Much of the brain's "down time" (sleep?) is likely spent on 1) the coputationally expensive process of mining the graph for data, the results of which can be stored in nodes, and 2) optimizations of graphical topology. I say this based on my experience applying the tapestry method in the digital realm.
 
-## 3. The principles by which structure is imposed over the graph must be as simple and universal as possible.
+## 3. To achieve SLC, the principles by which structure is imposed over the graph must be as simple and universal as possible.
 
 Structure is imposed on the graph by *principles of organization*. The mandate to achieve social linguistic consensus dictates that these principles must be as simple and universal as possible.
 

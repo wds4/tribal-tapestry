@@ -80,9 +80,9 @@ Right: a concept is defined in terms of a class origin node: Given the set of al
 
 The purple square is a *constraint node*. It specifies formatting rules that must be follwed by each instance of that concept (red circles). In the figure, each node represents a JSON file. The constraint node specifies that each instance must have two properties, name and breed, the values of which must be strings. The file for Spot follows this format, as expected.
   
-## 6. Concepts are naturally integrated vertically using class propagation edge and class termination path (2 of the 3 edges that go into the definition of class threads).
+## 6. Concepts are integrated vertically using the class propagation edge and the class termination edge (2 of the 3 edges that go into the definition of class threads).
 
-See Figure X, below. The concept of Irish Setter is integrated vertically to the concept of Dog Breed (red arrow) and to the concept of Dog (grey arrow).
+See Figure X, below. The concept of Irish Setter is integrated vertically to the concept of Dog Breed (path termination edge, red arrow) and to the concept of Dog (path propagation edge, grey arrow).
 
 ## 7. Constraint nodes are decomposed into properties in a manner designed to facilitate and maximize horizontal integration of the graph.
 

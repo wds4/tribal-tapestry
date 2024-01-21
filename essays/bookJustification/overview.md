@@ -80,7 +80,7 @@ Right: a concept is defined in terms of a class origin node: Given the set of al
   
 ## 6. Concepts are integrated vertically using the edges that make up class threads.
   
-## 7. Constraint nodes are decomposed into properties in a manner designed to maximize horizontal integration of the graph.
+## 7. Constraint nodes are decomposed into properties in a manner designed to facilitate and maximize horizontal integration of the graph.
 
 <div>
   <span style="display:inline-block" >

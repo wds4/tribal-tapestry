@@ -188,6 +188,30 @@ In the case of the CTTH, when the following words are used in the context of CTT
 - objective reality (any discussion of objective reality is patronizing)
 - the Prime Directive (huh?)
 
+# Novel
+
+The hypotheses of the CTTH is nowhere to be found within the neuroscience literature, for reasons outlined above (hypothesis 15). I challenge anyone to show me textbook, published papers, presentations, anything that articulates any of the above set of hypotheses in a substantive way. I would guess that linguists like Noam Chomsky would probably appreciated the problem of SLC, but I doubt they've ever even articulated hypothesis #1.
+
+## 1. memory formation
+
+Existing models of memory formation, e.g. models of long term potentiation, the role of the hippocampus, etc, do not equal the tapestry hypothesis. they don't conflict, but they are not the same.
+
+## 2. cortical columns
+
+Models of cortical columns do not equal the tapestry hypothesis. Indeed: models of cortical columns focus on the nodal layer, whereas the tapestry model is focused on the topological layer. In other words, the CTTH is a nice *complement* to much of the existing literature!
+
+## 3. functional connectivity
+
+Models of functional connectivity do not equal the tapestry method. In particular, the CTTH's *principles of organization* such as the class thread principle are absent from existing literature on functional connectivity. I suspect the CTTH will be *complementary* to existing models of functional connectivity.
+
+## 4. Sleep
+
+Existing models of the purpose of sleep are inadequate. Ex: We can detect that memory consolidation happens, but what exactly is it that is happening? The CTTH proposes rearrangements of the topological encoding. This level of detail is missing from current understanding. The CTTH begins to tell us where to look.
+
+I conjecture:
+- non REM sleep is for optimizations of the topology of the concept graph
+- REM sleep is for readjustements of web-of-trust parameters and influence scores
+
 # Utility
 
 If the CTTH is substantive, novel, and true, then surely it will follow that it is useful. It's a friggin' model of knowledge representation in the brain. How could that not be useful?
@@ -221,8 +245,41 @@ The reason paradox is deep is because toxicity in service to the tribe is the li
 
 Question of the day: is tribal toxicity REALLY necessary? Could we resect it, like the spleen or appendix, and do fine without it? Maybe yes, but only in a world where conflicts were impossible?
 
+# Definitions
 
+## 1. Toxicity
 
+toxicity: elements of the narrative (toxic threads) that are rejected by anyone who is not a member of the tribe.
 
+USUALLY this means: rejected by the objective mode due to false or unverifiable beliefs (wine turns into blood) or due to logical fallacies or inconsistencies.
+
+### type 1: claims that conflict with observation or are nonfalsifiable. Examples:
+
+- wine turns into blood
+- we are descendants of the sun god of the sun
+- god gave us this land
+- disease is punishment by god
+
+### type 2: logical fallacies, inconsistencies. Examples:
+
+- 2+2=5 (Orwell)
+- Altruism is a virtue, therefore we're going to kill you. (When Russia engineered the starvation of 3-7 million Ukranians in the 1930s, the justification was that they were property owners, which is bad because owning property is selfish.)
+- equivocation: using an ambiguously defined term and switching up the definition in the midst of a single line of reasoning, e.g. libertarian definition of individual rights 
+
+Obviously, any given tribal narrative can have a combination of type 1 and type 2 toxicities. In some cases, an entire narrative may shift over time from one extreme to the other. Nazis are considered the canonical right wing, but in their early days were socialist, focused on anti–big business, anti-bourgeois, and anti-capitalist rhetoric, with a shift in the focus on race coming later.
+
+## 2. Virtue signal 
+
+a virtue signal demonstrates allegiance to the tribe via purposeful antagonization of The Other.
+
+diagnostic criteria:
+- always exists in the context of a particular tribal narrative. Relevant parties: Tribal member, tribal enemy, disinterested third party.
+- purpose: to broadcast allegiance to the tribe via internalization of the narrative's most toxic elements
+- core of non-toxic threads
+- toxic overlay
+- core and overly are entangled, bound together in a package deal
+- disinterested third party attempts to disentangle the core from the overlay
+- virtue signaler resists any attempt to disentangle
+- differential response: unpalatable to an outsider
 
 

@@ -86,6 +86,20 @@ See Figure, below.
 
 ## 7. Constraint nodes are decomposed into properties in a manner designed to facilitate and maximize horizontal integration of the graph.
 
+We introduce a fourth edge type, the enumeration edge (Fig., below). 
+
+<span style="display:inline-block" >
+  <img
+    align="top"
+    width="45%"
+    src="../../images/enumeration.png"
+  />
+</span>
+
+Figure X. 
+
+- Dog Breed and Dog are connected horizontally by the enumeration arror (blue arrow).
+
 <div>
   <span style="display:inline-block" >
     <img

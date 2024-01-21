@@ -86,7 +86,7 @@ See Figure, below.
 
 ## 7. Constraint nodes are decomposed into properties in a manner designed to facilitate and maximize horizontal integration of the graph.
 
-We introduce a fourth edge type, the enumeration edge (Fig., below). 
+See Fig. X. The "breed" property on the right is only allowed to have two values: Sheep Dog and Irish Setter. We introduce a fourth edge type, the enumeration edge (blue arrow) to achieve horizontal integration of the concepts of Dog Breed and Dog.
 
 <span style="display:inline-block" >
   <img

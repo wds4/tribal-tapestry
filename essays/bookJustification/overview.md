@@ -93,7 +93,7 @@ See Figure, below.
     src="../../images/aPropertyTree.png"
   />
 </span>
-Fig. Decomposition of a constraint into a tree of properties.
+Fig. Decomposition of a constraint (purple square) into a tree of properties (orange diamonds).
   
 See Fig. X. The "breed" property on the right is only allowed to have two values: Sheep Dog and Irish Setter, because those are the only two Dog Breeds that exist in the local database. We introduce a fourth edge type, the enumeration edge (blue arrow) to achieve horizontal integration of the concepts of Dog Breed and Dog.
 

@@ -36,9 +36,9 @@ Knowledge is represented in two layers: the *nodal layer* and the *topological l
 
 There are important differences between information storage between these two methods. The topological layer can store information more efficiently and lends itself to discovery of new relationships. However, information retrieval is much more efficient (faster) from the nodal layer. Much of the brain's "down time" is likely spent on 1) mining the graph for new relationships, the results of which can be stored in nodes, and 2) optimizations of graphical topology. 
 
-## 3. principles of organization
+## 3. There are a small handful of principles by which structure is imposed over the graph.
 
-Structure is imposed on the graph by principles of organization. The mandate to achieve social linguistic consensus dictates that these principles must be as simple and universal as possible.
+Structure is imposed on the graph by *principles of organization*. The mandate to achieve social linguistic consensus dictates that these principles must be as simple and universal as possible.
 
 The first two principles of organization are the class thread principle and object principles.
 

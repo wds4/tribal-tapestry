@@ -1,8 +1,8 @@
-# The Cortical Tribal Tapestry Hypothesis
+# Tribal Tapestry Theory
 
-The CTTH is a series of hypotheses, listed below, each of which builds upon the ones before it.
+The Tribal Tapestry theory is a series of hypotheses, listed below, each of which builds upon the ones before it.
 
-## Tapestry Foundation
+## Foundation
 
 - "Let's all be friends."
 - inclusive

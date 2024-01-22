@@ -1,2 +1,14 @@
 The Tribal Tapesty
 =====
+
+*The Tribal Tapestry*: a celebrated NYT Bestseller and Oprah Book Club selection of 2025, by USS and WDS4
+-----
+
+I clam that the Tribal Tapestry Theory is well formulated, novel, plausibly true, and useful.
+
+In support of this claim:
+
+[List of hypotheses]()
+
+[Utility]()
+

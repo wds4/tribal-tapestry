@@ -1,8 +1,6 @@
 # The Cortical Tribal Tapestry Hypothesis
 
-# Hypotheses
-
-The CTTH is a series of hypotheses, listed below, each of which builds upon the ones before it. The first one is the launching pad.
+The CTTH is a series of hypotheses, listed below, each of which builds upon the ones before it.
 
 ## Tapestry Foundation
 

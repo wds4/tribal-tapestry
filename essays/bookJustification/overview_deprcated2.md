@@ -1,5 +1,7 @@
 # The Cortical Tribal Tapestry Hypothesis
 
+This file has been moved to hypotheses/README and will likely be delated
+
 The CTTH is a series of hypotheses, listed below, each of which builds upon the ones before it.
 
 ## Tapestry Foundation

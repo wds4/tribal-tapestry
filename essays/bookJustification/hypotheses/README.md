@@ -8,11 +8,14 @@ The Tribal Tapestry theory is a series of hypotheses, listed below, each of whic
 - inclusive
 - decentralized
 
-#### 1. [SLC Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/socialLinguisticConsensusHypothesis.md): The need for *social linguistic consensus* (SLC) shapes how knowledge is represented and curated in the brain.
+## 1. [SLC Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/socialLinguisticConsensusHypothesis.md)
+The need for *social linguistic consensus* (SLC) shapes how knowledge is represented and curated in the brain.
 
-#### 2. [Graph Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/graphHypothesis.md): Knowledge in the cortex is organized as a graph.
+## 2. [Graph Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/graphHypothesis.md)
+Knowledge in the cortex is organized as a graph.
 
-#### 3. [Principles of Organization Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/principlesOfOrganization.md): To achieve SLC, the principles by which structure is imposed over the graph must be as simple and universal as possible.
+## 3. [Principles of Organization Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/principlesOfOrganization.md)
+The SLC exerts pressure to make the *principles of organization* as simple and universal as possible.
 
 #### 4. [Class Threads Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/classThreadsHypothesis.md): Nodes of the graph are organized into sets and concepts using class threads.
 

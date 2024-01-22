@@ -47,7 +47,8 @@ Concepts are formatted according to constraint nodes.
 
 ## 14. [Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/.md): The Enlightenment and postmodernism represent the rejection of the tribal mode and the objective mode, respectively.
 
-## 15. [Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/.md): The CTTH is universally toxic.
+## 15. [Prime Directive Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/primeDirectiveHypothesis.md)
+Tribal Tapestry Theory is universally toxic.
 
 
 

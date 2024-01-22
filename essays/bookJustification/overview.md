@@ -24,9 +24,9 @@ I claim that the CTTH is all of the following.
 
 The CTTH is a series of hypotheses, listed below, each of which builds upon the ones before it. The first one is the launching pad.
 
-## 1. The representation of knowledge in the brain is profoundly influenced by the mandate to facilitate *social linguistic consensus* (SLC).
+### 1. The representation of knowledge in the brain is profoundly influenced by the mandate to facilitate *social linguistic consensus* (SLC).
 
-## 2. Knowledge in the cortex is organized as a graph.
+### 2. Knowledge in the cortex is organized as a graph.
 
 ## 3. To achieve SLC, the principles by which structure is imposed over the graph must be as simple and universal as possible.
 

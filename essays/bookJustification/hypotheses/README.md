@@ -17,9 +17,11 @@ Knowledge in the cortex is organized as a graph.
 ## 3. [Principles of Organization Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/principlesOfOrganization.md)
 The SLC exerts pressure to make the *principles of organization* as simple and universal as possible.
 
-#### 4. [Class Threads Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/classThreadsHypothesis.md): Nodes of the graph are organized into sets and concepts using class threads.
+## 4. [Class Threads Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/classThreadsHypothesis.md)
+Nodes of the graph are organized into sets and concepts using class threads.
 
-#### 5. [Constraints Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/constraints.md): Concepts are formatted according to constraint nodes.
+## 5. [Constraints Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/constraints.md)
+Concepts are formatted according to constraint nodes.
 
 #### 6. [Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/.md): Concepts are integrated vertically using the class propagation edge and the class termination edge (2 of the 3 edges that go into the definition of class threads).
 

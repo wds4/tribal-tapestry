@@ -11,11 +11,20 @@ The Tribal Tapestry theory is a series of hypotheses, listed below, each of whic
 ## 1. [SLC Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/socialLinguisticConsensusHypothesis.md)
 The need for *social linguistic consensus* (SLC) shapes how knowledge is represented and curated in the brain.
 
+## ? [Universality Hypothesis]()
+The SLC exerts evolutionary pressure for the fundamentals of language to be as universal as possible. Every commitment restricts the universe of entities with which to communicate.
+
 ## 2. [Graph Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/graphHypothesis.md)
 Knowledge in the cortex is organized as a graph.
 
+## ? [Node Flexibility Hypothesis]()
+The SLC exerts pressure to provide the nodes of the tapestry with as much flexibility as possibility in terms of physical structure and data format.
+
+## ? [Neuronal Hypothesis]()
+Nodes in the cortex are patches of neurons
+
 ## 3. [Principles of Organization Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/principlesOfOrganization.md)
-The SLC exerts pressure to make the *principles of organization* as simple and universal as possible.
+The SLC exerts pressure to make the *principles of organization* of the graph as simple and universal as possible.
 
 ## 4. [Class Threads Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/classThreadsHypothesis.md)
 Nodes of the graph are organized into sets and concepts using class threads.

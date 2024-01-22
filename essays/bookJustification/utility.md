@@ -3,7 +3,7 @@ Utility of the Tribal Tapestry Theory
 
 Our book will lay out vocabulary that will allow you to call out tribal toxicity when you see it. But be forewarned: the same vocabulary can be used against your own tribal toxicity! Are you up to the challenge?
 
-Much of our job will be to create the vocabulary to discuss these ideas, with the realization that the [Prime Directive]() will be forever at work, objecting to the vocabulary, undermining our very ability to have these thoughts. In some cases we will have to settle for vocabulary that some would deem offensive.
+Much of our job will be to create the vocabulary to discuss these ideas, with the realization that the [Prime Directive will be forever at work](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/primeDirectiveHypothesis.md), objecting to the vocabulary, undermining our very ability to have these thoughts. In some cases we will have to settle for vocabulary that some would deem offensive.
 
 =====
 

@@ -1,1 +1,0 @@
-social linguistic consensus

@@ -8,7 +8,7 @@ I clam that the Tribal Tapestry Theory is well formulated, novel, plausibly true
 
 In support of this claim:
 
-[List of hypotheses]()
+[List of hypotheses](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses.md)
 
-[Utility]()
+[Utility](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/utility.md)
 

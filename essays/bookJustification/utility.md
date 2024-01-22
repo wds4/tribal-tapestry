@@ -3,6 +3,8 @@ Utility of the Tribal Tapestry Theory
 
 Our book will lay out vocabulary that will allow you to call out tribal toxicity when you see it. But be forewarned: the same vocabulary can be used against your own tribal toxicity! Are you up to the challenge?
 
+Much of our job will be to create the vocabulary to discuss these ideas, with the realization that the [Prime Directive]() will be forever at work, objecting to the vocabulary, undermining our very ability to have these thoughts. In some cases we will have to settle for vocabulary that some would deem offensive.
+
 =====
 
 If the CTTH is substantive, novel, and true, then surely it will follow that it is useful. It's a friggin' model of knowledge representation in the brain. How could that not be useful?

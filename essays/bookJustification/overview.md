@@ -7,7 +7,7 @@ The CTTH is a series of hypotheses, listed below, each of which builds upon the 
 - "Let's all be friends."
 - inclusive
 
-### 1. [SLC Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/socialLinguisticConsensusHypothesis.md): The need for *social linguistic consensus* (SLC) determines how knowledge is represented in the brain.
+### 1. [SLC Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/socialLinguisticConsensusHypothesis.md): The need for *social linguistic consensus* (SLC) shapes how knowledge is represented and curated in the brain.
 
 ### 2. [Graph Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/graphHypothesis.md): Knowledge in the cortex is organized as a graph.
 

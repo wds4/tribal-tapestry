@@ -8,7 +8,7 @@ Concepts are formatted according to constraint nodes.
   <img
     align="top"
     width="45%"
-    src="../../images/aFormattedConcept.png"
+    src="../../../images/aFormattedConcept.png"
   />
 </span>
 

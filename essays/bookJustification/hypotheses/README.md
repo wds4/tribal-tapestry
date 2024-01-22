@@ -6,7 +6,7 @@ The Tribal Tapestry theory is a series of hypotheses, listed below, each of whic
 
 - "Let's all be friends."
 - inclusive
-- decentralized communities
+- decentralized
 
 #### 1. [SLC Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/socialLinguisticConsensusHypothesis.md): The need for *social linguistic consensus* (SLC) shapes how knowledge is represented and curated in the brain.
 
@@ -33,8 +33,8 @@ The Tribal Tapestry theory is a series of hypotheses, listed below, each of whic
 ## Tribal Tapestry 
 
 - "Oh shit, we have enemies."
-- exclusion
-- centralized tribes
+- exclusive: community identity based largely upon rejection of The Other
+- centralized
 
 ## 12. [Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/.md): Basic human * cognition employs two distinct modes to arrive at what it considers "truth:" the objective mode and the tribal mode.
 

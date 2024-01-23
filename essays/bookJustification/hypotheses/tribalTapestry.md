@@ -5,7 +5,7 @@ Tribal Tapestry
 
 # List of Hypotheses
 
-## 1. [The Human Condition Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/humanConditionHypothesis.md)
+## 1. [Oh Shit, We Have Enemies.](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/humanConditionHypothesis.md)
 The human condition -- the fact that we have enemies -- drives a new twist in how the brain operates.
 
 ## 2. [Exclusion is necessary.]()

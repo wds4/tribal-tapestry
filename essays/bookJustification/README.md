@@ -12,9 +12,9 @@ In support of the above claims:
 
 ## [List of the hypotheses of Tribal Tapestry Theory](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/README.md)
 
-### [Foundation of Tapestry Theory]()
+### [Foundation of Tapestry Theory](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/tapestryFoundation.md)
 
-### [The Tribal Tapestry]()
+### [The Tribal Tapestry](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/tribalTapestry.md)
 
 ## [Utility](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/utility.md)
 

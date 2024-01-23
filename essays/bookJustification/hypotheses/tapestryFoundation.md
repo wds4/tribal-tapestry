@@ -16,10 +16,7 @@ Knowledge in the cortex is organized as a graph.
 The SLC exerts pressure to provide the nodes of the tapestry with as much flexibility as possibility in terms of physical structure and data format.
 
 ## 5a. ? [In the biological realm, nodes are patches of neurons]()
-Nodes in the cortex are patches of neurons
-
-## 5b. ? [In the digital realm, nodes are files]()
-Nodes in the cortex are patches of neurons
+Nodes in the cortex are patches of neurons.
 
 ## 6. [Principles of Organization](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/principlesOfOrganization.md)
 The SLC exerts pressure to make the *principles of organization* of the graph as simple and universal as possible.

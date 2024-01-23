@@ -21,10 +21,10 @@ Nodes in the cortex are patches of neurons.
 ## 6. [Principles of Organization (PoA)](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/principlesOfOrganization.md)
 The SLC exerts pressure to make the *principles of organization* of the graph as simple and universal as possible.
 
-## 7. [PoA 1: Class Threads Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/classThreadsHypothesis.md)
+## 7. [PoA 1: Class Threads](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/classThreadsHypothesis.md)
 Nodes of the graph are organized into sets and concepts using class threads.
 
-## 8. [PoA 2: Constraints Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/constraints.md)
+## 8. [PoA 2: Data Format: Properties and Objects](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/constraints.md)
 Concepts are formatted according to constraint nodes.
 
 ## 9. ? [Information Integration]()

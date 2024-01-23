@@ -3,22 +3,25 @@ back to [main page](https://github.com/wds4/tribal-tapestry/blob/main/essays/boo
 Foundations of the Tapestry Theory: List of Hypotheses
 =====
 
-## 1. [SLC Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/socialLinguisticConsensusHypothesis.md)
+## 1. [Let's All Be Friends](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/socialLinguisticConsensusHypothesis.md)
 The need for human connection shapes the basic principles of cortical organization.
 
-## 2. ? [Universality Hypothesis]()
+## 2. ? [Math is the Universal Language]()
 The SLC exerts evolutionary pressure for the fundamentals of language to be as universal as possible. Every commitment restricts the universe of entities with which to communicate.
 
-## 3. [Graph Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/graphHypothesis.md)
+## 3. [Graphs](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/graphHypothesis.md)
 Knowledge in the cortex is organized as a graph.
 
-## 4. ? [Node Flexibility Hypothesis]()
+## 4. ? [Nodes can be Anything]()
 The SLC exerts pressure to provide the nodes of the tapestry with as much flexibility as possibility in terms of physical structure and data format.
 
-## 5. ? [Neuronal Hypothesis]()
+## 5a. ? [In the biological realm, nodes are patches of neurons]()
 Nodes in the cortex are patches of neurons
 
-## 6. [Principles of Organization Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/principlesOfOrganization.md)
+## 5b. ? [In the digital realm, nodes are files]()
+Nodes in the cortex are patches of neurons
+
+## 6. [Principles of Organization](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/principlesOfOrganization.md)
 The SLC exerts pressure to make the *principles of organization* of the graph as simple and universal as possible.
 
 ## 7. [Class Threads Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/classThreadsHypothesis.md)

@@ -59,6 +59,9 @@ Decentralized consensus is achieved using Web of Trust.
 - exclusive: community identity based largely upon rejection of The Other
 - centralized
 
+## [The Human Condition Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/humanConditionHypothesis.md)
+The human condition -- the fact that we can never all get along -- shapes how the brain curates information (shapes the WoT.
+
 ## 12. [Dual Mode Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/dualModeHypothesis.md)
 Basic human cognition employs two distinct modes to arrive at what it considers "truth:" the objective mode and the tribal mode.
 

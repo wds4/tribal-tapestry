@@ -35,9 +35,11 @@ Concepts are formatted according to constraint nodes.
 ## [Integration Hypothesis]()
 There is evolutionary pressure for the tapestry to be integrated as tightly and extensively as possible.
 
-#### 6. [Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/.md): Concepts are integrated vertically using the class propagation edge and the class termination edge (2 of the 3 edges that go into the definition of class threads).
+## 6. [Vertical Integraion Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/verticalIntegrationHypothesis.md)
+Concepts are integrated vertically using the class propagation edge and the class termination edge (2 of the 3 edges that go into the definition of class threads).
 
-#### 7. [Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/.md): Constraint nodes are decomposed into properties in a manner designed to facilitate and maximize horizontal integration of the graph.
+## 7. [Object Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/objectHypothesis.md)
+Constraint nodes are decomposed into properties in a manner designed to facilitate and maximize horizontal integration of the graph.
 
 #### 8. [Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/.md): The tapestry is normalized.
 

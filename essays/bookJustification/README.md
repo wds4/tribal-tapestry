@@ -15,14 +15,10 @@ In support of the above claims:
 ### [Foundation of Tapestry Theory](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/tapestryFoundation.md)
 
 - "Let's all be friends."
-- inclusive
-- decentralized
   
 ### [The Tribal Tapestry](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/tribalTapestry.md)
 
 - "Oh shit, we have enemies."
-- exclusive: community identity based largely upon rejection of The Other
-- centralized
   
 ## [Utility](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/utility.md)
 

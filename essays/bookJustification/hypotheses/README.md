@@ -9,13 +9,13 @@ The Tribal Tapestry theory is a series of hypotheses, listed below, each of whic
 - inclusive
 - decentralized
 
-## 1. [SLC Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/socialLinguisticConsensusHypothesis.md)
+## [SLC Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/socialLinguisticConsensusHypothesis.md)
 The need for *social linguistic consensus* (SLC) shapes how knowledge is represented and curated in the brain.
 
 ## ? [Universality Hypothesis]()
 The SLC exerts evolutionary pressure for the fundamentals of language to be as universal as possible. Every commitment restricts the universe of entities with which to communicate.
 
-## 2. [Graph Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/graphHypothesis.md)
+## [Graph Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/graphHypothesis.md)
 Knowledge in the cortex is organized as a graph.
 
 ## ? [Node Flexibility Hypothesis]()
@@ -24,34 +24,34 @@ The SLC exerts pressure to provide the nodes of the tapestry with as much flexib
 ## ? [Neuronal Hypothesis]()
 Nodes in the cortex are patches of neurons
 
-## 3. [Principles of Organization Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/principlesOfOrganization.md)
+## [Principles of Organization Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/principlesOfOrganization.md)
 The SLC exerts pressure to make the *principles of organization* of the graph as simple and universal as possible.
 
-## 4. [Class Threads Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/classThreadsHypothesis.md)
+## [Class Threads Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/classThreadsHypothesis.md)
 Nodes of the graph are organized into sets and concepts using class threads.
 
-## 5. [Constraints Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/constraints.md)
+## [Constraints Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/constraints.md)
 Concepts are formatted according to constraint nodes.
 
-## [Integration Hypothesis]()
+## ? [Integration Hypothesis]()
 There is evolutionary pressure for the tapestry to be integrated as tightly and extensively as possible.
 
-## 6. [Vertical Integraion Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/verticalIntegrationHypothesis.md)
+## [Vertical Integraion Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/verticalIntegrationHypothesis.md)
 Concepts are integrated vertically using the class propagation edge and the class termination edge (2 of the 3 edges that go into the definition of class threads).
 
-## 7. [Object Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/objectHypothesis.md)
+## [Object Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/objectHypothesis.md)
 Constraint nodes are decomposed into properties in a manner designed to facilitate and maximize horizontal integration of the graph.
 
-## 8. [Normalization Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/normalizationHypothesis.md)
+## [Normalization Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/normalizationHypothesis.md)
 The tapestry is normalized.
 
-## 9. [Optimization Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/optimizationHypothesis.md)
+## [Optimization Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/optimizationHypothesis.md)
 The topology of the tapestry is optimized to increase search efficiency.
 
-## 10. [Theory of Mind Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/theoryOfMindHypothesis.md)
+## [Theory of Mind Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/theoryOfMindHypothesis.md)
 Theory of mind: each tapestry must contain an internal representation (in the form of a concept) of other entities (other people).
 
-## 11. [Web of Trust Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/webOfTrustHypothesis.md)
+## [Web of Trust Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/webOfTrustHypothesis.md)
 Decentralized consensus is achieved using Web of Trust.
 
 # Tribal Tapestry 
@@ -63,16 +63,16 @@ Decentralized consensus is achieved using Web of Trust.
 ## [The Human Condition Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/humanConditionHypothesis.md)
 The human condition -- the fact that we can never all get along -- shapes how the brain curates information (shapes the WoT).
 
-## 12. [Dual Mode Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/dualModeHypothesis.md)
+## [Dual Mode Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/dualModeHypothesis.md)
 Basic human cognition employs two distinct modes to arrive at what it considers "truth:" the objective mode and the tribal mode.
 
-## 13. [The Function of Toxicity Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/functionOfToxicityHypothesis.md)
+## [The Function of Toxicity Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/functionOfToxicityHypothesis.md)
 Toxicity serves a purpose: tribal acceptance.
 
-## 14. [The Postmodernism Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/postmodernismHypothesis.md)
+## [The Postmodernism Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/postmodernismHypothesis.md)
 The Enlightenment and postmodernism represent the rejection of the tribal mode and the objective mode, respectively.
 
-## 15. [Prime Directive Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/primeDirectiveHypothesis.md)
+## [Prime Directive Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/primeDirectiveHypothesis.md)
 Tribal Tapestry Theory is universally toxic.
 
 

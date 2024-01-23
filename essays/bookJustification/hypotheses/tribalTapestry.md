@@ -24,7 +24,7 @@ Virtue Signals demonstrate proof of loyalty and weave toxic threads into the nar
 Basic human cognition employs two distinct modes to arrive at what it considers "truth:" the objective mode and the tribal mode.
 
 ## 5. [Da Vince versus Derrida](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/postmodernismHypothesis.md)
-The Enlightenment and postmodernism represent the rejection of the tribal mode and the objective mode, respectively.
+The Enlightenment and postmodernism represent the triumph of the objective mode and the tribal mode, respectively. But each approach suffers due to a failure to appreciate the purpose of the opposing cognitive mode.
 
 ## 6. [That Which Shall Not Be Named](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/primeDirectiveHypothesis.md)
 Tribal Tapestry Theory is universally toxic; the Prime Directive commands us to reject the very vocabulary required to discuss it.

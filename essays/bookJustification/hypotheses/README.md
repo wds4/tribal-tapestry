@@ -59,11 +59,14 @@ Decentralized consensus is achieved using Web of Trust.
 - exclusive: community identity based largely upon rejection of The Other
 - centralized
 
-## 12. [Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/.md): Basic human * cognition employs two distinct modes to arrive at what it considers "truth:" the objective mode and the tribal mode.
+## 12. [Dual Mode Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/dualModeHypothesis.md)
+Basic human cognition employs two distinct modes to arrive at what it considers "truth:" the objective mode and the tribal mode.
 
-## 13. [Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/.md): Toxicity serves a purpose: tribal acceptance.
+## 13. [The Function of Toxicity Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/functionOfToxicityHypothesis.md)
+Toxicity serves a purpose: tribal acceptance.
 
-## 14. [Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/.md): The Enlightenment and postmodernism represent the rejection of the tribal mode and the objective mode, respectively.
+## 14. [The Postmodernism Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/postmodernismHypothesis.md)
+The Enlightenment and postmodernism represent the rejection of the tribal mode and the objective mode, respectively.
 
 ## 15. [Prime Directive Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/primeDirectiveHypothesis.md)
 Tribal Tapestry Theory is universally toxic.

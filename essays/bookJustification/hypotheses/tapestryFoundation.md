@@ -5,10 +5,6 @@ Foundations of the Tapestry Theory
 
 # List of Hypotheses
 
-- "Let's all be friends."
-- inclusive
-- decentralized
-
 ## [SLC Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/socialLinguisticConsensusHypothesis.md)
 The need for human connection provides the basis for the fundamental organizing principle of how information is organized in the brain.
 

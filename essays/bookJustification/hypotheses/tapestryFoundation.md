@@ -1,9 +1,7 @@
 back to [main page](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/README.md)
 
-Foundations of the Tapestry Theory
+Foundations of the Tapestry Theory: List of Hypotheses
 =====
-
-# List of Hypotheses
 
 ## [SLC Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/socialLinguisticConsensusHypothesis.md)
 The need for human connection provides the basis for the fundamental organizing principle of how information is organized in the brain.

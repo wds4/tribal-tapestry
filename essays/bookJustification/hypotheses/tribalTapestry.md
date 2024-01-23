@@ -27,4 +27,4 @@ Basic human cognition employs two distinct modes to arrive at what it considers 
 The Enlightenment and postmodernism represent the rejection of the tribal mode and the objective mode, respectively.
 
 ## 6. [That Which Shall Not Be Named](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/primeDirectiveHypothesis.md)
-Tribal Tapestry Theory is universally toxic; the Prime Directive commands us to erase the vocabulary required to discuss it.
+Tribal Tapestry Theory is universally toxic; the Prime Directive commands us to reject the very vocabulary required to discuss it.

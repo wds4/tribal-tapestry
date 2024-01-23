@@ -8,7 +8,7 @@ Tribal Tapestry
 ## 1. [Oh Shit, We Have Enemies.](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/humanConditionHypothesis.md)
 The human condition -- the fact that we have enemies -- drives a new twist in how the brain operates.
 
-## 2. [Exclusion is necessary.]()
+## 2. [The Other.]()
 The formation of tribes requires rejection of The Other.
 
 ## 2. [The Tribal Narrative Fiction.]()

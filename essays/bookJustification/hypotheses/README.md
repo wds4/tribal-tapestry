@@ -67,7 +67,7 @@ The human condition -- the fact that we can never all get along -- shapes how th
 Basic human cognition employs two distinct modes to arrive at what it considers "truth:" the objective mode and the tribal mode.
 
 ## [The Function of Toxicity Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/functionOfToxicityHypothesis.md)
-Toxicity serves a purpose: tribal acceptance.
+Toxicity serves a purpose: proof of loyalty to the tribe.
 
 ## [The Postmodernism Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/postmodernismHypothesis.md)
 The Enlightenment and postmodernism represent the rejection of the tribal mode and the objective mode, respectively.

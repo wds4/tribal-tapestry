@@ -18,7 +18,7 @@ The SLC exerts pressure to provide the nodes of the tapestry with as much flexib
 ## 5. ? [In the biological realm, nodes are patches of neurons]()
 Nodes in the cortex are patches of neurons.
 
-## 6. [Principles of Organization (PoSA](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/principlesOfOrganization.md)
+## 6. [Principles of Organization (PoA)](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/principlesOfOrganization.md)
 The SLC exerts pressure to make the *principles of organization* of the graph as simple and universal as possible.
 
 ## 7. [PoA 1: Class Threads Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/classThreadsHypothesis.md)

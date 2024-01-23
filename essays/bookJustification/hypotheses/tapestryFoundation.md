@@ -30,7 +30,7 @@ Concepts are formatted according to constraint nodes.
 ## 9. ? [Information Integration]()
 There is evolutionary pressure for the tapestry to be integrated as tightly and extensively as possible.
 
-## 10. [Vertical Integraion Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/verticalIntegrationHypothesis.md)
+## 10. [Vertical Integration Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/verticalIntegrationHypothesis.md)
 Concepts are integrated vertically using the class propagation edge and the class termination edge (2 of the 3 edges that go into the definition of class threads).
 
 ## 11. [Object Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/objectHypothesis.md)

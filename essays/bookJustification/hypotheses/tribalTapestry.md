@@ -30,3 +30,4 @@ The Enlightenment and postmodernism represent the rejection of the tribal mode a
 Tribal Tapestry Theory is universally toxic; the Prime Directive commands us to reject the very vocabulary required to discuss it.
 
 ## 7. [Look at me: I am the Web of Trust Now]()
+Tribalism distorts the web of trust and replaces decentralized influence with centralized power.

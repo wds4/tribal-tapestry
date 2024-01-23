@@ -1,6 +1,6 @@
 back to [main page](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/README.md)
 
-Foundation of the Tapestry Theory
+Foundations of the Tapestry Theory
 =====
 
 # List of Hypotheses

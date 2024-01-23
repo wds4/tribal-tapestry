@@ -1,8 +1,9 @@
-# Tapestry Theory
+Tapestry Theory
+=====
 
 The Tribal Tapestry theory is a series of hypotheses, listed below, each of which builds upon the ones before it.
 
-## Foundation
+# The Foundation
 
 - "Let's all be friends."
 - inclusive
@@ -53,7 +54,7 @@ Theory of mind: each tapestry must contain an internal representation (in the fo
 ## 11. [Web of Trust Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/webOfTrustHypothesis.md)
 Decentralized consensus is achieved using Web of Trust.
 
-## Tribal Tapestry 
+# Tribal Tapestry 
 
 - "Oh shit, we have enemies."
 - exclusive: community identity based largely upon rejection of The Other

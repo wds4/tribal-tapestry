@@ -1,4 +1,4 @@
-# Tribal Tapestry Theory
+# Tapestry Theory
 
 The Tribal Tapestry theory is a series of hypotheses, listed below, each of which builds upon the ones before it.
 

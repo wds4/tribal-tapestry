@@ -1,8 +1,9 @@
+back to the [list of hypotheses](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/README.md)
+
 The Prime Directive Hypothesis
 =====
 
 Tribal Tapestry theory is universally toxic. Perhaps uniquely so!
-
 -----
 
 I used *the Prime Directive* to refer to the mandate that we must all believe that toxicity apples to The Other's tribe but NEVER to MY tribe, but you did not like this name and I can never remember what name we replaced it with! What was it??

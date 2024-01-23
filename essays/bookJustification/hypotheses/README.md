@@ -41,7 +41,8 @@ Concepts are integrated vertically using the class propagation edge and the clas
 ## 7. [Object Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/objectHypothesis.md)
 Constraint nodes are decomposed into properties in a manner designed to facilitate and maximize horizontal integration of the graph.
 
-#### 8. [Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/.md): The tapestry is normalized.
+## 8. [Normalization Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/normalization.md)
+The tapestry is normalized.
 
 #### 9. [Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/.md): The topology of the tapestry is optimized to increase search efficiency.
 

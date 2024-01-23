@@ -27,7 +27,7 @@ Nodes of the graph are organized into sets and concepts using class threads.
 ## 8. [PoA 2: Constraints Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/constraints.md)
 Concepts are formatted according to constraint nodes.
 
-## 9. ? [Integration Hypothesis]()
+## 9. ? [Information Integration]()
 There is evolutionary pressure for the tapestry to be integrated as tightly and extensively as possible.
 
 ## 10. [Vertical Integraion Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/verticalIntegrationHypothesis.md)

@@ -6,8 +6,8 @@ Foundations of the Tapestry Theory: List of Hypotheses
 ## 1. [Let's All Be Friends](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/socialLinguisticConsensusHypothesis.md)
 The need for human connection shapes the basic principles of cortical organization.
 
-## 2. ? [Inclusion is good]()
-The SLC exerts evolutionary pressure for the fundamentals of language to be as universal as possible. Every commitment restricts the universe of entities with which to communicate.
+## 2. ? [The Universal Language]()
+The SLC exerts evolutionary pressure for the fundamentals of language to be as inclusive and universal as possible. Every commitment restricts the universe of entities with which to communicate.
 
 ## 3. [It's Graphs, All the way Down](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/graphHypothesis.md)
 Knowledge in the cortex is organized as a graph.

@@ -3,10 +3,6 @@ back to [main page](https://github.com/wds4/tribal-tapestry/blob/main/essays/boo
 Tribal Tapestry
 =====
 
-- "Oh shit, we have enemies."
-- exclusive: community identity based largely upon rejection of The Other
-- centralized
-
 # List of Hypotheses
 
 ## 1. [The Human Condition Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/humanConditionHypothesis.md)

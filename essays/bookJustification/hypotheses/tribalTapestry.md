@@ -11,7 +11,7 @@ The human condition -- the fact that we have enemies -- drives a new twist in ho
 ## 2. [Exclusion is necessary.]()
 The formation of tribes requires rejection of The Other.
 
-## 3. [The Function of Toxicity Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/functionOfToxicityHypothesis.md)
+## 3. [Proof of Loyalty](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/functionOfToxicityHypothesis.md)
 Toxicity serves a purpose: proof of loyalty to the tribe.
 
 ## 4. [Dual Mode Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/dualModeHypothesis.md)

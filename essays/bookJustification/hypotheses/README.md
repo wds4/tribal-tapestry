@@ -47,9 +47,11 @@ The tapestry is normalized.
 ## 9. [Optimization Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/optimizationHypothesis.md)
 The topology of the tapestry is optimized to increase search efficiency.
 
-#### 10. [Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/.md): Theory of mind: each tapestry must contain an internal representation (in the form of a concept) of other entities (other people).
+## 10. [Theory of Mind Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/theoryOfMindHypothesis.md)
+Theory of mind: each tapestry must contain an internal representation (in the form of a concept) of other entities (other people).
 
-#### 11. [Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/.md): Decentralized consensus is achieved using Web of Trust.
+## 11. [Web of Trust Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/webOfTrustHypothesis.md)
+Decentralized consensus is achieved using Web of Trust.
 
 ## Tribal Tapestry 
 

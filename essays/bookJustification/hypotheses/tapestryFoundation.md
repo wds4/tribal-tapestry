@@ -9,10 +9,10 @@ The need for human connection shapes the basic principles of cortical organizati
 ## 2. ? [Inclusion is good]()
 The SLC exerts evolutionary pressure for the fundamentals of language to be as universal as possible. Every commitment restricts the universe of entities with which to communicate.
 
-## 3. [Graphs](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/graphHypothesis.md)
+## 3. [It's Graphs, All the way Down](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/graphHypothesis.md)
 Knowledge in the cortex is organized as a graph.
 
-## 4. ? [Nodes can be Anything]()
+## 4. ? [Free to be You and Me]()
 The SLC exerts pressure to provide the nodes of the tapestry with as much flexibility as possibility in terms of physical structure and data format.
 
 ## 5. ? [In the biological realm, nodes are patches of neurons]()

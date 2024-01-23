@@ -10,7 +10,7 @@ The Tribal Tapestry theory is a series of hypotheses, listed below, each of whic
 - decentralized
 
 ## [SLC Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/socialLinguisticConsensusHypothesis.md)
-The need for human connection provides the fundamental driving force behind how information is organized in the brain.
+The need for human connection provides the basis for the fundamental organizing principle of how information is organized in the brain.
 
 ## ? [Universality Hypothesis]()
 The SLC exerts evolutionary pressure for the fundamentals of language to be as universal as possible. Every commitment restricts the universe of entities with which to communicate.

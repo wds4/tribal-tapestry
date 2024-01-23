@@ -6,3 +6,4 @@ The Human Condition Hypothesis
 The human condition -- the fact that we can never all get along -- shapes how the brain curates information (shapes the WoT).
 -----
 
+Shift in focus from decentralized consensus to centralized consensus.

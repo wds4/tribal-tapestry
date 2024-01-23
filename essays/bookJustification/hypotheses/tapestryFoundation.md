@@ -24,7 +24,7 @@ The SLC exerts pressure to make the *principles of organization* of the graph as
 ## 7. [PoA 1: Class Threads](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/classThreadsHypothesis.md)
 Nodes of the graph are organized into sets and concepts using class threads.
 
-## 8. [PoA 2: Data Format: Properties and Objects](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/constraints.md)
+## 8. [PoA 2: Pattern Recognition](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/constraints.md)
 Concepts are formatted according to constraint nodes.
 
 ## 9. ? [Information Integration]()

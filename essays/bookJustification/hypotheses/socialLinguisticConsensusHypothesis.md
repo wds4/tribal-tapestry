@@ -1,3 +1,5 @@
+back to the [list of hypotheses](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/README.md)
+
 The Social Linguistic Consensus Hypothesis
 =====
 

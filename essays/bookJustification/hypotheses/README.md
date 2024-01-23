@@ -44,7 +44,8 @@ Constraint nodes are decomposed into properties in a manner designed to facilita
 ## 8. [Normalization Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/normalizationHypothesis.md)
 The tapestry is normalized.
 
-#### 9. [Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/.md): The topology of the tapestry is optimized to increase search efficiency.
+## 9. [Optimization Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/optimizationHypothesis.md)
+The topology of the tapestry is optimized to increase search efficiency.
 
 #### 10. [Hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/.md): Theory of mind: each tapestry must contain an internal representation (in the form of a concept) of other entities (other people).
 

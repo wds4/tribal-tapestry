@@ -12,6 +12,12 @@ The SLC exerts evolutionary pressure for the fundamentals of language to be as i
 ## 3. [It's Graphs, All the way Down](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/graphHypothesis.md)
 Knowledge in the cortex is organized as a graph.
 
+Could merge 1-3: 
+Mathematics is the schelling point to begin the decentralized representation of knowledge (decentralized language).
+Or: Decentralied linguistic consensus cannot begin without a schelling point. Math provides that schelling point.
+Progression beyond the starting point requires arbitrary decisions which cannot be made without a functioning web of trust.
+Language: arbitrary symbols on top of a universal starting point.
+
 ## 4. [Free to be You and Me](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/nodeFlexibilityHypothesis.md)
 The SLC exerts pressure to provide the nodes of the tapestry with as much flexibility as possibility in terms of physical structure and data format.
 

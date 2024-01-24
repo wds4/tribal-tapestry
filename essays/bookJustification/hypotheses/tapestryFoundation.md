@@ -45,11 +45,11 @@ The topology of the tapestry is optimized to increase search efficiency.
 ## 14. [Theory of Mind](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/theoryOfMindHypothesis.md)
 Theory of mind: each tapestry must contain an internal representation (in the form of a concept) of other entities (other people).
 
-## [Ambiguity]()
+## 15. [Ambiguity]()
 A high tolerance for ambiguity of meaning is one of the hallmarks of the tapestry method.
 
-## [Superposition of language and knowledge]()
+## 16. [Superposition of language and knowledge]()
 The layering of language and of knowledge is another of the hallmarks of the tapestry method.
 
-## 15. [Web of Trust](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/webOfTrustHypothesis.md)
+## 17. [Web of Trust](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/webOfTrustHypothesis.md)
 Decentralized consensus is achieved using Web of Trust.

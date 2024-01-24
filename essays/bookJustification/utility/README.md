@@ -3,6 +3,9 @@ back to [main table of contents](https://github.com/wds4/tribal-tapestry/blob/ma
 Part 2: Utility
 =====
 
+## [Deliver Us from Evil]()
+If we were less vulnerable to our enemies, we could afford to be less tribel.
+
 # Politics
 
 # Philosophy

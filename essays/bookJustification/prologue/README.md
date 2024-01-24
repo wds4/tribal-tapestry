@@ -9,5 +9,7 @@ What if you follow Ayn Rand, and like a good objectivist, you DO believe in obje
 
 We do not answer those questions. And we do not require you to commit to any one of those views over the others. This book is a theory about how the brain works. If we're living in a simulation, then this book is a book about how the brain works, in the simulation. Same goes for the dream of a butterfly.
 
+According to this theory of brain and behaviour, the brain craves mystery. Paradox. Self-decepion. Logical fallacies. Things that we refer to in this book as *toxicity*. No, not (necessarily) because of some forgotten childhood trauma. But evolution has it our default position, traumatized or not, to be that way. Because the human condition is that we have enemies. Which means we need allies. We need tribes. And toxicity is the glue that holds tribes together. No, not just *that* tribe. Yours too. All tribes.
+
 And in the end, we will be forced to admit upfront that toxicity does not mean objectively incorrect. YOUR narrative fiction might, in fact, be objectively correct! Our goal by the end of this book will be to put Da Vinci at your right hand, and Derrida at your left. Or something like that.
 

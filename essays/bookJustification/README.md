@@ -10,7 +10,7 @@ Step 2: Figure out how to communicate it to the Oprah audience.
 
 In support of the above claims:
 
-## Lists of the hypotheses of Tribal Tapestry Theory
+# The Way Things Are
 
 ### [Foundation of Tapestry Theory](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/tapestryFoundation.md)
 
@@ -19,6 +19,8 @@ In support of the above claims:
 ### [The Tribal Tapestry](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/tribalTapestry.md)
 
 - "Oh shit, we have enemies."
-  
+
+# The Way Things Ought to Be
+
 ## [Utility](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/utility.md)
 

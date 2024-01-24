@@ -11,7 +11,7 @@ The human condition -- the fact that we have enemies -- drives a new twist in ho
 ## 2. [The Other]()
 The formation of tribes requires rejection of The Other.
 
-## 3. [The Tribal Narrative Fiction.]()
+## 3. [The Tribal Narrative Fiction]()
 Tribes are defined by tribal narratives, and distinguished by the Narrative Fiction.
 
 ## 4. [Tribal Superposition]()

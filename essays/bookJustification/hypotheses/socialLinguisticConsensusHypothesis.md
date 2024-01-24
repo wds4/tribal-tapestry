@@ -1,4 +1,6 @@
-back to the [foundations of the tapestry table of contents](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/tapestryFoundation.md)
+back to the [foundations of tapestry theory table of contents](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/tapestryFoundation.md)
+
+### Essay title: *Let's All Be Friends*
 
 The Social Linguistic Consensus Hypothesis
 =====

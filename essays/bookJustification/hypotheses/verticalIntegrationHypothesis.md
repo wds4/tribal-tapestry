@@ -1,4 +1,4 @@
-back to the [list of hypotheses](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/README.md)
+back to the [foundations of tapestry theory table of contents](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/tapestryFoundation.md)
 
 Vertical Integration Hypothesis
 =====
@@ -12,7 +12,7 @@ See Figure 1, below. The concept of Irish Setter is integrated vertically to the
 <span style="display:inline-block" >
   <img
     width="100%"
-    src="../../images/aConceptGraph.png"
+    src="../../../images/aConceptGraph.png"
   />
 </span>
 Figure 1.

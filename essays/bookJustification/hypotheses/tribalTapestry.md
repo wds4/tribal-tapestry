@@ -14,6 +14,9 @@ The formation of tribes requires rejection of The Other.
 ## 3. [The Tribal Narrative Fiction.]()
 Tribes are defined by tribal narratives, and distinguished by the Narrative Fiction.
 
+## [Tribal Superposition]()
+Tribal narratives, and therefore tribes themselves, layer on top of one another in the same way that languages do.
+
 ## 4. [Proof of Loyalty]()
 Toxicity serves a purpose: proof of loyalty to the tribe.
 

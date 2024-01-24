@@ -5,4 +5,5 @@ back to the [foundations of tapestry theory table of contents](https://github.co
 Biological Nodes Are Neurons Hypothesis
 =====
 
-
+Nodes in the cortex are patches of neurons.
+-----

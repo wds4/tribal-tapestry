@@ -15,7 +15,7 @@ Knowledge in the cortex is organized as a graph.
 ## 4. [Free to be You and Me](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/nodeFlexibilityHypothesis.md)
 The SLC exerts pressure to provide the nodes of the tapestry with as much flexibility as possibility in terms of physical structure and data format.
 
-## 5. [In the biological realm, nodes are patches of neurons]()
+## 5. [In the biological realm, nodes are patches of neurons](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/biologicalNodesAreNeuronsHypothesis.md)
 Nodes in the cortex are patches of neurons.
 
 ## 6. [Principles of Organization (PoA)](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/principlesOfOrganization.md)

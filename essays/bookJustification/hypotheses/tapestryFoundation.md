@@ -36,7 +36,7 @@ Concepts are integrated vertically using the class propagation edge and the clas
 ## 11. [Horizontal Integration](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/objectHypothesis.md)
 Constraint nodes are decomposed into properties in a manner designed to facilitate and maximize horizontal integration of the graph.
 
-## 12. [The Nodal versus the Topological Data Layers]()
+## 12. [The Nodal versus the Topological Data Layers](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/dualDataLayersHypothesis.md)
 Information is stored in two layers: the nodal layer and the topological layer. Each layer has relative advantages and disadvantages over the other in terms of efficiency of data search, data processing, and information retrieval, the appreciation of which is crucial for development of the tribal narrative.
 
 ## 13. [Normalization](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/normalizationHypothesis.md)

@@ -6,14 +6,10 @@ Part 2: Utility
 ## [Deliver Us from Evil]()
 If we were less vulnerable to our enemies, we could afford to be less tribel.
 
-# Politics
-
-# Philosophy
-
 ## [Excape the Postmodernist Trap]()
 
-# The Decentralized Web
-Maybe this needs to be its own book.
+## [The Decentralized Web]()
+The Tapestry Model tells us how to decentralize information.
 
 # Brainstorm some chapter titles
 

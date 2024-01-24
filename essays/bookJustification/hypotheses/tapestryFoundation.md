@@ -43,7 +43,7 @@ Information is stored in two layers: the nodal layer and the topological layer. 
 The tapestry is normalized.
 
 ## 14. [Optimization](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/optimizationHypothesis.md)
-The topology of the tapestry is optimized to for search efficiency and other parameters. This probably occurs on a periodic basis and may be the primary function of sleep.
+The topology of the tapestry is optimized for search efficiency and other parameters. This probably occurs on a periodic basis and may be the primary function of sleep.
 
 ## 15. [Theory of Mind](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/theoryOfMindHypothesis.md)
 Theory of mind: each tapestry must contain an internal representation (in the form of a concept) of other entities (other people).

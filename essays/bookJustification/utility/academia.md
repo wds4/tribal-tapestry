@@ -1,4 +1,4 @@
-return to [utilities table of contents](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/utility/README.md)
+return to [utility table of contents](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/utility/README.md)
 
 The Cognitive Blind Spots of Academia
 =====

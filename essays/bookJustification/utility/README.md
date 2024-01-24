@@ -30,6 +30,8 @@ Learn how to navigate your next philosophy course.
 ## [Cognitive Blind Spots of Academia](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/utility/academia.md)
 *Brilliance is hitting a target no one else can hit. Genius is hitting a target no one else can see.* Learn to spot the cognitive blind spots thrust upon you by academia. Unravel one and get a Nobel Prize!
 
+## [Toxic threads: how to distinguish the benign versus malignant]()
+
 ## [The Decentralized Web]()
 The Tapestry Model tells us how to decentralize information.
 

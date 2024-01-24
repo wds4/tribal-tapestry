@@ -11,23 +11,26 @@ The human condition -- the fact that we have enemies -- drives a new twist in ho
 ## 2. [The Other]()
 The formation of tribes requires rejection of The Other.
 
-## 2. [The Tribal Narrative Fiction.]()
+## 3. [The Tribal Narrative Fiction.]()
 Tribes are defined by tribal narratives, and distinguished by the Narrative Fiction.
 
-## 3. [Proof of Loyalty]()
+## 4. [Proof of Loyalty]()
 Toxicity serves a purpose: proof of loyalty to the tribe.
 
-## 3. [Virtue Signals]()
+## 5. [Virtue Signals]()
 Virtue Signals demonstrate proof of loyalty and weave toxic threads into the narrative fiction.
 
-## 4. [There's Truth, and Then There's "Truth"](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/dualModeHypothesis.md)
+## 6. [There's Truth, and Then There's "Truth"](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/dualModeHypothesis.md)
 Basic human cognition employs two distinct modes to arrive at what it considers "truth:" the objective mode and the tribal mode.
 
-## 5. [Da Vince versus Derrida](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/postmodernismHypothesis.md)
+## 7. [Da Vince versus Derrida](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/postmodernismHypothesis.md)
 The Enlightenment and postmodernism represent the triumph of the objective mode and the tribal mode, respectively. But each approach suffers due to a failure to appreciate the purpose of the opposing cognitive mode.
 
-## 6. [That Which Shall Not Be Named](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/primeDirectiveHypothesis.md)
+## 8. [That Which Shall Not Be Named](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/primeDirectiveHypothesis.md)
 Tribal Tapestry Theory is universally toxic; the Prime Directive commands us to reject the very vocabulary required to discuss it.
 
-## 7. [Look at me: I am the Web of Trust Now]()
+## 9. [Look at me: I am the Web of Trust Now]()
 Tribalism distorts the web of trust and replaces decentralized influence with centralized power.
+
+## 10. [The Mystery of Majesty]()
+There is a spiritual need for mystery, paradox, and saviour that was left unfulfilled by the Enlightenment.

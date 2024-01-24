@@ -3,7 +3,7 @@ back to [main table of contents](https://github.com/wds4/tribal-tapestry/blob/ma
 Prologue: A Butterfly's Dream
 =====
 
-You are going to see a lot of talk about objective reality in this book. In these pages, you will witness Da Vinci and Derrida clash like knights of a medieval kingdom. You will wonder: what if I'm not sure that I believe in objective reality? What if agree with Elon Musk, that there is a good chance we are living in a simulation? What if I wonder whether we might be living in the dream of a butterfly? 
+You are going to see a lot of talk about *toxicity* and *objective reality* in this book. In these pages, you will witness the Champion of the Enlightenment, Da Vinci and the Champion of Postmodernism, Derrida, clash like knights of a medieval kingdom. You will wonder: what if I'm not sure that I believe in objective reality? What if agree with Elon Musk, that there is a good chance we are living in a simulation? What if I wonder whether we might be living in the dream of a butterfly? 
 
 What if you follow Ayn Rand, and like a good objectivist, you DO believe in objective reality? Of if you take a slighlty different view that the laws of physics are what the Bible means by the Word of God?
 

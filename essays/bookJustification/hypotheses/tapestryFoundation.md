@@ -15,6 +15,9 @@ Knowledge in the cortex is organized as a graph.
 Could merge 1-3: 
 Mathematics is the schelling point to begin the decentralized representation of knowledge (decentralized language).
 Or: Decentralied linguistic consensus cannot begin without a schelling point. Math provides that schelling point.
+
+Decentralized language requires two things: some sort of schelling point from which to start, and a WoT.
+
 Progression beyond the starting point requires arbitrary decisions which cannot be made without a functioning web of trust.
 Language requires consensus on the arbitrary symbols that a community uses to represent knowledge. But before consensus can be established, there must be two things: a starting point, springboard, schelling point from which to start; and a WoT. The Tapestry Foundation describes how that comes into place.
 

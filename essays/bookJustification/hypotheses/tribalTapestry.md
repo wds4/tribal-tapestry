@@ -23,7 +23,7 @@ Toxicity serves a purpose: proof of loyalty to the tribe.
 ## 6. [Virtue Signals]()
 Virtue Signals demonstrate proof of loyalty and weave toxic threads into the narrative fiction.
 
-## 7. [There's Truth, and Then There's "Truth"](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/dualModeHypothesis.md)
+## 7. [There's Truth, and Then There's "Truth," and Never the Twain Shall Meet](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/dualModeHypothesis.md)
 Basic human cognition employs two distinct modes to arrive at what it considers "truth:" the objective mode and the tribal mode.
 
 ## 8. [Da Vince versus Derrida](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/postmodernismHypothesis.md)

@@ -32,17 +32,20 @@ Ambiguity enables *equivocation*, which is the basic building block of most if n
 ## 9. [Proof of Work]()
 Tapestry theory allows us to appreciate the computational expense required to minimize the damage caused by toxic threads. The amount of work required by any given tribe can be seen to adjust up or down based upon factors that remain unknown.
 
-## 10. [Da Vince versus Derrida](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/postmodernismHypothesis.md)
+## 10. [Evolution of the Tribal Narrative]()
+Competition among the tribal elite can spur changes to the tribal narrative.
+
+## 11. [Da Vince versus Derrida](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/postmodernismHypothesis.md)
 The Enlightenment and postmodernism represent the triumph of the objective mode and the tribal mode, respectively. But each approach suffers due to a failure to appreciate the purpose of the opposing cognitive mode.
 
-## 11. [That Which Shall Not Be Named](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/primeDirectiveHypothesis.md)
+## 12. [That Which Shall Not Be Named](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/primeDirectiveHypothesis.md)
 Tribal Tapestry Theory is universally toxic; the Prime Directive commands us to reject the very vocabulary required to discuss it.
 
-## 12. [Look at me: I am the Web of Trust Now]()
+## 13. [Look at me: I am the Web of Trust Now]()
 Tribalism distorts the web of trust and replaces decentralized influence with centralized power.
 
-## 13. [The Mystery of Majesty]()
+## 14. [The Mystery of Majesty]()
 There is a spiritual need for mystery, paradox, and saviour that was left unfulfilled by the Enlightenment.
 
-## 14. [A New Way]()
+## 15. [A New Way]()
 Can we minimize the toxicity required to maintain tribal coherence? Can we create an Enlightenment Part 2, but in a way that does not leave spiritual needs unmet?

@@ -3,25 +3,41 @@ back to [main table of contents](https://github.com/wds4/tribal-tapestry/blob/ma
 Part 2: Utility
 =====
 
+## [Your words are your weapons]()
+In defiance of the Prime Directive, we will learn the language of Tapestry Theory so that we can call it out when we see it.
+
+## [Anatomy of a Virtue Signal]()
+Learn the diagnostic criteria of the Virtue Signal.
+
+## [How to spot misinformation]()
+Learn to spot when toxicity leads to misinformation.
+
+## [Navigate the Family]()
+Learn how to navigate toxic landmines all around you at the next family get together.
+
+## [How to spot a Virtue Signal from without]()
+Learn to spot the toxicity of The Other and put an end to political debates that go nowhere.
+
+## [How to spot a Virtue Signal from within]()
+Learn to acknowledge the toxicity from within your own tribe without suffering ostracism.
+
 ## [Deliver Us from Evil]()
 If we were less vulnerable to our enemies, we could afford to be less tribel.
 
-## [Excape the Postmodernist Trap]()
+## [Escape the Postmodernist Trap]()
+Learn how to navigate your next philosophy course.
+
+## [Toxicity and Academia]()
+*Brilliance is hitting a target no one else can hit. Genius is hitting a target no one else can see.* Learn to spot the cognitive blind spots thrust upon you by academia. Bust one and get a Nobel Prie!
 
 ## [The Decentralized Web]()
 The Tapestry Model tells us how to decentralize information.
 
-# Brainstorm some chapter titles
 
-## Anatomy of a Virtue Signal
 
-## Your words are your weapons
-In defiance of the Prime Directive, we will learn the language of Tapestry Theory so that we can call it out when we see it.
 
-## How to spot misinformation
 
-## How to spot a Virtue Signal from without
 
-## How to spot a Virtue Signal from within
+
 
 ## How to get Da Vince and Derrida to work together

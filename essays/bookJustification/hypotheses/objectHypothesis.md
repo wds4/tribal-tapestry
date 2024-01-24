@@ -1,4 +1,4 @@
-back to the [list of hypotheses](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/README.md)
+back to the [foundations of tapestry theory table of contents](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/tapestryFoundation.md)
 
 The Object Hypothesis
 =====
@@ -12,7 +12,7 @@ Constraint nodes are decomposed into properties in a manner designed to facilita
     <img
       align="top"
       width="45%"
-      src="../../images/aPropertyTree.png"
+      src="../../../images/aPropertyTree.png"
     />
   </span>
   
@@ -20,7 +20,7 @@ Constraint nodes are decomposed into properties in a manner designed to facilita
     <img
       align="top"
       width="45%"
-      src="../../images/enumeration.png"
+      src="../../../images/enumeration.png"
     />
   </span>
 </div>
@@ -29,7 +29,7 @@ Fig A. Decomposition of a constraint (purple square) into a tree of properties (
 <span style="display:inline-block" >
   <img
     width="100%"
-    src="../../images/aConceptGraph.png"
+    src="../../../images/aConceptGraph.png"
   />
 </span>
 Fig. X. Vertical and horizontal integration of 3 concepts.

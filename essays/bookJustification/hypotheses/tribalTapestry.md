@@ -21,7 +21,7 @@ Tribal narratives, and therefore tribes themselves, layer on top of one another 
 Toxicity serves a purpose: proof of loyalty to the tribe.
 
 ## 6. [Virtue Signals]()
-Virtue Signals demonstrate proof of loyalty and weave toxic threads into the narrative fiction.
+Virtue Signals demonstrate proof of loyalty and weave new toxic threads into the narrative fiction, resulting in evolution of the narrative fiction.
 
 ## 7. [There's Truth, and Then There's "Truth," and Never the Twain Shall Meet](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/dualModeHypothesis.md)
 Basic human cognition employs two distinct modes to arrive at what it considers "truth:" the objective mode and the tribal mode.

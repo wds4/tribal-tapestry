@@ -51,7 +51,7 @@ Theory of mind: each tapestry must contain an internal representation (in the fo
 ## 16. [Ambiguity](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/ambiguityHypothesis.md)
 A high tolerance for ambiguity of meaning is one of the hallmarks of the tapestry method.
 
-## 17. [Superposition of language and knowledge]()
+## 17. [Superposition of language and knowledge](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/superpositionOfLanguage.md)
 The layering of language and of knowledge is another of the hallmarks of the tapestry method.
 
 ## 18. [Web of Trust](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/webOfTrustHypothesis.md)

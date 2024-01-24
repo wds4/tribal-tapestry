@@ -1,6 +1,6 @@
 back to [main table of contents](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/README.md)
 
-Foundations of the Tapestry Theory: List of Hypotheses
+Foundations of Tapestry Theory: List of Hypotheses
 =====
 
 ## 1. [Let's All Be Friends](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/socialLinguisticConsensusHypothesis.md)

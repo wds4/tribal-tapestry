@@ -39,4 +39,4 @@ Tribalism distorts the web of trust and replaces decentralized influence with ce
 There is a spiritual need for mystery, paradox, and saviour that was left unfulfilled by the Enlightenment.
 
 ## 12. [A New Way]()
-Can we create an Enlightenment Part 2, but in a way that satisfies our spiritual needs?
+Can we create an Enlightenment Part 2, but in a way that does not leave spiritual needs unmet?

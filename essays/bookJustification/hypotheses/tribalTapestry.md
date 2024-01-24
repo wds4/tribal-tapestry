@@ -26,20 +26,23 @@ Virtue Signals demonstrate proof of loyalty and weave toxic threads into the nar
 ## 7. [There's Truth, and Then There's "Truth," and Never the Twain Shall Meet](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/dualModeHypothesis.md)
 Basic human cognition employs two distinct modes to arrive at what it considers "truth:" the objective mode and the tribal mode.
 
-## 8. [Proof of Work]()
+## 8. [Ambiguity and Equivocation]()
+Ambiguity enables *equivocation*, which is the basic building block of most if not all logical fallacies.
+
+## 9. [Proof of Work]()
 Tapestry theory allows us to appreciate the computational expense required to minimize the damage caused by toxic threads. The amount of work required by any given tribe can be seen to adjust up or down based upon factors that remain unknown.
 
-## 9. [Da Vince versus Derrida](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/postmodernismHypothesis.md)
+## 10. [Da Vince versus Derrida](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/postmodernismHypothesis.md)
 The Enlightenment and postmodernism represent the triumph of the objective mode and the tribal mode, respectively. But each approach suffers due to a failure to appreciate the purpose of the opposing cognitive mode.
 
-## 10. [That Which Shall Not Be Named](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/primeDirectiveHypothesis.md)
+## 11. [That Which Shall Not Be Named](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/primeDirectiveHypothesis.md)
 Tribal Tapestry Theory is universally toxic; the Prime Directive commands us to reject the very vocabulary required to discuss it.
 
-## 11. [Look at me: I am the Web of Trust Now]()
+## 12. [Look at me: I am the Web of Trust Now]()
 Tribalism distorts the web of trust and replaces decentralized influence with centralized power.
 
-## 12. [The Mystery of Majesty]()
+## 13. [The Mystery of Majesty]()
 There is a spiritual need for mystery, paradox, and saviour that was left unfulfilled by the Enlightenment.
 
-## 13. [A New Way]()
+## 14. [A New Way]()
 Can we minimize the toxicity required to maintain tribal coherence? Can we create an Enlightenment Part 2, but in a way that does not leave spiritual needs unmet?

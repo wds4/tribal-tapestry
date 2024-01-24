@@ -6,16 +6,16 @@ Foundations of Tapestry Theory: List of Hypotheses
 ## 1. [Let's All Be Friends](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/socialLinguisticConsensusHypothesis.md)
 The need for human connection shapes the basic principles of cortical organization.
 
-## 2. ? [The Universal Language]()
+## 2. [The Universal Language]()
 The SLC exerts evolutionary pressure for the fundamentals of language to be as inclusive and universal as possible. Every commitment restricts the universe of entities with which to communicate.
 
 ## 3. [It's Graphs, All the way Down](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/graphHypothesis.md)
 Knowledge in the cortex is organized as a graph.
 
-## 4. ? [Free to be You and Me]()
+## 4. [Free to be You and Me]()
 The SLC exerts pressure to provide the nodes of the tapestry with as much flexibility as possibility in terms of physical structure and data format.
 
-## 5. ? [In the biological realm, nodes are patches of neurons]()
+## 5. [In the biological realm, nodes are patches of neurons]()
 Nodes in the cortex are patches of neurons.
 
 ## 6. [Principles of Organization (PoA)](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/principlesOfOrganization.md)
@@ -27,7 +27,7 @@ Nodes of the graph are organized into sets and concepts using class threads.
 ## 8. [PoA 2: Pattern Recognition](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/constraints.md)
 Concepts are formatted according to constraint nodes.
 
-## 9. ? [Information Integration]()
+## 9. [Information Integration]()
 There is evolutionary pressure for the tapestry to be integrated as tightly and extensively as possible.
 
 ## 10. [Vertical Integration](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/verticalIntegrationHypothesis.md)

@@ -22,5 +22,5 @@ Step 2: Figure out how to communicate it to the Oprah audience.
 
 # Part 2: Utility
 
-## [[brainstorming chapters](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/utility/README.md)
+## [brainstorming chapters](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/utility/README.md)
 

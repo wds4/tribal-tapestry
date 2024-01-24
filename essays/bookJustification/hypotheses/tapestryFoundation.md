@@ -36,20 +36,23 @@ Concepts are integrated vertically using the class propagation edge and the clas
 ## 11. [Horizontal Integration](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/objectHypothesis.md)
 Constraint nodes are decomposed into properties in a manner designed to facilitate and maximize horizontal integration of the graph.
 
-## 12. [Normalization](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/normalizationHypothesis.md)
+## 12. [The Nodal versus the Topological Data Layers]()
+Information is stored in two layers: the nodal layer and the topological layer. Each layer has relative advantages and disadvantages over the other in terms of efficiency of data search, data processing, and information retrieval, the appreciation of which is crucial for development of the tribal narrative.
+
+## 13. [Normalization](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/normalizationHypothesis.md)
 The tapestry is normalized.
 
-## 13. [Optimization](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/optimizationHypothesis.md)
-The topology of the tapestry is optimized to increase search efficiency.
+## 14. [Optimization](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/optimizationHypothesis.md)
+The topology of the tapestry is optimized to increase search efficiency. This probably occurs on a periodic basis and may be the primary function of sleep.
 
-## 14. [Theory of Mind](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/theoryOfMindHypothesis.md)
+## 15. [Theory of Mind](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/theoryOfMindHypothesis.md)
 Theory of mind: each tapestry must contain an internal representation (in the form of a concept) of other entities (other people).
 
-## 15. [Ambiguity]()
+## 16. [Ambiguity]()
 A high tolerance for ambiguity of meaning is one of the hallmarks of the tapestry method.
 
-## 16. [Superposition of language and knowledge]()
+## 17. [Superposition of language and knowledge]()
 The layering of language and of knowledge is another of the hallmarks of the tapestry method.
 
-## 17. [Web of Trust](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/webOfTrustHypothesis.md)
+## 18. [Web of Trust](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/webOfTrustHypothesis.md)
 Decentralized consensus is achieved using Web of Trust.

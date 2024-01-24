@@ -8,7 +8,7 @@ Step 1: Decide for ourselves whether the Tribal Tapestry Theory is (or isn't) we
 
 Step 2: Figure out how to communicate it to the Oprah audience.
 
-# Prologue: [A Butterfly's Dream]()
+# Prologue: [A Butterfly's Dream](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/prologue/README.md)
 
 # Part 1: Theory
 

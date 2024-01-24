@@ -4,3 +4,6 @@ back to the [foundations of tapestry theory table of contents](https://github.co
 
 Node Flexibility Hypothesis
 =====
+
+The SLC exerts pressure to provide the nodes of the tapestry with as much flexibility as possibility in terms of physical structure and data format.
+-----

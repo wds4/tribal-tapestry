@@ -28,7 +28,7 @@ If we were less vulnerable to our enemies, we could afford to be less tribel.
 Learn how to navigate your next philosophy course.
 
 ## [Toxicity and Academia]()
-*Brilliance is hitting a target no one else can hit. Genius is hitting a target no one else can see.* Learn to spot the cognitive blind spots thrust upon you by academia. Bust one and get a Nobel Prie!
+*Brilliance is hitting a target no one else can hit. Genius is hitting a target no one else can see.* Learn to spot the cognitive blind spots thrust upon you by academia. Unravel one and get a Nobel Prize!
 
 ## [The Decentralized Web]()
 The Tapestry Model tells us how to decentralize information.

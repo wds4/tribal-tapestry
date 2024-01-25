@@ -12,7 +12,7 @@ The mathematics of set theory and graph theory provide the foundation from which
 ## 3. [Knowledge is represented using graphs](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/graphHypothesis.md)
 Knowledge is broken down into small chunks and organized into a graph.
 
-## 4. [Nodes can be any chunck of data](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/nodeFlexibilityHypothesis.md)
+## 4. [The nodes of the concept graph can be any chunk of data](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/nodeFlexibilityHypothesis.md)
 The need for decentralized linguistic consensus requires that the tapestry model should place no restrictions on the physical structure or data format of individual nodes in the graph.
 
 ## 5. [In the biological realm, nodes are patches of neurons](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/biologicalNodesAreNeuronsHypothesis.md)

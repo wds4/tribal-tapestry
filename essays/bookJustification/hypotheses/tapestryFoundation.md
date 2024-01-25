@@ -3,8 +3,8 @@ back to [main table of contents](https://github.com/wds4/tribal-tapestry/blob/ma
 The Foundations of Tapestry Theory
 =====
 
-## 1. [Let's All Be Friends](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/socialLinguisticConsensusHypothesis.md)
-The need for human connection shapes the basic principles of cortical organization.
+## 1. [Decentralized Linguistic Consensus](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/decentralizedLinguisticConsensusHypothesis.md)
+The need for decentralized linguistic consensus (DLC) determines the basic structure of knowledge representation.
 
 ## 2. [The Universal Language](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/schellingPointHypothesis.md)
 The SLC exerts evolutionary pressure for the fundamentals of language to be as inclusive and universal as possible. Every commitment restricts the universe of entities with which to communicate.

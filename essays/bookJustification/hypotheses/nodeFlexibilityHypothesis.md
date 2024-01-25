@@ -5,5 +5,5 @@ back to the [foundations of tapestry theory table of contents](https://github.co
 Node Flexibility
 =====
 
-To achieve decentralized linguistic consensus, the tapestry model places no restrictions on the physical structure or data format of individual nodes in the graph.
+The need for decentralized linguistic consensus requires that the tapestry model should place no restrictions on the physical structure or data format of individual nodes in the graph.
 -----

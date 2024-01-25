@@ -7,7 +7,7 @@ The Foundations of Tapestry Theory
 The need for decentralized linguistic consensus (DLC) determines the basic structure of knowledge representation.
 
 ## 2. [Math as the universal model for knowledge representation](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/schellingPointHypothesis.md)
-Mathematics of set theory and graph theory provide the universal starting set of assumptions about how knowledge is represented.
+The mathematics of set theory and graph theory provide the foundation from which language can be constructed.
 
 ## 3. [Knowledge is organized into Graphs](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/graphHypothesis.md)
 Knowledge in the cortex is organized as a graph.

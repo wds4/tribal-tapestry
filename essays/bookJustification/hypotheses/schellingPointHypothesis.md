@@ -2,7 +2,7 @@ back to the [foundations of tapestry theory table of contents](https://github.co
 
 ### Chapter Title: *The Universal Language*
 
-The Schelling Point Hypothesis
+Math as the universal model for knowledge representation
 =====
 
 The SLC exerts evolutionary pressure for the fundamentals of language to be as inclusive and universal as possible. Every commitment restricts the universe of entities with which to communicate.

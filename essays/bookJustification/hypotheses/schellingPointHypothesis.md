@@ -5,6 +5,8 @@ back to the [foundations of tapestry theory table of contents](https://github.co
 Math as the universal model for knowledge representation
 =====
 
-The SLC exerts evolutionary pressure for the fundamentals of language to be as inclusive and universal as possible. Every commitment restricts the universe of entities with which to communicate.
+Mathematics of set theory and graph theory provide the universal starting set of assumptions about how knowledge is represented.
 -----
+
+Mathematics of set theory and graph theory provide the universal starting set of assumptions about how knowledge is represented.
 

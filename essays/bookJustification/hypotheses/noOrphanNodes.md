@@ -3,5 +3,5 @@ back to the [foundations of tapestry theory table of contents](https://github.co
 No Orphan Nodes
 =====
 
-There are no orphan nodes:very node is the instance of at least once concept.
+There are no orphan nodes: every node is the instance of at least once concept.
 -----

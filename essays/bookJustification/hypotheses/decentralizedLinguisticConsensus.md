@@ -10,9 +10,7 @@ Language, whether biological or digital, is the symbolic representation of thoug
 
 We will use the phrase *decentralized linguistic consensus* to refer to consensus over our choices of symbolic representation that is achieved in the absence of centralized authorities or stewards. The challenge of the decentralized web is to build digital applications and platforms that allow users to achieve DLC over our digital tools of interaction, thus obviating the need for centralized stewardship of those tools.
 
-The basic starting point of tapestry theory is that DLC requires two prerequisites: a universal language and a method for WoT.
-- The universal language must be as simple as possible and devoid of arbitrary decision making. We argue that the only universal language to satisfy those conditions is mathematics. In particular: set theory and graph theory. 
-- There must be at least a rudimentary concept of WoT: the notion that arbitrary decisions will be influenced greatly by, if not completely absorbed from, those around us. In the sections that follow we develop both those ideas, starting with the math of set theory and graph theory as the starting point for knowledge representation.
+
 
 We will develop these ideas in the following sections.
 
@@ -22,6 +20,11 @@ back to the [foundations of tapestry theory table of contents](https://github.co
 Math as the universal model for knowledge representation
 =====
 
+The basic starting point of tapestry theory is that DLC requires two prerequisites: a universal language and a method for WoT.
+- The universal language must be as simple as possible and devoid of arbitrary decision making about what symbols mean what.
+- There must be at least a rudimentary concept of WoT: the notion that arbitrary decisions will be influenced greatly by, if not completely absorbed from, those around us.
+
+We argue that the only universal language to satisfy those conditions is mathematics. In particular: set theory and graph theory. 
 
 Progression beyond the starting point requires arbitrary decisions which cannot be made without a functioning web of trust. 
 

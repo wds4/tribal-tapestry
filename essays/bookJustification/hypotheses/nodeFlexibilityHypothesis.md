@@ -1,9 +1,9 @@
 back to the [foundations of tapestry theory table of contents](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/tapestryFoundation.md)
 
-### Essay Title: Free to be You and Me
+### Essay Title: No restrictions on the attributes of nodes
 
-Node Flexibility Hypothesis
+Node Flexibility
 =====
 
-The SLC exerts pressure to provide the nodes of the tapestry with as much flexibility as possibility in terms of physical structure and data format.
+To achieve decentralized linguistic consensus, the tapestry model places no restrictions on the physical structure or data format of individual nodes in the graph.
 -----

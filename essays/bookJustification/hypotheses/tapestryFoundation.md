@@ -4,7 +4,7 @@ The Foundations of Tapestry Theory
 =====
 
 ## 1. [Decentralized Linguistic Consensus](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/decentralizedLinguisticConsensus.md)
-The need for decentralized linguistic consensus (DLC) determines the basic structure of knowledge representation.
+The need for *decentralized linguistic consensus* drives the tapestry model and determines the basic structure of knowledge representation.
 
 ## 2. [Math as the universal model for knowledge representation](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/schellingPointHypothesis.md)
 The mathematics of set theory and graph theory provide the foundation from which language can be constructed.

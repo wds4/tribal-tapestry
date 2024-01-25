@@ -17,26 +17,29 @@ The tapestry model places no restrictions on the physical structure or data form
 - In the biological realm, a node is a patch of neurons.
 - In the digital realm, a node is an individual computer file.
 
-## 6. [Principles of Organization (PoA)](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/principlesOfOrganization.md)
+## 5. [Principles of Organization (PoA)](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/principlesOfOrganization.md)
 Disparate nodes of the tapestry are knit together (*integrated*) as tightly and extensively as possible via *principles of organization*, which should be as few and as simple as possible.
 
-## 7. [PoA 1: Class Threads](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/classThreadsHypothesis.md)
+## 6. [PoA 1: Class Threads](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/classThreadsHypothesis.md)
 Nodes of the tapestry are organized into sets and *concepts* using *class threads*.
 
-## 8. [PoA 2: Pattern Recognition](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/constraints.md)
+## 7. [PoA 2: Pattern Recognition](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/constraints.md)
 *Concepts* are formatted according to constraint nodes and provide a mechanism to filter new data.
 
-## 10. [Vertical Integration](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/verticalIntegrationHypothesis.md)
+## 8. [Vertical Integration](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/verticalIntegrationHypothesis.md)
 Concepts are integrated vertically using the class propagation edge and the class termination edge (2 of the 3 edges that go into the definition of class threads).
 
-## 11. [Horizontal Integration](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/objectHypothesis.md)
+## 9. [Horizontal Integration](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/objectHypothesis.md)
 Constraint nodes are decomposed into properties in a manner designed to facilitate and maximize horizontal integration of the graph.
 
-## 12. [The Nodal versus the Topological Data Layers](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/dualDataLayersHypothesis.md)
+## 10. [The Nodal versus the Topological Data Layers](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/dualDataLayersHypothesis.md)
 Information is stored in two layers: the nodal layer and the topological layer. Each layer has relative advantages and disadvantages over the other in terms of efficiency of data search, data processing, and information retrieval, the appreciation of which is crucial for development of the tribal narrative.
 
-## 13. [Normalization](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/normalizationHypothesis.md)
+## 11. [Normalization](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/normalizationHypothesis.md)
 The tapestry is normalized.
+
+## 13. [No orphan nodes](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/noOrphanNodes.md)
+Every node belongs to at least one concept.
 
 ## 14. [Optimization](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/optimizationHypothesis.md)
 The topology of the tapestry is optimized for search efficiency and other parameters. This probably occurs on a periodic basis and may be the primary function of sleep.

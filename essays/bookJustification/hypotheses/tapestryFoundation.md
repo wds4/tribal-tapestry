@@ -26,9 +26,6 @@ Nodes of the tapestry are organized into sets and *concepts* using *class thread
 ## 8. [PoA 2: Pattern Recognition](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/constraints.md)
 *Concepts* are formatted according to constraint nodes and provide a mechanism to filter new data.
 
-## 9. [Information Integration](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/integrationMaximizationHypothesis.md)
-Principles of organiation integrate disparate pieces of data in the tapestry as tightly and extensively as possible.
-
 ## 10. [Vertical Integration](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/verticalIntegrationHypothesis.md)
 Concepts are integrated vertically using the class propagation edge and the class termination edge (2 of the 3 edges that go into the definition of class threads).
 

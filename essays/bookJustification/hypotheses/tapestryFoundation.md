@@ -9,7 +9,7 @@ The purpose of tapestry theory is to provide a solution to the problem of *decen
 ## 2. [Math as the universal model for knowledge representation](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/schellingPointHypothesis.md)
 The mathematics of set theory and graph theory provide the foundation from which decentralized language can be constructed.
 
-## 3. [Knowledge is organized into Graphs](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/graphHypothesis.md)
+## 3. [Knowledge is represented using graphs](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/graphHypothesis.md)
 Knowledge is broken down into small chunks and organized into a graph.
 
 ## 4. [Nodes can be any chunck of data](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/nodeFlexibilityHypothesis.md)

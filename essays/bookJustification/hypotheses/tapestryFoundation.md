@@ -6,8 +6,8 @@ The Foundations of Tapestry Theory
 ## 1. [Decentralized Linguistic Consensus](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/decentralizedLinguisticConsensus.md)
 The need for decentralized linguistic consensus (DLC) determines the basic structure of knowledge representation.
 
-## 2. [The Universal Language](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/schellingPointHypothesis.md)
-The SLC exerts evolutionary pressure for the fundamentals of language to be as inclusive and universal as possible. Every commitment restricts the universe of entities with which to communicate.
+## 2. [Math as the universal model for knowledge representation](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/schellingPointHypothesis.md)
+Mathematics provides the 
 
 ## 3. [Knowledge is organized into Graphs](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/graphHypothesis.md)
 Knowledge in the cortex is organized as a graph.

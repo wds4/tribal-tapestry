@@ -3,7 +3,7 @@ back to the [foundations of tapestry theory table of contents](https://github.co
 Normalization Hypothesis
 =====
 
-The tapestry is normalized.
+The tapestry is normalized: no two nodes of the tapestry are identical.
 
 -----
 

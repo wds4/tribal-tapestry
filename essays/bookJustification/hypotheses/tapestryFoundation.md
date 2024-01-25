@@ -12,7 +12,7 @@ The mathematics of set theory and graph theory provide the foundation from which
 ## 3. [Knowledge is represented using a graph](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/graphHypothesis.md)
 Knowledge is broken down into small chunks, called *nodes*, which are connected by *edges*, thus forming a graph, a.k.a. the *tapestry*.
 
-## 4. [The nodes of the concept graph can be any chunk of data](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/nodeFlexibilityHypothesis.md)
+## 4. [The nodes of the tapestry can be any chunk of data](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/nodeFlexibilityHypothesis.md)
 The tapestry model places no restrictions on the physical structure or data format of individual nodes in the graph.
 - In the biological realm, a node is a patch of neurons.
 - In the digital realm, a node is an individual computer file.

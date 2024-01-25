@@ -18,7 +18,7 @@ The tapestry model places no restrictions on the physical structure or data form
 - In the digital realm, a node is an individual computer file.
 
 ## 6. [Principles of Organization (PoA)](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/principlesOfOrganization.md)
-Structure is applied to the tapestry via *principles of organization* which should be as few and as simple as possible.
+Disparate nodes of the tapestry are knit together (*integrated*) as tightly and extensively as possible via *principles of organization*, which should be as few and as simple as possible.
 
 ## 7. [PoA 1: Class Threads](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/classThreadsHypothesis.md)
 Nodes of the tapestry are organized into sets and *concepts* using *class threads*.

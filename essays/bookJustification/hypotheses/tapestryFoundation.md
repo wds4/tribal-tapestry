@@ -15,8 +15,10 @@ Knowledge is broken down into small chunks, called *nodes*, which are connected 
 ## 4. [The nodes of the concept graph can be any chunk of data](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/nodeFlexibilityHypothesis.md)
 The tapestry model places no restrictions on the physical structure or data format of individual nodes in the graph.
 
+<div style='border:50px'>
 ## 5. [In the biological realm, nodes are patches of neurons](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/biologicalNodesAreNeuronsHypothesis.md)
 Nodes in the cortex are patches of neurons.
+</div>
 
 ## 6. [Principles of Organization (PoA)](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/principlesOfOrganization.md)
 The SLC exerts pressure to make the *principles of organization* of the graph as simple and universal as possible.

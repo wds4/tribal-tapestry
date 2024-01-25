@@ -10,6 +10,8 @@ Language, whether biological or digital, is the symbolic representation of thoug
 
 We will use the phrase *decentralized linguistic consensus* to refer to consensus over our choices of symbolic representation that is achieved in the absence of centralized authorities or stewards. The challenge of the decentralized web is to build digital applications and platforms that allow users to achieve DLC over our digital tools of interaction, thus obviating the need for centralized stewardship of those tools.
 
-The basic starting point of tapestry theory is that DLC requires two prerequisites: a common starting point in the form of a *universal* language and a method for web of trust. In the next section, we argue that mathematics provides the basis for that universal language.
+The basic starting point of tapestry theory is that DLC requires two prerequisites: a common starting point in the form of a *universal* language and a method for web of trust. It is only after these two prerequisites have been met that arbitrary choices required in the construction of complex language can be made.
+
+In the next section, we argue that mathematics provides the basis for that universal language.
 
 

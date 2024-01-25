@@ -27,7 +27,7 @@ Nodes of the tapestry are organized into sets and *concepts* using *class thread
 *Concepts* are formatted according to constraint nodes and provide a mechanism to filter new data.
 
 ## 9. [Information Integration](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/integrationMaximizationHypothesis.md)
-There is evolutionary pressure for the tapestry to be integrated as tightly and extensively as possible.
+Principles of organiation integrate disparate pieces of data in the tapestry as tightly and extensively as possible.
 
 ## 10. [Vertical Integration](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/verticalIntegrationHypothesis.md)
 Concepts are integrated vertically using the class propagation edge and the class termination edge (2 of the 3 edges that go into the definition of class threads).

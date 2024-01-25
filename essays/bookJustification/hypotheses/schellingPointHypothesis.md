@@ -8,7 +8,7 @@ Math as the universal model for knowledge representation
 The mathematics of set theory and graph theory provide the foundation from which language can be constructed.
 -----
 
-The basic starting point of tapestry theory is that decentralized linguistic consensus requires two prerequisites: 1) a universal model for knowledge representation and 2) web of trust.
+In the previous section we argued that decentralized linguistic consensus requires two prerequisites: 1) a universal model for knowledge representation and 2) at least a rudimentary web of trust.
 - The universal model must be as simple as possible and devoid of arbitrary decision making about what symbols mean what.
 - There must be at least a rudimentary concept of web of trust: the notion that arbitrary decisions will be influenced greatly by, if not completely absorbed from, those around us.
 

@@ -36,10 +36,10 @@ Constraint nodes are decomposed into properties in a manner designed to facilita
 Information is stored in two layers: the nodal layer and the topological layer. Each layer has relative advantages and disadvantages over the other in terms of efficiency of data search, data processing, and information retrieval, the appreciation of which is crucial for development of the tribal narrative.
 
 ## 11. [Normalization](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/normalizationHypothesis.md)
-The tapestry is normalized.
+The tapestry is normalized: no two nodes of the tapestry are identical.
 
 ## 13. [No orphan nodes](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/noOrphanNodes.md)
-Every node belongs to at least one concept.
+Every node belongs to (is an instance of) at least one concept.
 
 ## 14. [Optimization](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/optimizationHypothesis.md)
 The topology of the tapestry is optimized for search efficiency and other parameters. This probably occurs on a periodic basis and may be the primary function of sleep.

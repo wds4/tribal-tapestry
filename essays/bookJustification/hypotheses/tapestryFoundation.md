@@ -10,7 +10,7 @@ The purpose of tapestry theory is to provide a solution to the problem of *decen
 The mathematics of set theory and graph theory provide the foundation from which decentralized language can be constructed.
 
 ## 3. [Knowledge is represented using a graph](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/graphHypothesis.md)
-Knowledge is broken down into small chunks, called *nodes*, which are connected by *edges*, thus forming a graph.
+Knowledge is broken down into small chunks, called *nodes*, which are connected by *edges*, thus forming a graph, a.k.a. the *tapestry*.
 
 ## 4. [The nodes of the concept graph can be any chunk of data](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/nodeFlexibilityHypothesis.md)
 The need for decentralized linguistic consensus requires that the tapestry model should place no restrictions on the physical structure or data format of individual nodes in the graph.

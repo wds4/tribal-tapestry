@@ -45,7 +45,7 @@ Every node belongs to (is an instance of) at least one concept.
 The topology of the tapestry is optimized for search efficiency and other parameters. This probably occurs on a periodic basis and may be the primary function of sleep.
 
 ## 15. [Theory of Mind](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/theoryOfMindHypothesis.md)
-Theory of mind: each tapestry must contain an internal representation (in the form of a concept) of other entities (other people).
+Theory of mind: each tapestry must contain an internal representation of other entities.
 
 ## 16. [Ambiguity](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/ambiguityHypothesis.md)
 A high tolerance for ambiguity of meaning is one of the hallmarks of the tapestry method.

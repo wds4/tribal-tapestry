@@ -18,13 +18,13 @@ The tapestry model places no restrictions on the physical structure or data form
 - In the digital realm, a node is an individual computer file.
 
 ## 6. [Principles of Organization (PoA)](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/principlesOfOrganization.md)
-The SLC exerts pressure to make the *principles of organization* of the graph as simple and universal as possible.
+Structure is applied to the tapestry via *principles of organization* which should be as few and as simple as possible.
 
 ## 7. [PoA 1: Class Threads](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/classThreadsHypothesis.md)
-Nodes of the graph are organized into sets and concepts using class threads.
+Nodes of the tapestry are organized into sets and *concepts* using *class threads*.
 
 ## 8. [PoA 2: Pattern Recognition](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/constraints.md)
-Concepts are formatted according to constraint nodes.
+*Concepts* are formatted according to constraint nodes and provide a mechanism to filter new data.
 
 ## 9. [Information Integration](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/integrationMaximizationHypothesis.md)
 There is evolutionary pressure for the tapestry to be integrated as tightly and extensively as possible.

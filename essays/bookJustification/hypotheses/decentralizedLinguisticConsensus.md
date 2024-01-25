@@ -12,7 +12,7 @@ We will use the phrase *decentralized linguistic consensus* to refer to consensu
 
 The basic starting point of tapestry theory is that DLC requires two prerequisites: a universal language and a method for WoT. The universal language must be as simple as possible and devoid of arbitrary decision making. We argue that the only universal language to satisfy those conditions is mathematics. In particular: set theory and graph theory. 
 
-That, and at least a rudimentary concept of WoT: the notion that arbitrary decisions will be influenced greatly by, if not completely absorbed from, those around us. In the secitons that follow we develop both those ideas, starting with the math of set theory and graph theory as the starting point for knowledge representation.
+That, and at least a rudimentary concept of WoT: the notion that arbitrary decisions will be influenced greatly by, if not completely absorbed from, those around us. In the sections that follow we develop both those ideas, starting with the math of set theory and graph theory as the starting point for knowledge representation.
 
 We will develop these ideas in the following sections.
 
@@ -22,12 +22,6 @@ Math as the universal model for knowledge representation
 =====
 
 
-Knowledge in the cortex is organized as a graph.
-
-Could merge 1-3: Mathematics is the schelling point to begin the decentralized representation of knowledge (decentralized language). Or: Decentralied linguistic consensus cannot begin without a schelling point. Math provides that schelling point.
-
-Decentralized language requires two things: some sort of schelling point from which to start, and a WoT.
-
 Progression beyond the starting point requires arbitrary decisions which cannot be made without a functioning web of trust. Language requires consensus on the arbitrary symbols that a community uses to represent knowledge. But before consensus can be established, there must be two things: a starting point, springboard, schelling point from which to start; and a WoT. The Tapestry Foundation describes how that comes into place.
 
 -----
@@ -35,7 +29,8 @@ Progression beyond the starting point requires arbitrary decisions which cannot 
 
 
 
-Before getting to the arbitrary decisions part, there must be some common starting set of assumptions about how knowledge is represented. That, and at least a rudimentary concept of WoT: the notion that arbitrary decisions will be influenced greatly by, if not completely absorbed from, those around us. In the secitons that follow we develop both those ideas, starting with the math of set theory and graph theory as the starting point for knowledge representation.
+Before getting to the arbitrary decisions part, there must be some common starting set of assumptions about how knowledge is represented. 
+
 
 -----
 

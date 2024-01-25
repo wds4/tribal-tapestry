@@ -4,7 +4,7 @@ The Foundations of Tapestry Theory
 =====
 
 ## 1. [Decentralized Linguistic Consensus](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/decentralizedLinguisticConsensus.md)
-The purpose of the tapestry theory is to provide a solution to the problem of *decentralized linguistic consensus*: how to build a language without leaders.
+The purpose of tapestry theory is to provide a solution to the problem of *decentralized linguistic consensus*: how to build a language without leaders.
 
 ## 2. [Math as the universal model for knowledge representation](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/schellingPointHypothesis.md)
 The mathematics of set theory and graph theory provide the foundation from which language can be constructed.

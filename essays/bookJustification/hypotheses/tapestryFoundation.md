@@ -3,7 +3,7 @@ back to [main table of contents](https://github.com/wds4/tribal-tapestry/blob/ma
 The Foundations of Tapestry Theory
 =====
 
-## 1. [Decentralized Linguistic Consensus](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/decentralizedLinguisticConsensusHypothesis.md)
+## 1. [Decentralized Linguistic Consensus](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/decentralizedLinguisticConsensus.md)
 The need for decentralized linguistic consensus (DLC) determines the basic structure of knowledge representation.
 
 ## 2. [The Universal Language](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/hypotheses/schellingPointHypothesis.md)

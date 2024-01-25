@@ -8,5 +8,5 @@ Math as the universal model for knowledge representation
 Mathematics of set theory and graph theory provide the universal starting set of assumptions about how knowledge is represented.
 -----
 
-Mathematics of set theory and graph theory provide the universal starting set of assumptions about how knowledge is represented.
+Mathematics of set theory and graph theory provide the starting point from which complex languages can be constructed.
 

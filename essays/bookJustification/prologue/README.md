@@ -5,7 +5,7 @@ Prologue: A Butterfly's Dream
 
 You are going to see a lot of talk about *toxicity* and *objective reality* in this book. In these pages, you will witness the Champion of the Enlightenment, Da Vinci and the Champion of Postmodernism, Derrida, clash like knights of a medieval kingdom. Perhaps you follow Ayn Rand, and like a good objectivist, you believe in objective reality. Real is real. A equals A.
 
-But ... perhaps that view is not satisfying to you. What if I'm not sure that I believe in objective reality? What if you take a slighlty different view that reality, the laws of physics are what the Bible means by the Word of God? What if agree with Elon Musk, that there is a good chance we are living in a simulation? What if I wonder whether we might be living in the dream of a butterfly? 
+But ... perhaps that view is not satisfying to you. What if you're not sure that you believe in objective reality? What if you take a slighlty different view that reality, the laws of physics are what the Bible means by the Word of God? What if you agree with Elon Musk, that there is a good chance we are living in a simulation? What if you wonder whether we might be living within the dream of a butterfly? 
 
 We do not answer those questions. And we do not require you to commit to any one of those views over the others. 
 

@@ -10,14 +10,14 @@ The two cognitive modes differ in three fundamental ways: why they exist, when t
 
 ## Why
 - The purpose of the social mode is to gain acceptance by the tribe; to *belong*.
-- The purpose of the default cognitive mode is to *benefit* the individual in any manner other than that already covered by the social mode. Benefit means: as judged by the individual. [1]
+- The purpose of the default cognitive mode is to *benefit* the individual in any manner other than that already covered by the social mode. Benefit means: as judged by the individual.
 
 ## When
 - The default mode is active always, by default, UNLESS it is overridden by the social mode.
 - The social mode overrides the default mode ONLY when required to do so by the tribal narrative fiction. Since every tribe has its own unique and distinctive narrative fiction, when this mode kicks in is HIGHLY CONTEXTUAL.
 
 ## What
-- default mode: n/a [1]
+- default mode: n/a
 - social mode: demonstrations of loyalty to the tribe by performance of virtue signals
 
 ## Virtue signals
@@ -38,9 +38,9 @@ Given these definitions, the strict form of the DCM hypothesis does not require 
 
 Incorporation of a toxic thread into one's psyche is an act of self sacrifice that is hard to fake, hard to undo, and diminishes the feasibility of defecting to enemy tribes. This makes it an effective indicator of tribal loyalty; not a perfect indicator, but arguably the best indicator that there is.
 
-## Auxiliary hypothesis
+# Auxiliary hypothesis
 
-[1] We add an *auxiliary* hypothesis that this is how and why the default cognitive mode works: its purpose is to confer survival benefit to the individual by maintaining a representation of the world that is both relevant and *objectively true*. It does this through reliance on observation, consistency, rules of logic; what some humans would call "the scientific method."
+We add an *auxiliary* hypothesis that this is how and why the default cognitive mode works: its purpose is to confer survival benefit to the individual by maintaining a representation of the world that is both relevant and *objectively true*. It does this through reliance on observation, consistency, rules of logic; what some humans would call "the scientific method."
 
 ## Objective truth
 

@@ -6,7 +6,7 @@ The brain of the social animal, including (but not limited to) humans, has two c
 
 ## Elaboration of the DCM hypothesis
 
-The two cognitive modes differ in three fundamental ways: why they exist, when they operate, and what they do.
+The two cognitive modes differ in three fundamental ways: why they exist, when they operate, and what they do (or equivalently, how they work).
 
 ## Why
 - The purpose of the default cognitive mode is to *benefit* the individual, *as judged by the individual*. [1]
@@ -16,7 +16,7 @@ The two cognitive modes differ in three fundamental ways: why they exist, when t
 - The default mode is active always, by default, UNLESS it is overridden by the social mode.
 - The social mode overrides the default mode ONLY when required to do so by the tribal narrative fiction. Since every tribe has its own unique and distinctive narrative fiction, when this mode kicks in is HIGHLY CONTEXTUAL.
 
-## What it does (or equivalently, how it works)
+## What
 - default mode: n/a [1]
 - social mode: demonstrations of loyalty to the tribe by performance of virtue signals
 

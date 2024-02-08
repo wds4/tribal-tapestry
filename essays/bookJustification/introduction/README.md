@@ -11,8 +11,8 @@ tl/dr: the social mode is defined by its opposition to the default mode
 The two cognitive modes differ in three fundamental ways: why they exist, when they operate, and what they do (or equivalently, how they work).
 
 ## Why
-- The purpose of the social mode is to gain acceptance by the tribe; to *belong*.
-- The purpose of the default cognitive mode is to *benefit* the individual in any manner other than that already covered by the social mode. Benefit means: as judged by the individual.
+- The purpose of the default cognitive mode is to *benefit* the individual [1]. Benefit means: as judged by the individual.
+- The purpose of the social cognitive mode is to gain acceptance by the tribe; to *belong*.
 
 ## When
 - The default mode is ALWAYS always, by default, UNLESS it is overridden by the social mode.
@@ -60,3 +60,5 @@ The Prime Directive makes sense: Any strategy that can minimize the damage of th
 
 *Make note of the fact that the core DCM hypothesis introduces the concepts of narrative fiction and toxicity but does so in a manner that requires NO reference or mention whatsoever of objective reality, the scientific method, falsifiability, logic, hypocrisy, etc. These don't come in until we add the auxiliary hypothesis. But even without the auxiliary hypothesis, there is substance to be found within the core DCM hypothesis.*
 
+
+[1] I'm not sure whether to add this caveat to the purpose of the default cognitive mode: to benefit the individual in any manner, except not including the benefits that are already addressed by the social cognitive mode.

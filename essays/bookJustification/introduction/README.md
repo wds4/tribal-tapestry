@@ -42,6 +42,8 @@ Incorporation of a toxic thread into one's psyche is an act of self sacrifice th
 
 The uniqueness of the tribal narrative is essential: it's how we distinguish one tribe from another. Like a uniform or a flag. This is why the imagery of weaving threads into a tapestry is useful. Tapestry theory indicates that the weaving of threads is not some flowery but empty metaphor: it is literal.
 
+## Objective reality
+
 Note that objective reality is not mentioned in the core DCM hypothesis! We do introduce it as an [auxiliary hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/introduction/auxiliaryHypothesis.md), according to which the individual has an internal notion of what some people call "objective reality" and values some version of what some people call "the scientific method." Whether these aspects of the individual's beliefs and value system are "correct" or "right" or "justified" need not be addressed by the DCM hypothesis!
 
 [1] I'm not sure whether to add this caveat to the purpose of the default cognitive mode: to benefit the individual in any manner, *except not including the benefits that are already addressed by the social cognitive mode*.

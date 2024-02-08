@@ -52,9 +52,9 @@ Objective truth refers to the truth according to whatever reality is accessible 
 
 ## Don't Know Thyself
 
-An auxiliary hypothesis of this book is the Prime Directive, which is the directive to deny the full extent of the social cognitive mode in oneself and in one's tribe, despite an exquisite sensitivity to its presence in The Other. In other words, be ignorant of the DCM hypothesis. The primary method is to erase the very words that are used to communicate the hypothesis. Adherence to the Prime Directive is neuro-normative behaviour, while deviation from the Prime Directive is one way of being neuroatypical.
+Another auxiliary hypothesis of this book is the Prime Directive, which is the directive to deny and be unaware of the full extent of the social cognitive mode in oneself and in one's tribe, despite an exquisite sensitivity to its presence in The Other. In other words, to be ignorant of the DCM hypothesis (core + auxiliary). The primary method is to erase the very words that are used to communicate the hypothesis, as exemplified by the idea that reference to objective reality is patronizing or in some way a bad thing. Adherence to the Prime Directive is neuro-normative behaviour, while deviation from the Prime Directive is one way of being neuroatypical.
 
-The Prime Directive makes sense: Any strategy that can minimize the damage of the narrative fiction to the default cognitive mode will be implemented. The social mode requires us to lie, and there is literature that self-deception decreases the cognitve cost of lying. IOW, the best liar is one who believes the lies.
+The Prime Directive makes sense: Any strategy that can minimize the damage of the narrative fiction to the default cognitive mode will be implemented. The social mode requires us to contradict objective reality, which means we have to lie, and there is literature that self-deception can decrease the cognitve cost of lying. IOW, the best liar is one who believes the lie.
 
 ## additional remarks
 

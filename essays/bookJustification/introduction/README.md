@@ -44,6 +44,6 @@ The uniqueness of the tribal narrative is essential: it's how we distinguish one
 
 ## Objective reality
 
-Note that objective reality is not mentioned in the core DCM hypothesis! We do introduce it as an [auxiliary hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/introduction/auxiliaryHypothesis.md), according to which the individual has an internal notion of what some people call "objective reality" and values some version of what some people call "the scientific method." Whether these aspects of the individual's beliefs and value system are "correct" or "right" or "justified" need not be addressed. The only thing that matters is the value system of the individual.
+Note that objective reality is not mentioned in the core DCM hypothesis! We do introduce it as an [auxiliary hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/introduction/auxiliaryHypothesis.md), according to which the individual has an internal notion of what some people call "objective reality" and values some version of what some people call "the scientific method." Whether these aspects of the individual's beliefs and value system are "correct" or "right" or "justified" need not be addressed. The only thing that matters is the belief system and the value system of the individual.
 
 [1] I'm not sure whether to add this caveat to the purpose of the default cognitive mode: to benefit the individual in any manner, *except not including the benefits that are already addressed by the social cognitive mode*.

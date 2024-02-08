@@ -14,7 +14,7 @@ The two cognitive modes differ in three fundamental ways: why they exist, when t
 
 ## When
 - The default mode is active always, by default, UNLESS it is overridden by the social mode.
-- The social mode overrides the default mode ONLY when required to do so by the tribal narrative. Since every tribe has a distinct narrative fiction, when this mode kicks in is HIGHLY CONTEXTUAL.
+- The social mode overrides the default mode ONLY when required to do so by the tribal narrative fiction. Since every tribe has a distinct narrative fiction, when this mode kicks in is HIGHLY CONTEXTUAL.
 
 ## What
 - default mode: it doesn't actually matter how it works; it is what it is [1]

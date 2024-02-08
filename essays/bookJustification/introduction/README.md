@@ -32,7 +32,7 @@ A collection of toxic threads, woven together, into a pattern that is unique to 
 
 ## Toxic threads
 
-A toxic thread is defined as one that impairs the normal functioning of the default cognitive mode. "Toxic" = toxic to the default cognitive mode. 
+A toxic thread is defined as one that causes harm to the individual. Typically, it does so by impairing the normal functioning of the default cognitive mode. "Toxic" = toxic to the default cognitive mode. 
 
 Given these definitions, the strict form of the DCM hypothesis does not require us to specify how or why the default mode works, other than that it benefits the individual in some manner. *The social mode is effectively defined by its opposition to the default mode.*
 

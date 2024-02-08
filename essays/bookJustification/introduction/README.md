@@ -11,8 +11,8 @@ The core hypothesis of this book will be called the Dual Cognitive Modes hypothe
 The two cognitive modes differ in three fundamental ways: why they exist, when they operate, and what they do (or equivalently, how they work).
 
 ## Why
-- The purpose of the default cognitive mode is to *benefit* the individual in any manner that is not addressed by the social mode. Benefit is defined by the value system of the individual. [1]
 - The purpose of the social mode is to gain acceptance by the tribe; to *belong*.
+- The purpose of the default cognitive mode is to *benefit* the individual in any manner other than that already covered by the social mode. Benefit means: as judged by the individual. [1]
 
 ## When
 - The default mode is active always, by default, UNLESS it is overridden by the social mode.

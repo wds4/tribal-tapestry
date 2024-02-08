@@ -18,27 +18,29 @@ The two cognitive modes differ in three fundamental ways: why they exist, when t
 - The default mode is ALWAYS always, by default, UNLESS it is overridden by the social mode.
 - The social mode overrides the default mode ONLY when required to do so by the tribal narrative fiction. Since every tribe has its own unique and distinctive narrative fiction, when this mode kicks in is only in very particular contexts that are VERY SPECIFIC TO THE TRIBE.
 
-## What
-- default mode: n/a
-- social mode: demonstrations of loyalty to the tribe by performance of virtue signals
+## What / How
+- default mode: n/a (The core DCM hypothesis does not require us to specify!)
+- social mode: demonstrations of loyalty to the tribe by the performance of virtue signals (see below)
 
 ## Virtue signals
 
-The purpose of a virtue signal is to BROADCAST (to tribal insiders AND outsiders) the internalization of the tribal narrative fiction.
+The purpose of a virtue signal is to BROADCAST (to tribal insiders AND outsiders) the internalization of the tribal narrative fiction (see below).
 
 ## Tribal narrative fiction
 
-A collection of toxic threads, woven together, into a pattern that is unique to the tribe
+A collection of toxic threads (see below), woven together, into a pattern that is unique to the tribe. The narrative fiction is a subset of the tribal narrative, which is typically vast and contains threads which are not necessarily toxic.
 
 ## Toxic threads
 
-A toxic thread is defined as one that causes harm to the individual. Typically, it does so by impairing the normal functioning of the default cognitive mode. "Toxic" = toxic to the default cognitive mode. 
+A toxic thread is defined as one that causes harm to the individual. "Toxic" = damaging to the individual. This can play out in multiple ways, most (or maybe all) of which are a consequence of interference with the normal functioning of the default cognitive mode.
 
 Given these definitions, the strict form of the DCM hypothesis does not require us to specify how or why the default mode works, other than that it benefits the individual in some manner. *The social mode is effectively defined by its opposition to the default mode.*
 
 ## Why this system makes sense
 
-Incorporation of a toxic thread into one's psyche is an act of self sacrifice that is hard to fake, hard to undo, and diminishes the feasibility of defecting to enemy tribes. This makes it an effective indicator of tribal loyalty; not a perfect indicator, but arguably the best indicator that there is.
+Incorporation of a toxic thread into one's psyche is an act of self sacrifice that is hard to fake, hard to undo, and diminishes the feasibility of defecting to enemy tribes. This makes it an effective indicator of tribal loyalty.
+
+The uniqueness of the tribal narrative is essential: it's how we distinguish one tribe from another. Like a uniform or a flag. This is why the imagery of weaving threads into a tapestry is useful. Tapestry theory indicates that the weaving of threads is not some flowery but empty metaphor: it is literal.
 
 # Auxiliary hypothesis
 

@@ -10,7 +10,7 @@ The two cognitive modes differ in three fundamental ways: why they exist, when t
 
 ## Why
 - The purpose of the default cognitive mode is to maintain a representation of the world that is accurate and relevant.
-- The purpose of the social mode is to gain acceptance by the tribe.
+- The purpose of the social mode is to gain acceptance by the tribe; to *belong*.
 
 ## When
 - The default mode is active always, by default, UNLESS it is overridden by the social mode.

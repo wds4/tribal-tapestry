@@ -6,7 +6,7 @@ The core hypothesis of this book is called the Dual Cognitive Modes hypothesis a
 
 ## Explanation of the core DCM hypothesis
 
-tl/dr: the social mode is defined by its opposition to the default mode
+tl/dr: the social mode is defined by its opposition to the default mode; the default mode does whatever the individual deems is worth doing
 
 The two cognitive modes differ in three fundamental ways: why they exist, when they operate, and what they do (or equivalently, how they work).
 

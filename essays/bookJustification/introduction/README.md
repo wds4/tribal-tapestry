@@ -9,7 +9,7 @@ The brain of the social animal, including (but not limited to) humans, has two c
 The two cognitive modes differ in three fundamental ways: why they exist, when they operate, and what they do.
 
 ## Why
-- The purpose of the default cognitive mode is to benefit the individual. [1]
+- The purpose of the default cognitive mode is to *benefit* the individual, *as judged by the individual*. [1]
 - The purpose of the social mode is to gain acceptance by the tribe; to *belong*.
 
 ## When
@@ -26,13 +26,13 @@ The purpose of a virtue signal is to advertise, to tribal insiders AND outsiders
 
 ## Toxic threads
 
-A toxic thread is defined as one that would be rejected by the default cognitive mode.
+A toxic thread is defined as one that impairs the normal functioning of the default cognitive mode. "Toxic" = toxic to the default cognitive mode.
 
 Given these definitions, the strict form of the DCM hypothesis does not require us to specify how or why the default mode works, other than that it benefits the individual in some manner. *The social mode is defined by its opposition to the default mode.*
 
 ## Why this system makes sense
 
-Anything that attacks, weakens or impairs the default cognitive mode incurs risk to the individual. Incorporation of a toxic thread into one's psyche is an act of self sacrifice that is hard to fake, hard to undo, and diminishes the feasibility of defecting to enemy tribes. This makes it an effective indicator of tribal loyalty; not a perfect indicator, but arguably the best indicator that there is.
+Incorporation of a toxic thread into one's psyche is an act of self sacrifice that is hard to fake, hard to undo, and diminishes the feasibility of defecting to enemy tribes. This makes it an effective indicator of tribal loyalty; not a perfect indicator, but arguably the best indicator that there is.
 
 ## Don't Know Thyself
 

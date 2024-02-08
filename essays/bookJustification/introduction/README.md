@@ -42,7 +42,7 @@ Incorporation of a toxic thread into one's psyche is an act of self sacrifice th
 
 # Auxiliary hypothesis
 
-We add an *auxiliary* hypothesis that this is how and why the default cognitive mode works: its purpose is to confer survival benefit to the individual by maintaining a representation of the world that is both relevant and *objectively true*. It does this through reliance on observation, consistency, rules of logic; what some humans would call "the scientific method."
+We add an *auxiliary* hypothesis that the purpose of the default cognitive mode is this: to confer survival benefit to the individual by maintaining a representation of the world that is both relevant and *objectively true*. It does this through reliance on observation, consistency, rules of logic, etc; what some humans would call "the scientific method." Note that it doesn't have to be the real, actual objective truth. The only thing that matters is that the individual believes in it.
 
 ## Objective truth
 

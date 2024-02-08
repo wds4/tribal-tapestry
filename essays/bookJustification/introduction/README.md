@@ -13,7 +13,7 @@ The two cognitive modes differ in three fundamental ways: why they exist, when t
 - The purpose of the default cognitive mode is to *benefit* the individual in any manner other than that already covered by the social mode. Benefit means: as judged by the individual.
 
 ## When
-- The default mode is active always, by default, UNLESS it is overridden by the social mode.
+- The default mode is ALWAYS always, by default, UNLESS it is overridden by the social mode.
 - The social mode overrides the default mode ONLY when required to do so by the tribal narrative fiction. Since every tribe has its own unique and distinctive narrative fiction, when this mode kicks in is HIGHLY CONTEXTUAL.
 
 ## What

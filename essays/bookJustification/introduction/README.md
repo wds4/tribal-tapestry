@@ -17,8 +17,8 @@ The two cognitive modes differ in three fundamental ways: why they exist, when t
 - The social mode overrides the default mode ONLY when required to do so by the tribal narrative fiction. Since every tribe has its own unique and distinctive narrative fiction, when this mode kicks in is HIGHLY CONTEXTUAL.
 
 ## What it does (or equivalently, how it works)
-- default mode: it doesn't actually matter how it works; it is what it is [1]
-- social mode: demonstrations of loyalty to the trib(s) by performance of virtue signals
+- default mode: n/a [1]
+- social mode: demonstrations of loyalty to the tribe by performance of virtue signals
 
 ## Virtue signals
 

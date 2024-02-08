@@ -42,7 +42,9 @@ Incorporation of a toxic thread into one's psyche is an act of self sacrifice th
 
 # Auxiliary hypothesis
 
-We add an *auxiliary* hypothesis that the purpose of the default cognitive mode is this: to confer survival benefit to the individual by maintaining a representation of the world that is both relevant and *objectively true*. It does this through reliance on observation, consistency, rules of logic, etc; what some humans would call "the scientific method." Note that it doesn't have to be the real, actual objective truth. The only thing that matters is that the individual believes in it.
+We add an *auxiliary* hypothesis to the core DCM hypothesis, which is that the purpose of the default cognitive mode is this: to confer survival benefit to the individual by maintaining a representation of the world that is both relevant and *objectively true*. It does this through reliance on observation, logical consistency, rules of logic, etc; what some humans would call "the scientific method." Note that it doesn't have to be the real, actual objective truth. The only thing that matters is that the individual believes in it.
+
+A corollary to the auxiliary DCM hypothesis is that the toxic threads that make up the tribal narrative fiction would consist primarily of logical fallacies, nonfalsifiable statements, and observably false statements, woven into a pattern that is unique to the tribe. The social cognitive mode, which is defined to be in opposition to the default cognitive mode, would be expected to weave this pattern into the individual's brain and to advertise this fact through virtue signals.
 
 ## Objective truth
 

@@ -4,7 +4,9 @@ The core hypothesis of this book will be called the Dual Cognitive Modes hypothe
 
 **The brain of the social animal, including (but not limited to) humans, has two cognitive modes of operation: the *default cognitive mode* and the *social cognitive mode***. 
 
-## Elaboration of the DCM hypothesis
+## Explanation of the core DCM hypothesis
+
+tl/dr: the social mode is defined by its opposition to the default mode
 
 The two cognitive modes differ in three fundamental ways: why they exist, when they operate, and what they do (or equivalently, how they work).
 

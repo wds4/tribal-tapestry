@@ -15,8 +15,8 @@ The two cognitive modes differ in three fundamental ways: why they exist, when t
 - The purpose of the social cognitive mode is to gain acceptance by the tribe; to *belong*.
 
 ## When
-- The default mode is ALWAYS always, by default, UNLESS it is overridden by the social mode.
-- The social mode overrides the default mode ONLY when required to do so by the tribal narrative fiction. Since every tribe has its own unique and distinctive narrative fiction, when this mode kicks in is only in very particular contexts that are VERY SPECIFIC TO THE TRIBE.
+- The default cognitive mode is ALWAYS in control, in EVERY context, by default, UNLESS it is overridden by the social cognitive mode.
+- The social cognitive mode overrides the default cognitive mode ONLY when required to do so by the tribal narrative fiction. Since every tribe has its own unique and distinctive narrative fiction, when this mode kicks in is only in very particular, highly specific contexts, SPECIFIC TO THE TRIBE.
 
 ## What / How
 - default mode: n/a (The core DCM hypothesis does not require us to specify!)

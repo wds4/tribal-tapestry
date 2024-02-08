@@ -22,11 +22,15 @@ The two cognitive modes differ in three fundamental ways: why they exist, when t
 
 ## Virtue signals
 
-The purpose of a virtue signal is to advertise, to tribal insiders AND outsiders, the existence of toxic threads within one's tapestry (in your head, literally) that are specific to the tribe.
+The purpose of a virtue signal is to BROADCAST (to tribal insiders AND outsiders) the internalization of the tribal narrative fiction.
+
+## Tribal narrative fiction
+
+A collection of toxic threads, woven together, into a pattern that is unique to the tribe
 
 ## Toxic threads
 
-A toxic thread is defined as one that impairs the normal functioning of the default cognitive mode. "Toxic" = toxic to the default cognitive mode.
+A toxic thread is defined as one that impairs the normal functioning of the default cognitive. "Toxic" = toxic to the default cognitive mode. 
 
 Given these definitions, the strict form of the DCM hypothesis does not require us to specify how or why the default mode works, other than that it benefits the individual in some manner. *The social mode is defined by its opposition to the default mode.*
 

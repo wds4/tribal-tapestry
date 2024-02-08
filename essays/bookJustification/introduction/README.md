@@ -30,7 +30,7 @@ A toxic thread is defined as one that would be rejected by the default cognitive
 
 ## Why this system makes sense
 
-
+Anything that attacks, weakens or impairs the default cognitive mode incurs risk to the individual. Incorporation of a toxic thread into one's psyche is an act of self sacrifice that is hard to fake, hard to undo, and diminishes the feasibility of defecting to enemy tribes. This makes it an effective indicator of tribal loyalty; not a perfect indicator, but arguably the best indicator that there is.
 
 ## Don't Know Thyself
 

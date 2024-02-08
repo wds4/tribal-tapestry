@@ -24,7 +24,7 @@ The two cognitive modes differ in three fundamental ways: why they exist, when t
 
 ## Virtue signals
 
-The purpose of a virtue signal is to BROADCAST (to tribal insiders AND outsiders) the internalization of the tribal narrative fiction (see below).
+The purpose of a virtue signal is to broadcast / demonstrate / shout from the mountaintops (to tribal insiders AND outsiders) that the tribal narrative fiction has been internalized. Know it, live it.
 
 ## Tribal narrative fiction
 

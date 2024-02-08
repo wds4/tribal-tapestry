@@ -40,7 +40,7 @@ Incorporation of a toxic thread into one's psyche is an act of self sacrifice th
 
 ## Don't Know Thyself
 
-An auxiliary hypothesis of this book is the Prime Directive, which is to deny the full extent of the social cognitive mode in oneself and in one's tribe, despite an exquisite sensitivity to its presence in The Other. In other words, be ignorant of the dual hypothesis. The primary method is to erase the very words that are used to communicate the hypothesis. Adherence to the Prime Directive is neuro-normative behaviour, while Deviation from the Primae Directive is one form of neuroatypical.
+An auxiliary hypothesis of this book is the Prime Directive, which is the directive to deny the full extent of the social cognitive mode in oneself and in one's tribe, despite an exquisite sensitivity to its presence in The Other. In other words, be ignorant of the dual hypothesis. The primary method is to erase the very words that are used to communicate the hypothesis. Adherence to the Prime Directive is neuro-normative behaviour, while Deviation from the Primae Directive is one form of neuroatypical.
 
 ## Auxiliary hypothesis
 

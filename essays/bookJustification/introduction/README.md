@@ -42,7 +42,7 @@ Incorporation of a toxic thread into one's psyche is an act of self sacrifice th
 
 The uniqueness of the tribal narrative is essential: it's how we distinguish one tribe from another. Like a uniform or a flag. This is why the imagery of weaving threads into a tapestry is useful. Tapestry theory indicates that the weaving of threads is not some flowery but empty metaphor: it is literal.
 
-# Auxiliary hypothesis
+# [Auxiliary hypothesis](https://github.com/wds4/tribal-tapestry/blob/main/essays/bookJustification/introduction/auxiliaryHypothesis.md)
 
 We add an *auxiliary* hypothesis to the core DCM hypothesis, which is that the purpose of the default cognitive mode is this: to confer survival benefit to the individual by maintaining a representation of the world that is both relevant and *objectively true*. It does this through reliance on observation, logical consistency, rules of logic, etc; what some humans would call "the scientific method." Note that it doesn't have to be the real, actual objective truth. The only thing that matters is that the individual believes in it.
 

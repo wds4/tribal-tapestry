@@ -22,7 +22,7 @@ The two cognitive modes differ in three fundamental ways: why they exist, when t
 
 ## Virtue signals
 
-The purpose of a virtue signal is to demonstrate the internalization of tribal toxicity.
+The purpose of a virtue signal is to advertise, to tribal insiders AND outsiders, the existence of toxic threads within one's tapestry (in your head, literally) that are specific to the tribe.
 
 ## Toxic threads
 

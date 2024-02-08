@@ -1,4 +1,4 @@
-The core hypothesis of this book will be called the Dual Cognitive Modes hypothesis and will be summarized as follows.
+The core hypothesis of this book is called the Dual Cognitive Modes hypothesis and is summarized as follows.
 
 ## The Core DCM hypothesis, in one sentence
 

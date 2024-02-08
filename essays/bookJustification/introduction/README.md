@@ -38,6 +38,8 @@ Anything that attacks, weakens or impairs the default cognitive mode incurs risk
 
 An auxiliary hypothesis of this book is the Prime Directive, which is to deny the full extent of the social cognitive mode in oneself and in one's tribe, despite an exquisite sensitivity to its presence in The Other. In other words, be ignorant of the dual hypothesis. The primary method is to erase the very words that are used to communicate the hypothesis. Adherence to the Prime Directive is neuro-normative behaviour, while Deviation from the Primae Directive is one form of neuroatypical.
 
-[1] We add an *auxiliary* hypothesis that this is how and why the default cognitive mode works: its purpose is to maintain a representation of the world that is accurate and relevant. It does this through reliance on observation, consistency, rules of logic; what some humans would call "the scientific method." 
+## Notes
+
+[1] We add an *auxiliary* hypothesis that this is how and why the default cognitive mode works: its purpose is to confer survival benefit to the individual by maintaining a representation of the world on that is *accurate and relevant*. It does this through reliance on observation, consistency, rules of logic; what some humans would call "the scientific method." 
 
 

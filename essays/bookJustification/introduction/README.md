@@ -58,5 +58,5 @@ The Prime Directive makes sense: Any strategy that can minimize the damage of th
 
 ## additional remarks
 
-*Make note of the fact that the core DCM hypothesis introduces the concepts of narrative fiction and toxicity but does so in a manner that requires NO reference or mention whatsoever of objective reality, the scientific method, falsifiability, logic, hypocrisy, etc. These don't come in until we add the auxiliary hypothesis (below). But even without the auxiliary hypothesis, there is substance to be found here.*
+*Make note of the fact that the core DCM hypothesis introduces the concepts of narrative fiction and toxicity but does so in a manner that requires NO reference or mention whatsoever of objective reality, the scientific method, falsifiability, logic, hypocrisy, etc. These don't come in until we add the auxiliary hypothesis. But even without the auxiliary hypothesis, there is substance to be found within the core DCM hypothesis.*
 

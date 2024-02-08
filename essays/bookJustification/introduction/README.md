@@ -28,7 +28,7 @@ The purpose of a virtue signal is to broadcast / demonstrate / shout from the mo
 
 ## Tribal narrative fiction
 
-A collection of toxic threads (see below), woven together, into a pattern that is unique to the tribe. The narrative fiction is a subset of the tribal narrative, which is typically vast and contains threads which are not necessarily toxic.
+A collection of toxic threads (see below), woven together, into a pattern that is unique to the tribe. The narrative fiction is a subset of the tribal narrative, which is typically vast and contains many threads which are not necessarily toxic.
 
 ## Toxic threads
 

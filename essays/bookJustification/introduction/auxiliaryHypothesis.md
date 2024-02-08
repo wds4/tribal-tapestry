@@ -1,3 +1,5 @@
+back to the [core DCM hypothesis](https://github.com/wds4/tribal-tapestry/tree/main/essays/bookJustification/introduction)
+
 Auxiliary Hypothesis to the Core Dual Cognitive Mode hypothesis
 ===
 

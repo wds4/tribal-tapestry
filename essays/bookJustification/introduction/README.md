@@ -9,8 +9,8 @@ The brain of the social animal, including (but not limited to) humans, has two c
 The two cognitive modes differ in three fundamental ways: why they exist, when they operate, and what they do.
 
 ## Why
-- The purpose of the default cognitive mode is to maintain a representation of the world that is accurate and relevant, so we don't die.
-- The purpose of the social mode is to gain acceptance by the tribe, so we don't die.
+- The purpose of the default cognitive mode is to maintain a representation of the world that is accurate and relevant.
+- The purpose of the social mode is to gain acceptance by the tribe.
 
 ## When
 - The default mode is active always, by default, UNLESS it is overridden by the social mode.

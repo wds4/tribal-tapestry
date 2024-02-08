@@ -2,7 +2,7 @@ The basic hypothesis of this book will be called the Dual Cognitive Modes hypoth
 
 ## The hypothesis of this book, in one sentence
 
-The brain of the social animal, including (but not limited to) humans, has two cognitive modes for arriving at a working definition of "the truth:" the *default cognitive mode* and the *social cognitive mode*. 
+The brain of the social animal, including (but not limited to) humans, has two cognitive modes of operation: the *default cognitive mode* and the *social cognitive mode*. 
 
 ## Explanation
 

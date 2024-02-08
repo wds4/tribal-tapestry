@@ -9,14 +9,14 @@ The brain of the social animal, including (but not limited to) humans, has two c
 The two cognitive modes differ in three fundamental ways: why they exist, when they operate, and what they do.
 
 ## Why
-- The purpose of the default cognitive mode is to maintain a representation of the world that is accurate and relevant.
+- The purpose of the default cognitive mode is to benefit the individual. [1]
 - The purpose of the social mode is to gain acceptance by the tribe; to *belong*.
 
 ## When
 - The default mode is active always, by default, UNLESS it is overridden by the social mode.
 - The social mode overrides the default mode ONLY when required to do so by the tribal narrative fiction. Since every tribe has its own unique and distinctive narrative fiction, when this mode kicks in is HIGHLY CONTEXTUAL.
 
-## What
+## What it does (or equivalently, how it works)
 - default mode: it doesn't actually matter how it works; it is what it is [1]
 - social mode: demonstrations of loyalty to the trib(s) by performance of virtue signals
 
@@ -28,6 +28,8 @@ The purpose of a virtue signal is to demonstrate the internalization of tribal t
 
 A toxic thread is defined as one that would be rejected by the default cognitive mode.
 
+Given these definitions, the strict form of the DCM hypothesis does not require us to specify how or why the default mode works, other than that it benefits the individual in some manner. *The social mode is defined by its opposition to the default mode.*
+
 ## Why this system makes sense
 
 Anything that attacks, weakens or impairs the default cognitive mode incurs risk to the individual. Incorporation of a toxic thread into one's psyche is an act of self sacrifice that is hard to fake, hard to undo, and diminishes the feasibility of defecting to enemy tribes. This makes it an effective indicator of tribal loyalty; not a perfect indicator, but arguably the best indicator that there is.
@@ -36,6 +38,6 @@ Anything that attacks, weakens or impairs the default cognitive mode incurs risk
 
 An auxiliary hypothesis of this book is the Prime Directive, which is to deny the full extent of the social cognitive mode in oneself and in one's tribe, despite an exquisite sensitivity to its presence in The Other. In other words, be ignorant of the dual hypothesis. The primary method is to erase the very words that are used to communicate the hypothesis. Adherence to the Prime Directive is neuro-normative behaviour, while Deviation from the Primae Directive is one form of neuroatypical.
 
-[1] We add an *auxiliary* hypothesis that this is how the default cognitive mode works: reliance on observation, consistency, rules of logic; what some humans would call "the scientific method." But the Dual Cognitive Modes hypothesis doesn't actually require us to specify how it works. It is what it is; and however it works, *the social mode is defined by its context-dependent opposition to the default mode*.
+[1] We add an *auxiliary* hypothesis that this is how and why the default cognitive mode works: its purpose is to maintain a representation of the world that is accurate and relevant. It does this through reliance on observation, consistency, rules of logic; what some humans would call "the scientific method." 
 
 

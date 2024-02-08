@@ -4,8 +4,6 @@ The core hypothesis of this book will be called the Dual Cognitive Modes hypothe
 
 **The brain of the social animal, including (but not limited to) humans, has two cognitive modes of operation: the *default cognitive mode* and the *social cognitive mode***. 
 
-*Make note of the fact that the core DCM hypothesis introduces the concepts of narrative fiction and toxicity but does so in a manner that requires NO reference or mention whatsoever of objective reality, the scientific method, falsifiability, logic, hypocrisy, etc. These don't come in until we add the auxiliary hypothesis (below). But even without the auxiliary hypothesis, there is substance to be found here.*
-
 ## Elaboration of the DCM hypothesis
 
 The two cognitive modes differ in three fundamental ways: why they exist, when they operate, and what they do (or equivalently, how they work).
@@ -54,4 +52,7 @@ An auxiliary hypothesis of this book is the Prime Directive, which is the direct
 
 The Prime Directive makes sense: Any strategy that can minimize the damage of the narrative fiction to the default cognitive mode will be implemented. The social mode requires us to lie, and there is literature that self-deception decreases the cognitve cost of lying. IOW, the best liar is one who believes the lies.
 
+## additional remarks
+
+*Make note of the fact that the core DCM hypothesis introduces the concepts of narrative fiction and toxicity but does so in a manner that requires NO reference or mention whatsoever of objective reality, the scientific method, falsifiability, logic, hypocrisy, etc. These don't come in until we add the auxiliary hypothesis (below). But even without the auxiliary hypothesis, there is substance to be found here.*
 

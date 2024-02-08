@@ -38,10 +38,6 @@ Given these definitions, the strict form of the DCM hypothesis does not require 
 
 Incorporation of a toxic thread into one's psyche is an act of self sacrifice that is hard to fake, hard to undo, and diminishes the feasibility of defecting to enemy tribes. This makes it an effective indicator of tribal loyalty; not a perfect indicator, but arguably the best indicator that there is.
 
-## Don't Know Thyself
-
-An auxiliary hypothesis of this book is the Prime Directive, which is the directive to deny the full extent of the social cognitive mode in oneself and in one's tribe, despite an exquisite sensitivity to its presence in The Other. In other words, be ignorant of the dual hypothesis. The primary method is to erase the very words that are used to communicate the hypothesis. Adherence to the Prime Directive is neuro-normative behaviour, while Deviation from the Primae Directive is one form of neuroatypical.
-
 ## Auxiliary hypothesis
 
 [1] We add an *auxiliary* hypothesis that this is how and why the default cognitive mode works: its purpose is to confer survival benefit to the individual by maintaining a representation of the world on that is *objectively true and relevant*. It does this through reliance on observation, consistency, rules of logic; what some humans would call "the scientific method."
@@ -50,5 +46,10 @@ An auxiliary hypothesis of this book is the Prime Directive, which is the direct
 
 Objective truth refers to the truth according to whatever reality is accessible to us, whether that be a simulation, a butterfly's dream, or something else. Objective truth does NOT refer to the deeper, underlying truth that is not accessible to us ... assuming one exists (which is unknowable, by definition).
 
+## Don't Know Thyself
+
+An auxiliary hypothesis of this book is the Prime Directive, which is the directive to deny the full extent of the social cognitive mode in oneself and in one's tribe, despite an exquisite sensitivity to its presence in The Other. In other words, be ignorant of the dual hypothesis. The primary method is to erase the very words that are used to communicate the hypothesis. Adherence to the Prime Directive is neuro-normative behaviour, while Deviation from the Primae Directive is one form of neuroatypical.
+
+The Prime Directive makes sense: Any strategy that can minimize the damage of the narrative fiction to the default cognitive mode will be implemented. The social mode requires us to lie, and there is literature that self-deception decreases the cognitve cost of lying. IOW, the best liar is one who believes the lies.
 
 

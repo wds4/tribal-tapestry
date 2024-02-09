@@ -25,4 +25,8 @@ The Prime Directive makes sense: Any strategy that can minimize the damage of th
 
 The first rule of the social cognitive mode: _thou shalt be unaware of the existence of one's own social cognitive mode._
 
-Our suggestion: disobey the first rule.
+Our suggestions: 
+1. Disobey the above first rule.
+2. To that end: internalize the ideas in this book. Learn the vocabulary. Lean into your discomfort. Do the work.
+
+

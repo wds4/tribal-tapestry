@@ -23,7 +23,11 @@ The Prime Directive makes sense: Any strategy that can minimize the damage of th
 
 ## Summary 
 
+We observe that in most people: the default cognitive mode equates roughly to the scientific method and a belief in objective reality.
+
 The first rule of the social cognitive mode: _thou shalt be unaware of the existence of one's own social cognitive mode._
+
+The existence of the ideas of this book is nothing less than an act of rebellion against this first rule. Any mention of the DCM hypothesis will therefore engage the social cognitive mode, which will compel the reader to object / resist / shake fist at / oppose the DCM hypothesis. It won't be enough to _disagree_ with the hypothesis. One must be unable to state it. One must erase the existence of the hypothesis from one's brain. 
 
 Our suggestions: 
 1. Disobey the above first rule.

@@ -4,11 +4,11 @@ Proposal: rename the social cognitive mode.
 
 two modes: 
 - the default cognitive mode; standard mode;
-- the anti-default cognitive mode; the reverse default mode; anti-standard mode; the Upside Down mode; self-sacrificial mode; toxicity mode; virtue mode
+- the anti-default cognitive mode; the reverse default mode; backwards mode; anti-standard mode; reverse-standard mode; the Upside Down mode; self-sacrificial mode; toxicity mode; virtue mode
 
 Rename the Prime Directive:
 
-First Rule of Toxicity.
+First Rule of Anti Standard Mode.
 
 The first rule of the Reverse Default mode: we don't talk about the reverse default mode.
 

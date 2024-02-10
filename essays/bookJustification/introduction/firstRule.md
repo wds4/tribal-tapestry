@@ -4,15 +4,15 @@ Proposal: rename the social cognitive mode.
 
 two modes: 
 - the default cognitive mode
-- the anti-default cognitive mode; the upside down mode; self-sacrificial mode; toxicity mode; virtue mode
-
+- the anti-default cognitive mode; the reverse default mode; the Upside Down mode; self-sacrificial mode; toxicity mode; virtue mode
 
 Rename the Prime Directive:
 
 First Rule of Toxicity.
 
-The first rule of Toxicity: we don't talk about the toxicity. 
-Zeroth rule of Toxicity: We don't think about the toxic mode.
+The first rule of the Reverse Default mode: we don't talk about the reverse default mode.
+
+**Zeroth** rule of Toxicity: We don't _think_ about toxicity. Equivalently: we don't talk about the First Rule.
 
 Whenever someone discusses toxicity in particular, or the Dual Cognitive Mode hypothesis in general, the First Rule will compel you to end the discussion. The preferred method is to challenge the words that we use to have the discussion.
 1. object on moral grounds -- "who are you to say that" --  "you're being pandering" -- "it's immoral to say what you said, so: quit it."

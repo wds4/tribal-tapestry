@@ -3,8 +3,8 @@ One of the most important tasks will be to find an alternate name for the Prime 
 Proposal: rename the social cognitive mode.
 
 two modes: 
-- the default cognitive mode
-- the anti-default cognitive mode; the reverse default mode; the Upside Down mode; self-sacrificial mode; toxicity mode; virtue mode
+- the default cognitive mode; standard mode;
+- the anti-default cognitive mode; the reverse default mode; anti-standard mode; the Upside Down mode; self-sacrificial mode; toxicity mode; virtue mode
 
 Rename the Prime Directive:
 

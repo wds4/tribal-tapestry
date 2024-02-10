@@ -8,7 +8,7 @@ two modes:
 
 Rename the Prime Directive:
 
-First Rule of Anti Standard Mode.
+First Rule of the Reverse Standard Mode.
 
 The first rule of the Reverse Default mode: we don't talk about the reverse default mode.
 

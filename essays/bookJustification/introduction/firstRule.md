@@ -27,3 +27,5 @@ The definitions of words are determined by how we use them. WHen I use the word 
 If we're going to write a book, you need to learn to disobey the First Rule of Toxicity. Why should you do that? bc the act of writing this book is an act of rebellion against the First Rule. So if you don't, it will be impossible to write this book. 
 
 One of the prerequisites for neuro-normative behaviour is a healthy respect for the First Rule. The act of writing (or reading or talking about or thinking about) this book is an act of rebellion against the First Rule.
+
+No one goes down this rabbit hole without kicking and screaming. Unless you're just the right amount of neuro atypical.

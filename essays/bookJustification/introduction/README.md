@@ -1,26 +1,26 @@
-The core hypothesis of this book is called the Dual Cognitive Modes hypothesis and is summarized as follows.
+The core hypothesis of this book is called the dual cognitive modes hypothesis (DCMH) and is summarized as follows.
 
 ## The Core DCM hypothesis, in one sentence
 
-**The brain of the social animal, including (but not limited to) humans, has two cognitive modes of operation: the *default cognitive mode* and the *social cognitive mode***. 
+**The brain of the social animal, including (but not limited to) humans, has two cognitive modes of operation: the *standard cognitive mode* and the *social cognitive mode***. 
 
 ## Explanation of the core DCM hypothesis
 
-tl/dr: the social mode is defined by its opposition to the default mode; the default mode does whatever the individual deems is worth doing
+tl/dr: the social mode is defined by its opposition to the standard mode; the standard mode performs operations that are useful, as judged by the individual
 
 The two cognitive modes differ in three fundamental ways: why they exist, when they operate, and what they do (or equivalently, how they work).
 
 ## Why
-- The purpose of the default cognitive mode is to *benefit* the individual [1], where "benefit" is judged by the individual, with no justification or explanation needed.
+- The purpose of the standard cognitive mode is to *benefit* the individual [1], where "benefit" is judged by the individual, with no justification or explanation needed.
 - The purpose of the social cognitive mode is to gain acceptance by the tribe; to *belong*.
 
 ## When
-- The default cognitive mode is ALWAYS in control, in EVERY context, by default, UNLESS it is overridden by the social cognitive mode.
-- The social cognitive mode overrides the default cognitive mode ONLY when required to do so by the tribal narrative fiction. Since every tribe has its own unique and distinctive narrative fiction, when this mode kicks in is only in very particular, highly specific contexts, SPECIFIC TO THE TRIBE.
+- The standard cognitive mode is ALWAYS in control, in EVERY context, by default, UNLESS it is overridden by the social cognitive mode.
+- The social cognitive mode overrides the standard cognitive mode ONLY when required to do so by the tribal narrative fiction. Since every tribe has its own unique and distinctive narrative fiction, when this mode kicks in is only in very particular, highly specific contexts, SPECIFIC TO THE TRIBE.
 
 ## What / How
-- default mode: n/a (The core DCM hypothesis does not require us to specify!)
-- social mode: demonstrations of loyalty to the tribe by the performance of virtue signals (see below)
+- standard cognitive mode: n/a (The core DCM hypothesis does not require us to specify!)
+- social cognitive mode: demonstrations of loyalty to the tribe by the performance of virtue signals (see below)
 
 ## Virtue signals
 
@@ -32,15 +32,25 @@ A collection of toxic threads (see below), woven together, into a pattern that i
 
 ## Toxic threads
 
-A toxic thread is defined as one that interferes with the normal functioning of the default cognitive mode. In this way, it exacts a cost or causes harm to the individual, *as judged by the value system of the individual*.
+A toxic thread is defined as one that interferes with the normal functioning of the standard cognitive mode. In this way, it exacts a cost or causes harm to the individual, *as judged by the value system of the individual*.
 
-Given these definitions, the strict form of the DCM hypothesis does not require us to specify how or why the default mode works, other than that it benefits the individual in some manner. *The social mode is effectively defined by its opposition to the default mode.*
+Given these definitions, the strict form of the DCM hypothesis does not require us to specify how or why the standard mode works, other than that it benefits the individual in some manner. *The social mode is effectively defined by its opposition to the standard mode.*
 
 ## Why this system makes sense
 
 Incorporation of a toxic thread into one's psyche is an act of self sacrifice that is hard to fake, hard to undo, and diminishes the feasibility of defecting to enemy tribes. This makes it an effective indicator of tribal loyalty.
 
 The uniqueness of the tribal narrative is essential: it's how we distinguish one tribe from another. Like a uniform or a flag. This is why the imagery of weaving threads into a tapestry is useful. Tapestry theory indicates that the weaving of threads is not some flowery but empty metaphor: it is literal.
+
+## The First Rule of the Social Mode:
+
+Though shalt NEVER recite the Dual Cognitive Mode Hypothesis (the contents of this page).
+
+## Test of the First Rule:
+
+Read the DCMH, memorize it, and then write it from memory on a sheet of paper. If you are neuro-normative, YOU WILL BE UNABLE TO DO SO.
+
+
 
 ## Objective reality
 

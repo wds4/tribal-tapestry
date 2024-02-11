@@ -37,11 +37,12 @@ Incorporation of a toxic thread into one's psyche is an act of self sacrifice th
 
 ## The First Rule of the Social Mode:
 
-Though shalt NEVER recite the Dual Cognitive Mode Hypothesis (the contents of this page).
+Though shalt NEVER recite the Dual Cognitive Mode Hypothesis (the contents of this page) in its entirety, because doing so will impair your ability to virtue signal convincingly.
 
 ## Corollary to the DCMH:
 
-Neuro-normative people are compelled to follow the First Rule of the Social Mode.
+- Neuro-normative people are compelled to follow the First Rule of the Social Mode.
+- If you break the First Rule, your ability to virtue signal convincingly will be impaired.
 
 ## Test of the First Rule:
 

@@ -3,6 +3,12 @@ The Dual Cognitive Modes Hypothesis (DCMH)
 
 **The brain of the social animal, including (but not limited to) humans, has two cognitive modes of operation: the *standard cognitive mode* and the *social cognitive mode***. 
 
+## Test of the DCMH (including corollary, below)
+
+Read the DCMH, restate it in your own words, and then write it from memory on a separate sheet of paper. If you are neuro-normative, YOU WILL BE UNABLE TO DO SO.
+
+## Explanation
+
 The two cognitive modes differ in three fundamental ways: why they exist, when they operate, and what they do (or equivalently, how they work).
 
 ## Why
@@ -35,16 +41,18 @@ A toxic thread is defined as one that exacts a cost to the individual via interf
 
 Incorporation of a toxic thread into one's psyche is an act of self sacrifice that is hard to fake, hard to undo, and diminishes the feasibility of defecting to enemy tribes. This makes it an effective indicator of tribal loyalty.
 
-## The First Rule of the Social Mode:
+## The First Rule of the Social Mode
 
 Though shalt NEVER recite the Dual Cognitive Mode Hypothesis (the contents of this page) in its entirety, because doing so will impair your ability to virtue signal convincingly.
+
+## Implementation of the First Rule
+
+Any discussion of the DCMH shall be ignored if possible, or derailed if necessary. The words utlilized to state the DCMH shall be reinterpreted so that any attempted recitation of the DCMH becomes either lacking in substance or offensive (or both).
 
 ## Corollary to the DCMH:
 
 - Neuro-normative people are compelled to follow the First Rule of the Social Mode.
 - If you break the First Rule, your ability to virtue signal convincingly will be impaired.
 
-## Test of the First Rule:
 
-Read the DCMH, memorize it, and then write it from memory on a sheet of paper. If you are neuro-normative, YOU WILL BE UNABLE TO DO SO.
 

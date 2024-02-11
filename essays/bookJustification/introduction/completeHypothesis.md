@@ -39,6 +39,10 @@ Incorporation of a toxic thread into one's psyche is an act of self sacrifice th
 
 Though shalt NEVER recite the Dual Cognitive Mode Hypothesis (the contents of this page).
 
+## Corollary to the DCMH:
+
+Neuro-normative people are compelled to follow the First Rule of the Social Mode.
+
 ## Test of the First Rule:
 
 Read the DCMH, memorize it, and then write it from memory on a sheet of paper. If you are neuro-normative, YOU WILL BE UNABLE TO DO SO.

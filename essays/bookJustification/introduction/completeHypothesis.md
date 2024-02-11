@@ -9,7 +9,7 @@ Read the DCMH, restate it in your own words, and then write it from memory on a 
 
 ## Explanation
 
-The two cognitive modes differ in three fundamental ways: why they exist, when they operate, and what they do (or equivalently, how they work).
+The two cognitive modes differ in three fundamental ways: why, when, what
 
 ## Why
 - The purpose of the standard cognitive mode is to maintain a model of the world that is relevant, accurate, and most importantly, *useful*.

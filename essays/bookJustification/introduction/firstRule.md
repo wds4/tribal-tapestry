@@ -2,10 +2,15 @@ One of the most important tasks will be to find an alternate name for the Prime 
 
 Proposal: rename the default and social cognitive modes
 
-- the standard and dradnats cognitive modes.
-- the beneficial and anti-beneficial modes
-- standard and social modes
+the standard and dradnats cognitive modes.
+
+the beneficial and anti-beneficial modes
+
+standard and social modes
+
 First Rule: We don't talk about the social mode.
+
+First Rule of the DCMH (dual cognitive mode hypothesis): Thou Shalt never recite the DCMH.
 
 - default cognitive mode; the STANDARD cognitive mode
 - social mode: the DRADNATS cognitive mode; anti-default cognitive mode; the reverse default mode; backwards mode; anti-standard mode; reverse-standard mode; the Upside Down mode; self-sacrificial mode; toxicity mode; virtue mode

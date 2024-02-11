@@ -1,16 +1,20 @@
 One of the most important tasks will be to find an alternate name for the Prime Directive.
 
-Proposal: rename the social cognitive mode.
+Proposal: rename the default and social cognitive modes
 
-two modes: 
-- the default cognitive mode; standard mode;
-- the anti-default cognitive mode; the reverse default mode; backwards mode; anti-standard mode; reverse-standard mode; the Upside Down mode; self-sacrificial mode; toxicity mode; virtue mode
+- the standard and dradnats cognitive modes.
+- the beneficial and anti-beneficial modes
+- standard and social modes
+First Rule: We don't talk about the social mode.
+
+- default cognitive mode; the STANDARD cognitive mode
+- social mode: the DRADNATS cognitive mode; anti-default cognitive mode; the reverse default mode; backwards mode; anti-standard mode; reverse-standard mode; the Upside Down mode; self-sacrificial mode; toxicity mode; virtue mode
 
 Rename the Prime Directive:
 
 First Rule of the Reverse Standard Mode.
 
-The first rule of the Reverse Default mode: we don't talk about the reverse default mode.
+The first rule of the Reverse Default (DRADNATS) mode: we don't talk about the DRADNATS mode.
 
 **Zeroth** rule of Toxicity: We don't _think_ about toxicity. Equivalently: we don't talk about the First Rule.
 

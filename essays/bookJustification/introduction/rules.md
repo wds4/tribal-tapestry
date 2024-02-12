@@ -1,9 +1,15 @@
+The Rules of the Social Mode
+=====
 
 ## First Rule
 
+We don't talk about the social mode.
+
+Alternative statement: Thou shalt never recite the Dual Cognitive Mode Hypothesis.
+
 ## Second Rule
 
-Denial of the existence of objective reality (in the abstract) is a virtue when in service to the tribal narrative fiction.
+Problematization of the existence of objective reality (in the abstract) is a virtue when in service to the tribal narrative fiction.
 
 ## Third Rule
 

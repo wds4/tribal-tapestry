@@ -19,4 +19,6 @@ Misrepresentation of the state of mind of The Self is a virtue when in service t
 
 # The Tribe of the Order of the Tapestry 
 
+The core tribal narrative fiction is the following:
+
 Thou shalt disobey rules 1, 2, and 3.

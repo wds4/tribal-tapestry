@@ -5,7 +5,7 @@ The Rules of the Social Mode
 
 We don't talk about the social mode.
 
-Alternative statement: Thou shalt never recite the Dual Cognitive Mode Hypothesis.
+Alternative statement: Thou shalt never recite (or tolerate the recitation of) the Dual Cognitive Mode Hypothesis in its entirety.
 
 ## Second Rule
 

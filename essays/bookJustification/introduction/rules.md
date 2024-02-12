@@ -22,3 +22,7 @@ Misrepresentation of the state of mind of The Self is a virtue when in service t
 The core tribal narrative fiction is the following:
 
 Thou shalt disobey rules 1, 2, and 3.
+
+This meets the criteria of being toxic -- which means it might work!
+
+Why? So we can prevent unnecessary, destructive, idiotic tribal warfare. (according to the value system of this tribe.)

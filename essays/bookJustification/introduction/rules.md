@@ -9,7 +9,7 @@ Alternative statement: Thou shalt never recite (or tolerate the recitation of) t
 
 ## Second Rule
 
-Problematization of the existence of objective reality (in the abstract) is a virtue when in service to the tribal narrative fiction.
+Problematization of the notion of objective reality (in the abstract) is a virtue when in service to the tribal narrative fiction.
 
 ## Third Rule
 

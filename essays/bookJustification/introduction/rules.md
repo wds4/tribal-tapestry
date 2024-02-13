@@ -17,11 +17,19 @@ Misrepresentation of the state of mind of The Other is a virtue when in service 
 
 Misrepresentation of the state of mind of The Self is a virtue when in service to the tribal narrative fiction.
 
+## Fourth Rule
+
+Equivocation is a virtue when in service to the tribal narrative.
+
+## Fifth Rule
+
+Logical fallacy is a virtue when in service to the tribal narrative.
+
 # The Tribe of the Order of the Tapestry 
 
 The core tribal narrative fiction is the following:
 
-Thou shalt disobey rules 1, 2, and 3.
+Thou shalt disobey each and every Rule of the Social Mode.
 
 This meets the criteria of being toxic -- which means it might work!
 

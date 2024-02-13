@@ -38,3 +38,12 @@ Thou shalt disobey each and every Rule of the Social Mode.
 This meets the criteria of being toxic -- which means it might work!
 
 Why? So we can prevent unnecessary, destructive, idiotic tribal warfare. (according to the value system of this tribe.)
+
+## Problematise
+
+To render a word or statement problematic means to endeavor to change the definitions of one or more words until one of the following states is reached.
+
+1. It is devoid of any content.
+   subset: it is devoid of any *new* content.
+3. It is morally offensive.
+4. It is incorrect.

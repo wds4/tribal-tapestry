@@ -23,7 +23,7 @@ Alternative statement: Equivocation is a virtue when in service to the tribal na
 
 ## Fifth Rule
 
-The Problematization of any unproblematic idea or concept is a virtue when in service to the tribal narrative fiction.
+The *Problematization* of an (otherwise unproblematic, per the standard mode) idea or concept is a virtue when in service to the tribal narrative fiction.
 
 A common pattern is to equivocate between the following two stances:
 - Of course X is true, and with very good justification. How can you be so blind to the justification?

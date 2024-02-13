@@ -13,17 +13,21 @@ Problematization of the notion of objective reality (in the abstract) is a virtu
 
 ## Third Rule
 
-Misrepresentation of the state of mind of The Other is a virtue when in service to the tribal narrative fiction.
-
-Misrepresentation of the state of mind of The Self is a virtue when in service to the tribal narrative fiction.
+Misrepresentation of the state of mind of The Other and or of The Self is a virtue when in service to the tribal narrative fiction.
 
 ## Fourth Rule
 
-Equivocation is a virtue when in service to the tribal narrative.
+Logical fallacy is a virtue when in service to the tribal narrative fiction.
+
+Alternative statement: Equivocation is a virtue when in service to the tribal narrative fiction.
 
 ## Fifth Rule
 
-Logical fallacy is a virtue when in service to the tribal narrative.
+The Problematization of any unproblematic idea or concept is a virtue when in service to the tribal narrative fiction.
+
+## ? Rule
+
+The implicit or explicit advocacy of obediance to each of the above Rules (in the abstract) is a virtue, when in service to the tribal narrative fiction.
 
 # The Tribe of the Order of the Tapestry 
 

@@ -25,6 +25,11 @@ Alternative statement: Equivocation is a virtue when in service to the tribal na
 
 The Problematization of any unproblematic idea or concept is a virtue when in service to the tribal narrative fiction.
 
+A common pattern is to equivocate between the following two stances:
+- Of course X is true, and with very good justification. How can you be so blind to the justification?
+- Of course X is false. How can you make such an unjustified accusation?
+This is accomplished by alteration of the definition of X, i.e. equivocation.
+
 ## ? Rule
 
 The implicit or explicit advocacy of obediance to each of the above Rules (in the abstract) is a virtue, when in service to the tribal narrative fiction.

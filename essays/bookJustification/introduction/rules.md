@@ -41,9 +41,11 @@ Why? So we can prevent unnecessary, destructive, idiotic tribal warfare. (accord
 
 ## Problematise
 
-To render a word or statement problematic means to endeavor to change the definitions of one or more words until one of the following states is reached.
+To render a word or statement problematic means to endeavor to change the definitions of one or more words until one of the following states is reached. Typically this is achieved using one of the following methods:
 
 1. It is devoid of any content.
    subset: it is devoid of any *new* content.
-3. It is morally offensive.
-4. It is incorrect.
+2. It is morally offensive.
+3. It is incorrect.
+
+Equivocation between two or more of the above methods accompanied by studious ignorance of the statement itself is a strong indicator of the social cognitive mode.

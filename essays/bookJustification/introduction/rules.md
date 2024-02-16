@@ -15,6 +15,10 @@ Problematization of the notion of objective reality (in the abstract) is a virtu
 
 Misrepresentation of the state of mind of The Other and or of The Self is a virtue when in service to the tribal narrative fiction.
 
+## Third Rule, corollary
+
+Projection of one own's tribal behaviour onto The Other is a virtue when in service to the tribe.
+
 ## Fourth Rule
 
 Logical fallacy is a virtue when in service to the tribal narrative fiction.

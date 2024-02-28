@@ -1,5 +1,4 @@
-The Dual Cognitive Modes Hypothesis (DCMH)
-=====
+<h1 align="center">The Tribal Tapestry</h1>
 
 **The brain of the social animal, including (but not limited to) humans, has two cognitive modes of operation: the *standard cognitive mode* and the *social cognitive mode***. 
 

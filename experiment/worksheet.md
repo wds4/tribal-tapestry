@@ -10,6 +10,7 @@ The Subject is allowed to have seen this worksheet in advance, but must provide 
 
 Examiner: *State the core Hypothesis of the Tribal Tapestry, in your own words.*
 
+Checklist:
 - [ ] There are two cognitive modes, ______ and ______
 - [ ] These two modes differ in 3 ways: why, when, and what (or how)
   - [ ] why: ______
@@ -18,7 +19,7 @@ Examiner: *State the core Hypothesis of the Tribal Tapestry, in your own words.*
 
 ## Extra Credit, Part 1:
 
-If the above is completed successfully, the Examiner may prompt: *Define the following terms.*
+If the above is completed successfully, the Examiner may prompt: *Define the following terms: Tribal Narrative, Narrative Fiction, Toxicity.*
 
 - [ ] Definition of a Tribal Narrative: _____
 - [ ] Definition of the Narrative Fiction: _____
@@ -28,12 +29,12 @@ If the above is completed successfully, the Examiner may prompt: *Define the fol
 
 If the above is completed successfully, the Examiner may prompt: *Name the Five Rules of the Tribal Mode.*
 
-- [ ] The tribal narrative fiction typically incorporates the following threads:
-  - [ ] First Rule: ______
-  - [ ] Second: ______
-  - [ ] Third: ______
-  - [ ] Fourth: ______
-  - [ ] Fifth: ______
+Checklist:
+- [ ] First Rule: ______
+- [ ] Second: ______
+- [ ] Third: ______
+- [ ] Fourth: ______
+- [ ] Fifth: ______
 
 ## Extra Credit: Part 3
 

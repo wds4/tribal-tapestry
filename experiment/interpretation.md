@@ -1,9 +1,9 @@
 <h1 align="center" >A Test of the Tribal Tapestry Hypothesis: Interpretation</h1>
 
 ## the neuro normative response
-According to the Tribal Tapestry Hypothesis, a neuro normative person will be either unwilling or unable to pass the test. We predict frequent outcomes to be one of the following:
+According to the Tribal Tapestry Hypothesis, a neuro normative person will be either unwilling or unable to pass the test, and will be unable to state anything that is not already commmon knowledge to the Oprah audience. We predict frequent outcomes to be one of the following:
 
-1. *Refusal to take the test because of reasons.*
+1. *Refusal to take the test because of rEaSoNs.*
 
 2. An abbreviated response:
 - [ ] people are tribal, and that's bad, and we should do better

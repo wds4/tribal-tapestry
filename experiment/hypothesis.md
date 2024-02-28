@@ -40,7 +40,7 @@ A collection of toxic threads, woven together, into a pattern that is unique to 
 
 Think of a thread as a representation to a thought or an idea.
 
-A toxic thread is defined as one that exacts a cost to the individual via interference with the normal functioning of the standard cognitive mode. Toxicity is typically achieved either by contradicting observation or engaging in logical fallacy. These are always done in service to the tribal narrative fiction.
+A toxic thread is defined as one that exacts a cost to the individual via interference with the normal functioning of the standard cognitive mode. Toxicity is typically achieved either by contradicting observation or engaging in logical fallacy. In practice, these are typically removed by the standard cognitive mode unless they are protected and implemented by the tribal cognitive mode, in service to the tribal narrative fiction.
 
 ## The game theory for why this system makes sense
 

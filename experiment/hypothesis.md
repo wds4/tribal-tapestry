@@ -50,10 +50,6 @@ Though shalt NEVER recite the Dual Cognitive Mode Hypothesis (the contents of th
 
 Any discussion of the DCMH shall be ignored if possible, or derailed if necessary. The words utlilized to state the DCMH shall be reinterpreted so that any attempted recitation of the DCMH becomes either lacking in substance or offensive (or both).
 
-## Corollary to the DCMH:
-
-- Neuro-normative people are compelled to follow the First Rule of the Social Mode.
-- If you break the First Rule, your ability to virtue signal convincingly will be impaired.
 
 
 

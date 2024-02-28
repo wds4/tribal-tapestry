@@ -18,7 +18,7 @@ Estimated response time: 5 minutes.
 - [ ] Definition of Toxicity: _____
 
 - [ ] The tribal narrative fiction typically incorporates the following threads:
-  - [ ] First: ______
+  - [ ] First Rule: ______
   - [ ] Second: ______
   - [ ] Third: ______
   - [ ] Fourth: ______

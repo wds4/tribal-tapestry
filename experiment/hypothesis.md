@@ -34,7 +34,7 @@ The Tribal Narrative is defined as a vast collection of stories, beliefs, values
 
 ## Tribal narrative fiction
 
-A collection of toxic threads, woven together, into a pattern that is unique to the tribe and that serves to distinguish one tribe from another. The narrative fiction is a subset of the greater tribal narrative, which is typically vast and contains many threads which are not necessarily toxic.
+A collection of toxic threads, woven together, into a pattern that is unique to the tribe and that serves to distinguish one tribe from another. The narrative fiction is typically a very small subset of the greater tribal narrative, which is typically vast and contains many threads which are not necessarily toxic.
 
 ## Toxic threads
 

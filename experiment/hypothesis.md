@@ -1,4 +1,4 @@
-<h1 align="center">The Tribal Tapestry</h1>
+<h1 align="center">The Tribal Tapestry: Summary Statement of the Hypothesis</h1>
 
 **The brain of the social animal, including (but not limited to) humans, has two cognitive modes of operation: the *standard cognitive mode* and the *social cognitive mode***. 
 

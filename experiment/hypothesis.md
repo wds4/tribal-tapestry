@@ -44,7 +44,7 @@ A toxic thread is defined as one that exacts a cost to the individual via interf
 
 ## The game theory for why this system makes sense
 
-Incorporation of a toxic thread into one's psyche is an act of self sacrifice that is hard to fake, hard to undo, and diminishes the feasibility of defecting to enemy tribes. This makes it an effective indicator of tribal loyalty.
+Incorporation of a toxic thread into one's psyche is a costly act of self sacrifice that is hard to fake, hard to undo, and diminishes the feasibility of defecting to enemy tribes. This makes it an effective indicator of tribal loyalty.
 
 
 

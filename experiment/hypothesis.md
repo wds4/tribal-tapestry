@@ -1,20 +1,26 @@
-<h1 align="center">The Tribal Tapestry: Summary Statement of the Hypothesis</h1>
+<h1 align="center">The Tribal Tapestry</h1>
+
+# The Hypothesis in One Sentence
 
 **The brain of the social animal, including (but not limited to) humans, has two cognitive modes of operation: the *standard cognitive mode* and the *social cognitive mode***. 
+
+# Definition of Terms
+
+A full understanding of the hypothesis requires an understanding of the words used to state it.
 
 ## Cognitive Modes
 
 The two cognitive modes differ in three fundamental ways: why, when, what
 
-## Why
+### Why
 - The purpose of the standard cognitive mode is to maintain a model of the world that is relevant, accurate, and most importantly, *useful*.
 - The purpose of the social cognitive mode is to gain acceptance by the tribe; to *belong*.
 
-## When
+### When
 - The standard cognitive mode is ALWAYS in control, in EVERY context, by default, UNLESS it is overridden by the social cognitive mode.
 - The social cognitive mode overrides the standard cognitive mode ONLY when required to do so by the tribal narrative fiction. Since every tribe has its own unique and distinctive narrative fiction, when this mode kicks in is only in very particular, highly specific contexts, SPECIFIC TO THE TRIBE.
 
-## What / How
+### What / How
 - standard cognitive mode: observation and logic
 - social cognitive mode: demonstrations of loyalty to the tribe by the performance of virtue signals
 

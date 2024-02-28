@@ -1,6 +1,6 @@
 <h1 align="center" >The Rules of the Social Mode</h1>
 
-The context-dependent application of the following rules (with the possible exception of the first rule, which is context-independent) is the key to the recognition of their existence.
+The social mode is enabled by (alternatively, *is defined as*) the following set of rules. This list is in draft form and likely incomplete. The context-dependent application of these rules (with the possible exception of the first rule, which is context-independent) is the key to the recognition of their existence.
 
 ## First Rule (_Blind Spot_)
 

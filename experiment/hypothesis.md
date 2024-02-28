@@ -2,11 +2,7 @@
 
 **The brain of the social animal, including (but not limited to) humans, has two cognitive modes of operation: the *standard cognitive mode* and the *social cognitive mode***. 
 
-## Test of the DCMH (including corollary, below)
-
-Read the DCMH, restate it in your own words, and then write it from memory on a separate sheet of paper. If you are neuro-normative, YOU WILL BE UNABLE TO DO SO.
-
-## Explanation
+## Cognitive Modes
 
 The two cognitive modes differ in three fundamental ways: why, when, what
 

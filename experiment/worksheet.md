@@ -28,15 +28,16 @@ If the above is completed successfully, the Examiner may prompt: *Define the fol
 
 ## Extra Credit: Part 2
 
-If the above is completed successfully, the Examiner may prompt: *Name the Five Rules of the Tribal Mode.*
+If the above is completed successfully, the Examiner may prompt: *Describe the Rules of the Tribal Mode*, and may prompt with the name of each rule.
 
 Checklist:
 - [ ] First Rule: ______
-- [ ] Second: ______
-- [ ] Third: ______
-- [ ] Fourth: ______
-- [ ] Fifth: ______
-- [ ] Sixth: _____
+- [ ] Second (Reality): ______
+- [ ] Third (Straw Man): ______
+- [ ] Third Rule (Corollary) (Projection): ______
+- [ ] Fourth (Equivocation): ______
+- [ ] Fifth (Misinterpretation / Problematization): ______
+- [ ] Sixth (the Messenger versus the Message): _____
 
 ## Extra Credit: Part 3
 

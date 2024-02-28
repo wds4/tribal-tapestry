@@ -32,6 +32,13 @@ Estimated response time: less than 5 minutes.
   - [ ] Fourth: ______
   - [ ] Fifth: ______
 
+## Extra Credit: Part 3
+
+*Name the Three Components of a Virtue Signal.*
+- [ ] the universally acceptable *core*
+- [ ] the toxic *overlay*
+- [ ] the union of the core with the overlay
+
 # Assessment
 
 Each item on the above checklist is marked correct or incorrect. Note that the precise terminology is less important than the ideas that the terms are meant to represent.

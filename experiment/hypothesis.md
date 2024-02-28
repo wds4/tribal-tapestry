@@ -30,17 +30,17 @@ The purpose of a virtue signal is to broadcast / demonstrate / shout from the mo
 
 ## Tribal Narrative
 
-The Tribal Narrative is defined as a vast collection of stories, beliefs, values, expectations, language, rules, roles, laws, etc, all loosely woven and integrated together into a tapestry according to the tapestry model of knowledge representation.
+The Tribal Narrative is defined as a vast collection of stories, beliefs, values, expectations, language, rules, roles, laws, etc, all loosely woven and integrated together into a tapestry according to the tapestry model of knowledge representation. Most threads of the tribal narrative as a whole are not (necessarily) toxic.
 
 ## Tribal narrative fiction
 
-A collection of toxic threads, woven together, into a pattern that is unique to the tribe and that serves to distinguish one tribe from another. The narrative fiction is typically a very small subset of the greater tribal narrative, which is typically vast and contains many threads which are not necessarily toxic.
+A small subset of the greater tribal narrative, consisting of *toxic threads*, woven into a pattern that is unique to the tribe and that serves to distinguish one tribe from another.
 
 ## Toxic threads
 
 Think of a thread as a representation to a thought or an idea.
 
-A toxic thread is defined as one that exacts a cost to the individual via interference with the normal functioning of the standard cognitive mode. Toxicity is typically achieved either by contradicting observation or engaging in logical fallacy. In practice, toxic threads are typically removed by the standard cognitive mode unless they are protected and implemented by the tribal cognitive mode, in service to the tribal narrative fiction.
+A toxic thread is defined as one that exacts a cost to the individual via interference with the normal functioning of the standard cognitive mode. Toxicity is typically achieved either by contradicting observation or engaging in logical fallacy. In practice, toxic threads are automatically rejected / removed by the standard cognitive mode unless they are protected and implemented by the tribal cognitive mode, in service to the tribal narrative fiction.
 
 ## The game theory for why this system makes sense
 

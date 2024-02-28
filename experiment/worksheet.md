@@ -36,6 +36,7 @@ Checklist:
 - [ ] Third: ______
 - [ ] Fourth: ______
 - [ ] Fifth: ______
+- [ ] Sixth: _____
 
 ## Extra Credit: Part 3
 

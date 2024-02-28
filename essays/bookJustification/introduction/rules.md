@@ -1,4 +1,4 @@
-<center>The Rules of the Social Mode</center>
+<p align="center">The Rules of the Social Mode</p>
 =====
 
 ## First Rule

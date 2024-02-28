@@ -1,16 +1,4 @@
-<h1 align="center" >A Test of the Tribal Tapestry Hypothesis</h1>
-
-The First Rule of the Social / Tribal mode is that *we don't talk about the social cognitive mode.* a.k.a: *Thou shalt not EVER recite the Tribal Tapestry Hypothesis in its entirety.*
-
-We therefore make the following prediction: a neuro normative person, defined for our purposes as someone who follows the First Rule, will have inordinate amount of difficulty learning and reciting the Hypothesis. This is expected to manifest in several ways, including a refusal to make the attempt. The most interesting prediction is that a subject who knows the Hypothesis at one period in time will find that the content of the Hypothesis has been forgotten, like a dream, as if actively erased from the mind, and that this erasure will happen in a surprisingly short amount of time.
-
-To test this hypothesis, two people, a Questioner and a Subject, familarize themselves with the Hypothesis, either indepdently or together, until they are each satisfied that they are familiar with the Hypothesis.
-
-A certain amount of time later (between one day and one week later) the test is performed using the following Worksheet.
-
-<h1 align="center" >Worksheet</h1>
-
-The Questioner takes this sheet of paper ("A Test of the Tribal Tapestry Hypothesis") and tests the Subject as follows:
+<h1 align="center" >A Test of the Tribal Tapestry Hypothesis: Worksheet</h1>
 
 Question: *State the hypothesis of the Tribal Tapestry, in its entirety, in your own words.*
 

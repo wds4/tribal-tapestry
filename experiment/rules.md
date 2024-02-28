@@ -26,3 +26,6 @@ Logical fallacy via equivocation is a virtue when in service to the tribal narra
 
 The *Problematization* of an (otherwise unproblematic, per the standard mode) idea or concept is a virtue when in service to the tribal narrative fiction.
 
+## Sixth Rule (_Messenger versus the Message_)
+
+When in the standard mode, the content of the message is more relevant than the tribal identity of the messenger. When in the tribal mode, the reverse is true.

@@ -19,8 +19,9 @@ Checklist:
 
 ## Extra Credit, Part 1:
 
-If the above is completed successfully, the Examiner may prompt: *Define the following terms: Tribal Narrative, Narrative Fiction, Toxicity.*
+If the above is completed successfully, the Examiner may prompt: *Define the following terms: Virtue Signal, Tribal Narrative, Narrative Fiction, Toxicity.*
 
+- [ ] Definition of a Virtue Signal: _____
 - [ ] Definition of a Tribal Narrative: _____
 - [ ] Definition of the Narrative Fiction: _____
 - [ ] Definition of Toxicity: _____

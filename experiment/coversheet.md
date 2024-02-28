@@ -6,7 +6,7 @@ We therefore make the following prediction: a neuro normative person, defined fo
 
 To test this hypothesis, two people, a Questioner and a Subject, familarize themselves with the Hypothesis, either indepdently or together, until they are each satisfied that they are familiar with the Hypothesis.
 
-A certain amount of time later (between one day and one week later) the test is performed using the Worksheet.
+A certain amount of time later (between one day and one week later; ideally involving at least one sleep cycle) the test is performed using the accompanying Worksheet.
 
 # Comments
 

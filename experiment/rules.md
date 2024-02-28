@@ -2,7 +2,7 @@
 
 The social mode is enabled by (alternatively, *is defined as*) the following set of rules. This list is in draft form and likely incomplete. The context-dependent application of these rules (with the possible exception of the first rule, which is context-independent) is the key to the recognition of their existence.
 
-## First Rule (_Blind Spot_)
+## First Rule
 
 We don't talk about the social mode.
 
@@ -12,7 +12,7 @@ Alternative statement 2: We are UNAWARE of the existence of the social mode.
 
 Alternative statement 3: Thou shalt never recite (or tolerate the recitation of) the Tribal Tapestry Hypothesis.
 
-## Second Rule (_What is Reality, Anyway_)
+## Second Rule (_Reality_)
 
 The *problematization* of the notion of objective reality (in the abstract) is a virtue when in service to the tribal narrative fiction.
 

@@ -34,7 +34,7 @@ The *problematization* of words, ideas or concepts is a virtue when in service t
 
 ## Sixth Rule (_Messenger versus the Message_)
 
-When in the standard mode, the content of the message is more relevant than the tribal identity of the messenger. When in the tribal mode, the reverse is true.
+When in the standard mode, the content of the message is more important than the tribal identity of the messenger. When in the tribal mode, it's the other way around.
 
 # Definitions
 

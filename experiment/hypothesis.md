@@ -2,7 +2,7 @@
 
 # The Hypothesis in One Sentence
 
-**The brain of the social animal, including (but not limited to) humans, has two cognitive modes of operation: the *standard cognitive mode* and the *social cognitive mode***. 
+**The brain of the social animal, including (but not limited to) humans, has two cognitive modes of operation: the *standard cognitive mode* and the *social (tribal) cognitive mode***. 
 
 # Definition of Terms
 

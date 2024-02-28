@@ -1,6 +1,6 @@
 <h1 align="center" >A Test of the Tribal Tapestry Hypothesis: Worksheet</h1>
 
-Examiner: *State the hypothesis of the Tribal Tapestry, in its entirety, in your own words.*
+Examiner: *State the core hypothesis of the Tribal Tapestry, in your own words.*
 
 The Subject must answer this question from memory. The Examiner checks which of the following are included in the answer and fills in the blanks for later assessment.
 
@@ -13,7 +13,7 @@ Estimated response time: less than 5 minutes.
   - [ ] when: ______
   - [ ] what (how): ______
 
-## Extra Credit, pPart 1:
+## Extra Credit, Part 1:
 
 *Define the following terms.*
 

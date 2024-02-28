@@ -26,8 +26,13 @@ Logical fallacy via equivocation is a virtue when in service to the tribal narra
 
 ## Fifth Rule (_Problematization_)
 
-The *problematization* of an idea or concept is a virtue when in service to the tribal narrative fiction. The effect of this rule is to make people unanable to think certain thoughts by objecting to the words that would enable them to do so.
+The *problematization* of words, ideas or concepts is a virtue when in service to the tribal narrative fiction. The effect of this rule is to make people unanable to think certain thoughts by objecting to the words that would enable them to do so.
 
 ## Sixth Rule (_Messenger versus the Message_)
 
 When in the standard mode, the content of the message is more relevant than the tribal identity of the messenger. When in the tribal mode, the reverse is true.
+
+# Definitions
+
+- equivocation: the strategic and surreptitious switching between two (or more) definitions of a word, phrase, or concept, within the context of a single argument or line of thought
+- problematization: objection to the usage or even the very existence of a particular word, phrase or concept on the grounds that virtuous people would not use it or think it

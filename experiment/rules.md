@@ -28,7 +28,7 @@ Projection of one own's tribal toxicity onto The Other is a virtue when in servi
 
 Logical fallacy via equivocation is a virtue when in service to the tribal narrative fiction.
 
-## Fifth Rule (_Problematization_)
+## Fifth Rule (_Misinterpretation / Problematization_)
 
 The *problematization* of words, ideas or concepts is a virtue when in service to the tribal narrative fiction. The effect of this rule is to render people unanable to communicate or even to think certain thoughts by removing from their brains the words that would enable them to do so.
 

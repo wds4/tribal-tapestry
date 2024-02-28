@@ -6,7 +6,9 @@ The social mode is enabled by (alternatively, *is defined as*) the following set
 
 We don't talk about the social mode.
 
-Alternative statement: Thou shalt never recite (or tolerate the recitation of) the Tribal Tapestry Hypothesis in its entirety.
+Alternative statement 1: We don't acknowledge the existence of the social mode.
+
+Alternative statement 2: Thou shalt never recite (or tolerate the recitation of) the Tribal Tapestry Hypothesis in its entirety.
 
 ## Second Rule (_What is Reality, Anyway_)
 

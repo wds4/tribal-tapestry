@@ -4,6 +4,8 @@ Examiner: *State the hypothesis of the Tribal Tapestry, in its entirety, in your
 
 The Subject must answer this question from memory. The Examiner checks which of the following are included in the answer and fills in the blanks for later assessment.
 
+Estimated response time: 5 minutes.
+
 ## Checklist
 - [ ] There are two cognitive modes, ______ and ______
 - [ ] These two modes differ in 3 ways: why, when, and what (or how)

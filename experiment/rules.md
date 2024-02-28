@@ -8,7 +8,7 @@ Alternative statement: Thou shalt never recite (or tolerate the recitation of) t
 
 ## Second Rule (_Reality isn't Real_)
 
-Problematization of the notion of objective reality (in the abstract) is a virtue when in service to the tribal narrative fiction.
+The *problematization* of the notion of objective reality (in the abstract) is a virtue when in service to the tribal narrative fiction.
 
 ## Third Rule (_Straw Man_)
 
@@ -24,7 +24,7 @@ Logical fallacy via equivocation is a virtue when in service to the tribal narra
 
 ## Fifth Rule (_Problematization_)
 
-The *Problematization* of an (otherwise unproblematic, per the standard mode) idea or concept is a virtue when in service to the tribal narrative fiction.
+The *problematization* of an idea or concept is a virtue when in service to the tribal narrative fiction.
 
 ## Sixth Rule (_Messenger versus the Message_)
 

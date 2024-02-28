@@ -1,12 +1,15 @@
 <h1 align="center" >A Test of the Tribal Tapestry Hypothesis: Worksheet</h1>
 
-Examiner: *State the core hypothesis of the Tribal Tapestry, in your own words.*
+This Worksheet is to be used by an Examiner who poses the following questions to a Subject.
 
-The Subject must answer this question from memory. The Examiner checks which of the following are included in the answer and fills in the blanks for later assessment.
+Estimated test time: 5 - 10 minutes.
 
-Estimated response time: less than 5 minutes.
+The Subject is allowed to have seen this worksheet in advance, but must provide answers from memory. The Examiner checks which of the following responses are provided by the Subject and fills in the blanks for later assessment.
 
-## Checklist
+## The Test
+
+Examiner: *State the core Hypothesis of the Tribal Tapestry, in your own words.*
+
 - [ ] There are two cognitive modes, ______ and ______
 - [ ] These two modes differ in 3 ways: why, when, and what (or how)
   - [ ] why: ______
@@ -15,7 +18,7 @@ Estimated response time: less than 5 minutes.
 
 ## Extra Credit, Part 1:
 
-*Define the following terms.*
+If the above is completed successfully, the Examiner may prompt: *Define the following terms.*
 
 - [ ] Definition of a Tribal Narrative: _____
 - [ ] Definition of the Narrative Fiction: _____
@@ -23,7 +26,7 @@ Estimated response time: less than 5 minutes.
 
 ## Extra Credit: Part 2
 
-*Name the Five Rules of the Tribal Mode.*
+If the above is completed successfully, the Examiner may prompt: *Name the Five Rules of the Tribal Mode.*
 
 - [ ] The tribal narrative fiction typically incorporates the following threads:
   - [ ] First Rule: ______

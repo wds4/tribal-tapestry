@@ -32,6 +32,8 @@ If the above is completed successfully, the Examiner may prompt: *Describe the R
 
 Checklist:
 - [ ] First Rule: ______
+- [ ] Studious Inattention
+- [ ] Logical Fallacy
 - [ ] Second (Reality): ______
 - [ ] Third (Straw Man): ______
 - [ ] Third Rule (Corollary) (Projection): ______

@@ -4,7 +4,7 @@ Examiner: *State the hypothesis of the Tribal Tapestry, in its entirety, in your
 
 The Subject must answer this question from memory. The Examiner checks which of the following are included in the answer and fills in the blanks for later assessment.
 
-Estimated response time: 5 minutes.
+Estimated response time: less than 5 minutes.
 
 ## Checklist
 - [ ] There are two cognitive modes, ______ and ______
@@ -13,9 +13,17 @@ Estimated response time: 5 minutes.
   - [ ] when: ______
   - [ ] what (how): ______
 
+## Extra Credit, pPart 1:
+
+*Define the following terms.*
+
 - [ ] Definition of a Tribal Narrative: _____
 - [ ] Definition of the Narrative Fiction: _____
 - [ ] Definition of Toxicity: _____
+
+## Extra Credit: Part 2
+
+*Name the Five Rules of the Tribal Mode.*
 
 - [ ] The tribal narrative fiction typically incorporates the following threads:
   - [ ] First Rule: ______

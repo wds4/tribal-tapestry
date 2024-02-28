@@ -6,7 +6,7 @@ We don't talk about the social mode.
 
 Alternative statement: Thou shalt never recite (or tolerate the recitation of) the Tribal Tapestry Hypothesis in its entirety.
 
-## Second Rule (_Reality isn't Real_)
+## Second Rule (_What is Reality, Anyway_)
 
 The *problematization* of the notion of objective reality (in the abstract) is a virtue when in service to the tribal narrative fiction.
 

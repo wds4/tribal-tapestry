@@ -17,12 +17,12 @@ Estimated response time: 5 minutes.
 - [ ] Definition of the Narrative Fiction: _____
 - [ ] Definition of Toxicity: _____
 
-- [ ] The social / tribal mode imposes a list of rules:
-- [ ] First: ______
-- [ ] Second: ______
-- [ ] Third: ______
-- [ ] Fourth: ______
-- [ ] Fifth: ______
+- [ ] The tribal narrative fiction typically incorporates the following threads:
+  - [ ] First: ______
+  - [ ] Second: ______
+  - [ ] Third: ______
+  - [ ] Fourth: ______
+  - [ ] Fifth: ______
 
 # Assessment
 

@@ -42,14 +42,6 @@ A toxic thread is defined as one that exacts a cost to the individual via interf
 
 Incorporation of a toxic thread into one's psyche is an act of self sacrifice that is hard to fake, hard to undo, and diminishes the feasibility of defecting to enemy tribes. This makes it an effective indicator of tribal loyalty.
 
-## The First Rule of the Social Mode
-
-Though shalt NEVER recite the Dual Cognitive Mode Hypothesis (the contents of this page) in its entirety, because doing so will impair your ability to virtue signal convincingly.
-
-## Implementation of the First Rule
-
-Any discussion of the DCMH shall be ignored if possible, or derailed if necessary. The words utlilized to state the DCMH shall be reinterpreted so that any attempted recitation of the DCMH becomes either lacking in substance or offensive (or both).
-
 
 
 

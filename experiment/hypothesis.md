@@ -28,6 +28,10 @@ The two cognitive modes differ in three fundamental ways: why, when, what
 
 The purpose of a virtue signal is to broadcast / demonstrate / shout from the mountaintops (to tribal insiders AND outsiders) that the tribal narrative fiction has been woven irreversibly into one's brain.
 
+## Tribal Narrative
+
+The Tribal Narrative is defined as a vast collection of stories, beliefs, values, expectations, language, rules, roles, laws, etc, all loosely woven and integrated together into a tapestry according to the tapestry model of knowledge representation.
+
 ## Tribal narrative fiction
 
 A collection of toxic threads, woven together, into a pattern that is unique to the tribe and that serves to distinguish one tribe from another. The narrative fiction is a subset of the greater tribal narrative, which is typically vast and contains many threads which are not necessarily toxic.

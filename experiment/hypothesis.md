@@ -18,10 +18,10 @@ The two cognitive modes differ in three fundamental ways: why, when, what
 
 ### When
 - The standard cognitive mode is ALWAYS in control, in EVERY context, by default, UNLESS it is overridden by the social cognitive mode.
-- The social cognitive mode overrides the standard cognitive mode ONLY when required to do so by the tribal narrative fiction. Since every tribe has its own unique and distinctive narrative fiction, when this mode kicks in is only in very particular, highly specific contexts, SPECIFIC TO THE TRIBE.
+- The social cognitive mode overrides the standard cognitive mode ONLY when required to do so by the tribal narrative fiction. Since every tribe has its own unique and distinctive narrative fiction, when this mode kicks in is only in very particular, highly specific *contexts*, SPECIFIC TO THE TRIBE.
 
 ### What / How
-- standard cognitive mode: observation and logic
+- standard cognitive mode: data is acquired by the senses and processed using algorithms shaped (presumably) by evolution, and which we refer to as *logic*
 - social cognitive mode: demonstrations of loyalty to the tribe by the performance of virtue signals
 
 ## Virtue signals

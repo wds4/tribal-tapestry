@@ -1,6 +1,6 @@
 <h1 align="center" >The Rules of the Social Mode</h1>
 
-## First Rule
+## First Rule (_Blind Spot_)
 
 We don't talk about the social mode.
 

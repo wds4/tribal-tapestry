@@ -1,4 +1,4 @@
-The Rules of the Social Mode
+<center>The Rules of the Social Mode</center>center>
 =====
 
 ## First Rule

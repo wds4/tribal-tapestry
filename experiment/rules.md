@@ -18,7 +18,7 @@ The *problematization* of the notion of objective reality (in the abstract) is a
 
 ## Third Rule (_Straw Man_)
 
-Misrepresentation of the state of mind of The Other and or of The Self is a virtue when in service to the tribal narrative fiction.
+Misrepresentation of the state of mind of The Other and / or of The Self is a virtue when in service to the tribal narrative fiction.
 
 ## Third Rule, corollary (_Projection_)
 

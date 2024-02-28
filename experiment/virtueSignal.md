@@ -23,11 +23,11 @@ There are two factors to consider when evaluating a subject's
 
 Virtuous subject: endorse the virtue signal and attempt to bind them together more tightly
 
-the Other: reject the virtue signal
+the Other: reject the virtue signal; may attempt to unravel the union of the core and the overlay, so that the core can be accepted while the overlay is rejected
 
 # Nonstandard responses
 
-One potential response that does not fit into either of the above categories and that is worth noting would be the subject who is able to dissect the core and the overlay. 
+One potential response that does not fit into either of the above categories and that is worth noting would be the subject who is able to unravel the core and the overlay. This is nonstandard because virtue signals are designed to make this very hard to do. The abaility to do this successfully generaly requires preparation and advanced and detailed knowledge of the virtue signal and the tribal tapestry in which it is embedded.
 
 # Why this makes sense
 

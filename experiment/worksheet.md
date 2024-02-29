@@ -32,7 +32,7 @@ If the above is completed successfully, the Examiner may prompt: *Describe the R
 
 Checklist:
 - [ ] First Rule: ______
-- [ ] Studious Inattention
+- [ ] Attention
 - [ ] Logical Fallacy
 - [ ] Second (Reality): ______
 - [ ] Third (Straw Man): ______

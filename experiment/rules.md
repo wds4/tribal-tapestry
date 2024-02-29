@@ -22,27 +22,27 @@ The *studious inattention* towards data that conflicts with the tribal narrative
 
 Logical fallacy in service to one's own tribal narrative is a virtue.
 
-## Second Rule (_Reality_)
+## _Reality_
 
 The *problematization* of the notion of objective reality (in the abstract) is a virtue when in service to the tribal narrative fiction.
 
-## Third Rule (_Straw Man_)
+## _Theory of Mind_
 
 Misrepresentation of the state of mind of The Other and / or of The Self is a virtue when in service to the tribal narrative fiction.
 
-## Third Rule, corollary (_Projection_)
+## _Projection_
 
 Projection of one own's tribal toxicity onto The Other is a virtue when in service to the tribe.
 
-## Fourth Rule (_Equivocation_)
+## _Equivocation_
 
 Logical fallacy via equivocation is a virtue when in service to the tribal narrative fiction.
 
-## Fifth Rule (_Misinterpretation / Problematization_)
+## _Misinterpretation / Problematization_
 
 The misinterpretation or *problematization* of words, ideas or concepts is a virtue when in service to the tribal narrative fiction. The effect of this rule is to render people unanable to communicate or even to think certain thoughts by removing from their brains the words that would enable them to do so.
 
-## Sixth Rule (_Messenger versus the Message_)
+## _Messenger versus the Message_
 
 When in the standard mode, the content of the message is more important than the tribal identity of the messenger. When in the tribal mode, it's the other way around.
 

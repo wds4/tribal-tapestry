@@ -32,14 +32,14 @@ If the above is completed successfully, the Examiner may prompt: *Describe the R
 
 Checklist:
 - [ ] First Rule: ______
-- [ ] Attention
-- [ ] Logical Fallacy
-- [ ] Second (Reality): ______
-- [ ] Third (Straw Man): ______
-- [ ] Third Rule (Corollary) (Projection): ______
-- [ ] Fourth (Equivocation): ______
-- [ ] Fifth (Misinterpretation / Problematization): ______
-- [ ] Sixth (the Messenger versus the Message): _____
+- [ ] Attention: ______
+- [ ] Logical Fallacy: ______
+- [ ] Reality: ______
+- [ ] Straw Man: ______
+- [ ] Projection: ______
+- [ ] Equivocation: ______
+- [ ] Misinterpretation / Problematization: ______
+- [ ] the Messenger versus the Message: _____
 
 ## Extra Credit: Part 3
 

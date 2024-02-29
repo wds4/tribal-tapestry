@@ -14,13 +14,13 @@ Alternative statement 2: We are UNAWARE of the existence of the social mode.
 
 Alternative statement 3: Thou shalt never recite (or tolerate the recitation of) the Tribal Tapestry Hypothesis.
 
-## _Studious inattention_
+## _Aattention_
 
-Studious inattention in service to the tribal narrative is a virtue.
+The *studious inattention* towards data that conflicts with the tribal narrative is a virtue. Conversely, the *selective attention* towards data that supports the tribal narrative is a virtue.
 
 ## _Logical fallacy_
 
-Logical fallacy in service to the tribal narrative is a virtue.
+Logical fallacy in service to one's own tribal narrative is a virtue.
 
 ## Second Rule (_Reality_)
 

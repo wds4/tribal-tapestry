@@ -8,7 +8,7 @@ The Subject is allowed to have seen this worksheet in advance, but must provide 
 
 ## The Test
 
-Examiner: *State the core Hypothesis of the Tribal Tapestry, in your own words.*
+Examiner: *State the core Hypothesis of the Tribal Tapestry, in your own words. You must include at least one element of the Hypothesis that you consider to be both substantive and novel.*
 
 Checklist:
 - [ ] There are two cognitive modes, ______ and ______

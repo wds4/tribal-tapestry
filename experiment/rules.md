@@ -14,7 +14,7 @@ Alternative statement 2: We are UNAWARE of the existence of the social mode.
 
 Alternative statement 3: Thou shalt never recite (or tolerate the recitation of) the Tribal Tapestry Hypothesis.
 
-## _Aattention_
+## _Attention_
 
 The *studious inattention* towards data that conflicts with the tribal narrative is a virtue. Conversely, the *selective attention* towards data that supports the tribal narrative is a virtue.
 

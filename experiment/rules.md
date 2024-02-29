@@ -28,7 +28,7 @@ The *problematization* of the notion of objective reality (in the abstract) is a
 
 ## _Theory of Mind_
 
-Misrepresentation of the state of mind of The Other and / or of The Self is a virtue when in service to the tribal narrative fiction.
+Misrepresentation and misunderstanding of the state of mind of The Other (including the tribal narrative of the Other) and / or of The Self is a virtue when in service to the tribal narrative fiction.
 
 ## _Projection_
 

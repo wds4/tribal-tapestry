@@ -10,4 +10,4 @@ To test this hypothesis, two people, a Questioner and a Subject, familarize them
 
 A certain amount of time later (between one day and one week later; ideally involving at least one sleep cycle) the test is performed using the accompanying Worksheet.
 
-Our prediction is that the Subject's ability to state the Hypothesis will deteriorate rapidly, and that any attempt to repeat the Hypothesis will result in "nothing new."
+Our prediction is that the Subject's ability to state the Hypothesis will deteriorate rapidly. Specifically, any elements that the Subject previously considered both substantive and novel will be subject to rapid erasure.

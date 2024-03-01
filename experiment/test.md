@@ -6,7 +6,7 @@ We make two Predictions (P):
 
 PROVE ME WRONG -- and get paid to do it!!!!
 
-If you want to prove me wrong, all you have to do is read the TTH, learn it, and be able to pass a simple test a short time later. You even get to see the test ahead of time. Simple as that!!!
+If you want to prove me wrong, all you have to do is read the TTH, learn it, and be able to pass a simple test of its contents. You even get to see the test ahead of time. Simple as that!!!
 
 <hr />
 

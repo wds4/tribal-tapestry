@@ -4,7 +4,7 @@ We make two Predictions (P):
 1. An unexpectedly high percentage of prospective study participants will be unable and / or unwilling to learn and recite the TTH, even once.
 2. Of those who are able to recite the TTH at baseline, an unexpectedly high percentage will be unable to recite the TTH a short time later. *The TTH will be automatically and actively erased from memory.*
 
-PROVE ME WRONG!!!!
+PROVE ME WRONG -- and get paid to do it!!!!
 
 If you want to prove me wrong, all you have to do is read the TTH, learn it, and be able to pass a simple test a short time later. You even get to see the test ahead of time. Simple as that!!!
 

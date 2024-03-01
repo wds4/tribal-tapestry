@@ -10,7 +10,7 @@ If you want to prove me wrong, all you have to do is read the TTH, learn it, and
 
 <hr />
 
-## Description
+### Rationale for our Predictions (P)
 
 The First Rule of the Social / Tribal mode is that *we don't talk about the social cognitive mode.* a.k.a: *Thou shalt not EVER recite the Tribal Tapestry Hypothesis (TTH) in its entirety.*
 

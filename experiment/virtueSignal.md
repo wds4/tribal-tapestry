@@ -9,13 +9,17 @@ The primary motivaiton of engaging in virtue signaling is to broadcast allegianc
 One demonstrates loyalty to the tribe via one's response to a virtue signal. In effect, a virtue signal is a litmus test with a binary outcome. It is a collection of attractive and toxic ideas that are bundled together into a package deal, and one is expected either to endorse them (the entire package) or to reject them.
 
 # Components and features
-### Primary
+
+Virtue signals can be identified in the wild by these features:
+
+### Primary features
 - a universally acceptible *core* (ideas, values, etc that are typically acceptable to the standard cognitive mode, so that most or all people would agree with them, regardless of tribal affiliation)
 - a toxic *overlay* (e.g. hypocrisy or unfalsifiable assertions of fact, typically unacceptable to the standard cognitive mode)
 - the *union* of the core with the overlay (an argument that acceptance of the core and the overlay must be a package deal. This argument is included within the toxic overlay.)
 
-### Secondary
-- the challenge (an individual demonstrates acceptance or rejection of the VS)
+### Secondary features
+- the challenge: a social scenario in which the VS is presented to an individual, who is invited or expected to provide a reaction
+- binary responses: an individual demonstrates acceptance or rejection of the VS
 - calibration (acceptance of the overlay needs to incur a cost that is not too high and not too low, the determination of which is encoded into the tribal narrative fiction; analogous to the *difficulty adjustment* of the proof of work consensus mechanism)
 
 # Standard Binary Responses:
@@ -25,9 +29,9 @@ There are two factors to consider when evaluating a subject's response to the ch
 - Does the subject endorse or reject the virtue signal?
 - Does the subject attempt to separate the core from the overlay, or bind them together more tightly?
 
-The virtuous subject: attends to the core, ignores the toxicity, endorses the virtue signal, and resists any attempt to disentangle the core and the overlay.
+The virtuous subject: moral indignation; draws attention to and endorses the core, ignores vs endorses the toxicity, endorses the virtue signal as a whole, and resists any attempt to disentangle the core and the overlay.
 
-The Other: ignores the core, attends to the toxicity, rejects the virtue signal, and (if sufficiently motivated and prepared) may attempt to unravel the core and the overlay, so that the core can be accepted while the overlay is rejected.
+The Other: _irritation_; draws attention to and rejects the toxicity, ignores vs endorses the core, rejects the virtue signal as a whole, and (if sufficiently motivated and prepared) may attempt to disentangle the core and the overlay, so that the core can be accepted while the overlay is rejected.
 
 # Nonstandard responses
 

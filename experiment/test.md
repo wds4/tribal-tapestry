@@ -19,3 +19,5 @@ To test our Predictions (P), two people, a Questioner and a Subject, familarize 
 To demonstrate such satisfaction, they should each write down at least one such element. If they are not so satisfied, do not proceed with the test.
 
 At t = baseline, the test is performed using the accompanying Worksheet. A certain amount of time later (between one day and one week later; ideally involving at least one sleep cycle) the test is repeated; this is the "follow up" test. The primary endpoint will be the percentage change in score between the baseline and the follow up test. One or more control hypotheses of similar complexity may be devised for comparison.
+
+Participants will be paid for participation, with a bonus payment for higher test scores.

@@ -38,13 +38,11 @@ A small subset of the greater Tribal Narrative, consisting of *toxic threads*, w
 
 ## Toxic threads
 
-Think of a thread as a representation of a thought or an idea.
-
-A toxic thread is defined as one that exacts a cost to the individual via interference with the normal functioning of the standard cognitive mode. Toxicity is typically achieved either by contradicting observation or engaging in logical fallacy. In practice, toxic threads are automatically rejected / removed by the standard cognitive mode unless they are protected and implemented by the tribal cognitive mode, in service to the tribal narrative fiction.
+Toxicity is defined by its opposition to the normal operations of the standard mode, no matter what those may be. A *toxic* thread is defined as a particular thought or idea (a thread), the incopporation of which incurs a *cost* to the individual via interference with the normal functioning of the standard cognitive mode. Toxicity is usually achieved either by contradicting observation or engaging in logical fallacy. By definition, a toxic thread is one that would normally be automatically rejected / removed by the usual operations of the standard cognitive mode.
 
 ## The game theory for why this system makes sense
 
-Incorporation of a toxic thread into one's psyche is a costly act of self sacrifice that is hard to fake, hard to undo, and diminishes the feasibility of defecting to enemy tribes. This makes it an effective indicator of tribal loyalty.
+Incorporation of a toxic thread into one's psyche is a costly act of self sacrifice that is hard to fake, hard to undo, and diminishes the feasibility of defecting to enemy tribes. This makes it simultaneously an _indicator_ and an _enforcement mechanism_ of tribal loyalty.
 
 
 

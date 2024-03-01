@@ -6,7 +6,10 @@ The First Rule of the Social / Tribal mode is that *we don't talk about the soci
 
 We therefore make the following Prediction (P): a neuro normative person (the Subject), having learned the Tribal Tapestry Hypothesis (TTH) well enough to state it at a baseline point in time, will have difficulty *remembering* the TTH, because the healthy brain will *actively erase* the TTH from itself.
 
-To test our Prediction (P), two people, a Questioner and a Subject, familarize themselves with the TTH as stated on the accompanying pages, either indepdently or together, until they are each satisfied that they are familiar with the TTH. The Subject and the Questioner should be satisfied that the TTH is 1) substantive and 2) novel, meaning that the TTH is 1) testable and 2) contains at least one substantive element that they have not encountered elsewhere. To demonstrate such satisfaction, they should each write down at least one such element. If they are not so satisfied, do not proceed with the test.
+To test our Prediction (P), two people, a Questioner and a Subject, familarize themselves with the TTH as stated on the accompanying pages, either indepdently or together, until they are each satisfied that they are familiar with the TTH. Specifically, the Subject and the Questioner should be satisfied:
+1. that the TTH is substantive, i.e. both testable and nontrivial
+2. that the TTH novel, i.e. it contains at least one substantive element that they have not encountered elsewhere.
+To demonstrate such satisfaction, they should each write down at least one such element. If they are not so satisfied, do not proceed with the test.
 
 A certain amount of time later (between one day and one week later; ideally involving at least one sleep cycle) the test is performed using the accompanying Worksheet.
 

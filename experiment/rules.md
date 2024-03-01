@@ -2,7 +2,7 @@
 
 The social mode is enabled by (alternatively, *is defined as*) the following set of rules. They have been enumerated based on simple observation of human behaviour, with social media being a particularly rich source of data. The key to the recognition of the existence of these rules is their *context-dependent application* (with the possible exception of the first rule, which is context-independent). 
 
-The list is in draft form and likely incomplete. Some of them overlap with others. 
+The list is in draft form and likely incomplete. Some rules overlap with others. 
 
 ## First Rule
 

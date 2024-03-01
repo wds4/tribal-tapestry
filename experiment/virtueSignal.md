@@ -2,7 +2,7 @@
 
 # Motivation
 
-The motivaiton of engaging in a virtue signel is to gain acceptance by the tribe.
+The primary motivaiton of engaging in a virtue signel is to broadcast allegiance to the tribe. The need to be accepted, the fundamental need to _belong_, is what motivates the creation and propagation of most virtue signals. In some cases, people may use virtue signaling to test someone else's allegiance to the tribe. But more often it is the case that people use virtue signals to broadcast their own allegiance to the tribe.
 
 # Mechanism
 

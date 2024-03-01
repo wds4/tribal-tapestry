@@ -20,11 +20,15 @@ The *studious inattention* towards data that conflicts with the tribal narrative
 
 ## _Logical fallacy_
 
-Logical fallacy in service to one's own tribal narrative is a virtue.
+Logical fallacy, a.k.a. _hypocrisy_, in service to one's own tribal narrative is a virtue.
 
 ## _Reality_
 
 The *problematization* of the notion of objective reality (in the abstract) is a virtue when in service to the tribal narrative fiction.
+
+## _Hypersensitivity_
+
+A strong hypersensitivity of the inherent toxicity (e.g. hypocrisy, studious inattention, etc) of the tribal narrative fiction of the Other, accompanied by a lack of conscious awareness of the inherent toxicity of one's own tribal narrative fiction, is a virtue when in service to the tribal narrative fiction.
 
 ## _Theory of Mind_
 
@@ -32,7 +36,7 @@ Misrepresentation and misunderstanding of the state of mind of The Other (includ
 
 ## _Projection_
 
-Projection of one own's tribal toxicity onto The Other is a virtue when in service to the tribe.
+Projection of Vice, _as defined by the value system of one's own tribe_, onto The Other is a virtue when in service to the tribe.
 
 ## _Equivocation_
 

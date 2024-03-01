@@ -35,7 +35,7 @@ The Other: _irritation_; draws attention to the toxicity and rejects the VS on t
 
 # Nonstandard responses
 
-One potential response that does not fit into either of the above categories and that is worth noting would be the subject who _trandscends_ the test. In this case, the subject is *successfully* able to disentangle the core and the overlay. This is nonstandard because virtue signals will not propagate through the community unless disentanglement is sufficiently difficult to achieve, so difficult that it is normally not worth the cognitive effort. The ability to do this successfully generally requires advanced preparation, with detailed knowledge of the virtue signal and the tribal tapestry in which it is embedded.
+One potential response that does not fit into either of the above categories and that is worth noting would be the subject who _transcends_ the test. In this case, the subject is *successfully* able to disentangle the core and the overlay. This is nonstandard because virtue signals will not propagate through the community unless disentanglement is sufficiently difficult to achieve, so difficult that it is normally not worth the cognitive effort. The ability to do this successfully generally requires advanced preparation, with detailed knowledge of the virtue signal and the tribal tapestry in which it is embedded.
 
 # Why this makes sense
 

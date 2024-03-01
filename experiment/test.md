@@ -4,7 +4,7 @@
 
 The First Rule of the Social / Tribal mode is that *we don't talk about the social cognitive mode.* a.k.a: *Thou shalt not EVER recite the Tribal Tapestry Hypothesis (TTH) in its entirety.*
 
-We therefore make the following Prediction (P): a neuro normative person (the Subject), having learned the Tribal Tapestry Hypothesis (TTH) well enough to state it at a baseline point in time, will have difficulty *remembering* the TTH, because the healthy brain will *actively erase* the TTH from itself.
+We therefore make the following Prediction (P): a neuro normative person (the Subject), having learned the Tribal Tapestry Hypothesis (TTH) well enough to state it at a baseline point in time, will have difficulty *remembering* the TTH, because the healthy brain will *actively erase* the TTH.
 
 To test our Prediction (P), two people, a Questioner and a Subject, familarize themselves with the TTH as stated on the accompanying pages, either indepdently or together, until they are each satisfied that they are familiar with the TTH. Specifically, the Subject and the Questioner should each independently be satisfied:
 1. that the TTH is substantive, i.e. both testable and nontrivial

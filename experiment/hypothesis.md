@@ -26,7 +26,7 @@ The two cognitive modes differ in three fundamental ways: why, when, what
 
 ## Virtue signals
 
-The purpose of a virtue signal is to broadcast / demonstrate / shout from the mountaintops (to tribal insiders AND outsiders) that the tribal narrative fiction has been woven irreversibly into one's brain, akin to a scar or a tattoo on the skin.
+The purpose of a virtue signal is to broadcast / demonstrate / shout from the mountaintops (to tribal insiders AND outsiders) that the tribal narrative fiction has been woven irreversibly into one's brain.
 
 ## Tribal Narrative
 

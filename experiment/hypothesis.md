@@ -13,7 +13,7 @@ A full understanding of the hypothesis requires an understanding of the words us
 The two cognitive modes differ in three fundamental ways: why, when, what
 
 ### Why
-- The purpose of the standard cognitive mode is to maintain a model of the world that is relevant, accurate, and most importantly, *useful*.
+- The purpose of the standard cognitive mode is to maintain a model of the world that is *useful*, as judged by the individual.
 - The purpose of the social cognitive mode is to gain acceptance by the tribe; to *belong*.
 
 ### When

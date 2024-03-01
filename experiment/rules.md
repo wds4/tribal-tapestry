@@ -18,7 +18,7 @@ Alternative statement 3: Thou shalt never recite (or tolerate the recitation of)
 
 ## _Attention_
 
-The *studious inattention* towards data that conflicts with the tribal narrative is a virtue. Conversely, the *selective attention* towards data that supports the tribal narrative is a virtue.
+The *studious inattention* towards data that conflicts with the tribal narrative is a virtue. Conversely, the *selective attention* towards data that supports the tribal narrative is a virtue. This is in contrast to the standard mode, which encourages vigilance to any data points which might contradict any given belief, hypothesis, or theory.
 
 ## _Logical fallacy_
 

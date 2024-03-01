@@ -12,7 +12,7 @@ If you want to prove me wrong, all you have to do is read the TTH, learn it, and
 
 ### Rationale for our Predictions (P)
 
-The First Rule of the Social / Tribal mode is that *we don't talk about the social cognitive mode.* a.k.a: *Thou shalt not EVER recite the Tribal Tapestry Hypothesis (TTH) in its entirety.*
+The First Rule of the Social / Tribal mode is that *We don't talk about the social cognitive mode.* a.k.a: *We don't KNOW about the social cognitive mode.* a.k.a. *Thou shalt NEVER recite the Tribal Tapestry Hypothesis (TTH).*
 
 To test our Predictions (P), two people, a Questioner and a Subject, familarize themselves with the TTH as stated on the accompanying pages, either indepdently or together, until they are each satisfied that they are familiar with the TTH. Specifically, the Subject and the Questioner should each independently be satisfied:
 1. that the TTH is substantive, i.e. both testable and nontrivial

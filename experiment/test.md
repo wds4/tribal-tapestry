@@ -4,6 +4,8 @@
 
 PROVE ME WRONG!!!!
 
+If you want to prove me wrong, all you have to do is read the TTH and remember it! Simple as that!!
+
 The First Rule of the Social / Tribal mode is that *we don't talk about the social cognitive mode.* a.k.a: *Thou shalt not EVER recite the Tribal Tapestry Hypothesis (TTH) in its entirety.*
 
 We therefore make the following Prediction (P): a neuro normative person (the Subject), having learned the Tribal Tapestry Hypothesis (TTH) well enough to state it at a baseline point in time, will have difficulty *remembering* the TTH, because the healthy brain will *actively erase* the TTH.

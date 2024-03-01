@@ -15,7 +15,7 @@ Virtue signals can be identified in the wild by these features:
 ### Primary features
 - a universally acceptible *core* (ideas, values, etc that are typically acceptable to the standard cognitive mode, so that most or all people would agree with them, regardless of tribal affiliation)
 - a toxic *overlay* (e.g. hypocrisy or unfalsifiable assertions of fact, typically unacceptable to the standard cognitive mode) that is _unpalatable_, possibly _irritating_ to anyone who does not identify with the tribe
-- the *union* of the core with the overlay (an argument that acceptance of the core and the overlay must be a package deal. This argument is included within the toxic overlay.), the justification of which is toxic and which follows Brandolini's Law
+- the *union* of the core with the overlay (an argument that acceptance of the core and the overlay must be a package deal), the justification of which is toxic and which follows Brandolini's Law
 
 ### Secondary features
 - the challenge: a social scenario in which the VS is presented to an individual, who has the opportunity to provide a reaction and may be expected to do so

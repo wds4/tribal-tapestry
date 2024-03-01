@@ -30,7 +30,7 @@ The Other rejects the virtue signal; may attempt to unravel the core and the ove
 
 # Nonstandard responses
 
-One potential response that does not fit into either of the above categories and that is worth noting would be the subject who is able to disentangle the core and the overlay successfully. This is nonstandard because virtue signals are designed to make this very hard to do. The abaility to do this successfully generaly requires preparation and advanced and detailed knowledge of the virtue signal and the tribal tapestry in which it is embedded.
+One potential response that does not fit into either of the above categories and that is worth noting would be the subject who is able to disentangle the core and the overlay successfully. This is nonstandard because virtue signals are designed to make this very hard to do. The abaility to do this successfully generally requires preparation, with advanced and detailed knowledge of the virtue signal and the tribal tapestry in which it is embedded.
 
 # Why this makes sense
 

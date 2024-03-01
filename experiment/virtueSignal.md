@@ -6,7 +6,7 @@ The primary motivaiton of engaging in virtue signaling is to broadcast allegianc
 
 # Mechanism
 
-One demonstrates loyalty to the tribe via one's response to a virtue signal. In effect, a virtue signal is a litmus test. It is a collection of threads, and one must either endorse them or reject them.
+One demonstrates loyalty to the tribe via one's response to a virtue signal. In effect, a virtue signal is a litmus test with a binary outcome. It is a collection of attractive and toxic ideas that are bundled together into a package deal, and one is expected either to endorse them (the entire package) or to reject them.
 
 # Components and features
 ### Primary

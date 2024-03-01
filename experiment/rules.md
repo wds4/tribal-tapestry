@@ -1,6 +1,8 @@
 <h1 align="center" >The Rules of the Social Mode</h1>
 
-The social mode is enabled by (alternatively, *is defined as*) the following set of rules. They have been enumerated based on simple observation of human behaviour, with social media being a particularly rich source of data. The key to the recognition of the existence of these rules is their *context-dependent application* (with the possible exception of the first rule, which is context-independent). 
+The social mode is enabled by (alternatively, *is defined as*) the following set of rules. Each rule defines a feature of cognition that is a _virtue_ when in service to one's own tribal narrative fiction, but that would otherwise be classified by the standard mode as a _vice_. These rules have been enumerated based on simple observation of human behaviour, with social media being a particularly rich source of data.
+
+The key to the recognition of the existence of these rules is their *context-dependent application*, always being applied relative to the narrative fiction of one's own tribe. 
 
 The list is in draft form and likely incomplete. Some rules overlap with others. 
 

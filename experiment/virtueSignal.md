@@ -24,7 +24,7 @@ There are two factors to consider when evaluating a subject's response to the ch
 - Does the subject endorse or reject the virtue signal?
 - Does the subject attempt to separate the core from the overlay, or bind them together more tightly?
 
-The virtuous subject endorses the virtue signal and resists any attempt to disentabgle the core and the overlay.
+The virtuous subject endorses the virtue signal and resists any attempt to disentangle the core and the overlay.
 
 The Other rejects the virtue signal; may attempt to unravel the core and the overlay, so that the core can be accepted while the overlay is rejected.
 

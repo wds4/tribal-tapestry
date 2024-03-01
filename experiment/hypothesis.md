@@ -34,11 +34,11 @@ The Tribal Narrative is defined as a vast collection of stories, beliefs, values
 
 ## Tribal narrative fiction
 
-A small subset of the greater tribal narrative, consisting of *toxic threads*, woven into a pattern that is unique to the tribe and that serves to distinguish one tribe from another.
+A small subset of the greater Tribal Narrative, consisting of *toxic threads*, woven into a pattern that is unique to the tribe and that serves to distinguish one tribe from another.
 
 ## Toxic threads
 
-Think of a thread as a representation to a thought or an idea.
+Think of a thread as a representation of a thought or an idea.
 
 A toxic thread is defined as one that exacts a cost to the individual via interference with the normal functioning of the standard cognitive mode. Toxicity is typically achieved either by contradicting observation or engaging in logical fallacy. In practice, toxic threads are automatically rejected / removed by the standard cognitive mode unless they are protected and implemented by the tribal cognitive mode, in service to the tribal narrative fiction.
 

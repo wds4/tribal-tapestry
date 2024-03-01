@@ -18,7 +18,7 @@ Virtue signals can be identified in the wild by these features:
 - the *union* of the core with the overlay (an argument that acceptance of the core and the overlay must be a package deal. This argument is included within the toxic overlay.)
 
 ### Secondary features
-- the challenge: a social scenario in which the VS is presented to an individual, who is invited or expected to provide a reaction
+- the challenge: a social scenario in which the VS is presented to an individual, who has the opportunity to provide a reaction and may be expected to do so
 - binary responses: an individual demonstrates acceptance or rejection of the VS
 - calibration (acceptance of the overlay needs to incur a cost that is not too high and not too low, the determination of which is encoded into the tribal narrative fiction; analogous to the *difficulty adjustment* of the proof of work consensus mechanism)
 

@@ -28,6 +28,6 @@ At t = baseline, the test is performed using the accompanying Worksheet. A certa
 
 The primary endpoint will be the percentage change in score between the baseline and the follow up test. One or more control hypotheses of similar complexity may be devised for comparison.
 
-The secondary endpoint will be the percentage of Subjects who are unable to remember any substantive and novel elements of the TTH at follow up.
+The secondary endpoint will be the percentage of Subjects who are unable to remember at follow up any of the substantive and novel elements that they wrote at baseline.
 
 Participants will be paid for participation, with a bonus payment for higher test scores.

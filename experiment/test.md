@@ -18,7 +18,7 @@ To test our Prediction (P), two people, a Questioner and a Subject, familarize t
 
 To demonstrate such satisfaction, they should each write down at least one such element. If they are not so satisfied, do not proceed with the test.
 
-Note that the TTH predicts that many people will actively resist participation in this test because the simple act of becoming familiar with the TTH is a violation of the First Rule. Some may need to be reassured that recitation of the TTH does not equate to an endorsement of its veracity.
+Note that the TTH predicts that many people will actively resist participation in this test because the simple act of becoming familiar with the TTH is a violation of the First Rule. To mitigate such resistance, it may help to provide reassurance that recitation of the TTH does not equate to an endorsement of its veracity.
 
 A certain amount of time later (between one day and one week later; ideally involving at least one sleep cycle) the test is performed using the accompanying Worksheet.
 

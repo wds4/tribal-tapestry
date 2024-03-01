@@ -29,9 +29,9 @@ There are two factors to consider when evaluating a subject's response to the ch
 - Does the subject endorse or reject the virtue signal?
 - Does the subject attempt to separate the core from the overlay, or bind them together more tightly?
 
-The virtuous subject: moral indignation; draws attention to and endorses the core, ignores vs endorses the toxicity, endorses the virtue signal as a whole, and resists any attempt to disentangle the core and the overlay.
+The virtuous subject: a sense of _moral superiority_; draws attention to and endorses the core; ignores vs endorses the toxicity; endorses the virtue signal as a whole; and resists any attempt to disentangle the core and the overlay.
 
-The Other: _irritation_; draws attention to and rejects the toxicity, ignores vs endorses the core, rejects the virtue signal as a whole, and (if sufficiently motivated and prepared) may attempt to disentangle the core and the overlay, so that the core can be accepted while the overlay is rejected.
+The Other: _irritation_; draws attention to the toxicity and rejects the VS on those grounds; ignores vs endorses the core in isolation; rejects the virtue signal as a whole; and (if sufficiently motivated and prepared) may attempt to disentangle the core and the overlay, so that the core can be accepted while the overlay is rejected.
 
 # Nonstandard responses
 

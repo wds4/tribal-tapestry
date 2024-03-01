@@ -15,7 +15,7 @@ Virtue signals can be identified in the wild by these features:
 ### Primary features
 - a universally acceptible *core* (ideas, values, etc that are typically acceptable to the standard cognitive mode, so that most or all people would agree with them, regardless of tribal affiliation)
 - a toxic *overlay* (e.g. hypocrisy or unfalsifiable assertions of fact, typically unacceptable to the standard cognitive mode) that is _unpalatable_, possibly _irritating_ to anyone who does not identify with the tribe
-- the *union* of the core with the overlay (an argument that acceptance of the core and the overlay must be a package deal. This argument is included within the toxic overlay.)
+- the *union* of the core with the overlay (an argument that acceptance of the core and the overlay must be a package deal. This argument is included within the toxic overlay.), the justification of which is toxic and which follows Brandolini's Law
 
 ### Secondary features
 - the challenge: a social scenario in which the VS is presented to an individual, who has the opportunity to provide a reaction and may be expected to do so
@@ -39,8 +39,8 @@ One potential response that does not fit into either of the above categories and
 
 # Why this makes sense
 
-The purpose of binding the core and the overlay together is to make them effectively a package deal. You are forced to make a choice: endorse the core at the price of endorsing the toxic overlay, or reject the toxic overlay at the price of rejecting the core along with it. The VS could therefore be understood in terms of the following value-laden question: which outweighs the other, the positives of the core or the negatives of the overlay? If the positives of the core and the negatives of the overlay are roughly balanced, which is often the case, then reasonable people may disagree on the answer. A small change in the value system can tip the scales from one side to the other.
+The purpose of binding the core and the overlay together is to make them effectively a package deal. You are forced to make a choice: endorse the core at the price of endorsing the toxic overlay, or reject the toxic overlay at the price of rejecting the core along with it. The VS could therefore be understood in terms of the following value-laden question: which outweighs the other, the positives of the core or the negatives of the overlay? If the positives of the core and the negatives of the overlay are roughly balanced, which is often the case, then reasonable people may disagree on the answer. A small change in one's value system (which typically mirros the value system of the tribal narrative) can tip the scales from one side to the other.
 
-The union of the core with its overlay, _the idea that they must be accepted or rejected as a package deal_, is often the main source of the irritation. It is almost always based on logical fallacy which is ignored by the Virtuous but painfully obvious to everyone else. However, a successful virtue signal is one in which pointing out and refuting the argument for union is more work than it is worth. Hence, the irritation.
+The union of the core with its overlay, _the idea that they must be accepted or rejected as a package deal_, is often the main source of the irritation. It is almost always based on logical fallacy which is ignored by the Virtuous but painfully obvious to everyone else. However, a successful virtue signal is one that follow's Brandolini's Law: pointing out and refuting the argument for their union is more work than it is worth. Hence, the irritation.
 
 

@@ -2,7 +2,7 @@
 
 We make two Predictions (P):
 1. An unexpectedly high percentage of prospective study participants will be unable and / or unwilling to read, to absorb, and to recite the essential content of the TTH, even once.
-2. Of those who are able to recite the TTH at baseline, an unexpectedly high percentage will be unable to recite the TTH a short time later. *The TTH will be automatically and actively erased from memory with a robustness to rival the erasure of a dream by late morning.*
+2. Of those who are able to recite the TTH at baseline, an unexpectedly high percentage will be unable to recite the TTH a short time later. *The TTH will be automatically and actively erased from memory with a robustness to rival the erasure of a dream by late morning or early afternoon.*
 
 PROVE ME WRONG -- and get paid to do it!!!!
 

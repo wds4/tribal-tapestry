@@ -13,6 +13,6 @@ To demonstrate such satisfaction, they should each write down at least one such 
 
 A certain amount of time later (between one day and one week later; ideally involving at least one sleep cycle) the test is performed using the accompanying Worksheet.
 
-Our Prediction (P) is that the Subject's ability to state the TTH will deteriorate rapidly. Specifically, any elements that the Subject previously considered both substantive and novel will be subject to rapid erasure.
+Our Prediction (P) is that the Subject's ability to state the TTH will deteriorate rapidly. Specifically, the Subject will be *unable to recall* any elements that the Subject previously considered both substantive and novel.
 
-Note that for the sake of our Prediction (P), it is irrelevant whether the Subject believes the TTH to be true or false. 
+Note that we are making no prediction whether any given Subject will believe the TTH to be true or false. Participation in this test should not be interpreted as an endorsement of the veracity of the TTH.

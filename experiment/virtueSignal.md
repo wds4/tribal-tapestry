@@ -9,9 +9,12 @@ The motivaiton of engaging in a virtue signel is to gain acceptance by the tribe
 One demonstrates loyalty to the tribe via one's response to a virtue signal. In effect, a virtue signal is a litmus test. It is a collection of threads, and one must either endorse them or reject them.
 
 # Components and features
+### Primary
 - universally acceptible *core*
 - toxic *overlay*
 - *union* of the core with the overlay
+
+### Secondary
 - the challenge
 - calibration
 

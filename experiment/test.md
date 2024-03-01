@@ -1,6 +1,6 @@
 <h1 align="center" >A Test of the Tribal Tapestry Hypothesis (TTH)</h1>
 
-## Prediction: *The TTH will be ACTIVELY ERASED from the minds of healthy subjects.*
+## Prediction: *The TTH will be automatically and actively ERASED from the minds of healthy subjects.*
 
 The First Rule of the Social / Tribal mode is that *we don't talk about the social cognitive mode.* a.k.a: *Thou shalt not EVER recite the Tribal Tapestry Hypothesis (TTH) in its entirety.*
 

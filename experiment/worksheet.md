@@ -44,7 +44,7 @@ Checklist:
 
 ## Extra Credit: Part 3
 
-*Name the Three Components of a Virtue Signal.*
+*Name the Three Primary Components of a Virtue Signal.*
 - [ ] the universally acceptable *core*
 - [ ] the toxic *overlay*
 - [ ] the union of the core with the overlay

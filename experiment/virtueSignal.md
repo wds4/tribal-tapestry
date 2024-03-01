@@ -21,16 +21,17 @@ One demonstrates loyalty to the tribe via one's response to a virtue signal. In 
 # Standard Binary Responses:
 
 There are two factors to consider when evaluating a subject's response to the challenge.
+- Does the subject attend to (versus ignore) the core, the toxicity, or both?
 - Does the subject endorse or reject the virtue signal?
 - Does the subject attempt to separate the core from the overlay, or bind them together more tightly?
 
-The virtuous subject endorses the virtue signal and resists any attempt to disentangle the core and the overlay.
+The virtuous subject: attends to the core, ignores the toxicity, endorses the virtue signal, and resists any attempt to disentangle the core and the overlay.
 
-The Other rejects the virtue signal; may attempt to unravel the core and the overlay, so that the core can be accepted while the overlay is rejected.
+The Other: ignores the core, attends to the toxicity, rejects the virtue signal, and (if sufficiently motivated and prepared) may attempt to unravel the core and the overlay, so that the core can be accepted while the overlay is rejected.
 
 # Nonstandard responses
 
-One potential response that does not fit into either of the above categories and that is worth noting would be the subject who is able to disentangle the core and the overlay successfully. This is nonstandard because virtue signals are designed to make this very hard to do. The ability to do this successfully generally requires preparation, with advanced and detailed knowledge of the virtue signal and the tribal tapestry in which it is embedded.
+One potential response that does not fit into either of the above categories and that is worth noting would be the subject who _trandscends_ the test. In this case, the subject is *successfully* able to disentangle the core and the overlay. This is nonstandard because virtue signals will not propagate through the community unless disentanglement is sufficiently difficult to achieve, so difficult that it is normally not worth the cognitive effort. The ability to do this successfully generally requires advanced preparation, with detailed knowledge of the virtue signal and the tribal tapestry in which it is embedded.
 
 # Why this makes sense
 

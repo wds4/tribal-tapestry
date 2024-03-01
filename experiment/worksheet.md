@@ -35,6 +35,7 @@ Checklist:
 - [ ] Attention: ______
 - [ ] Logical Fallacy: ______
 - [ ] Reality: ______
+- [ ] Hypersensitivity: ______
 - [ ] Straw Man: ______
 - [ ] Projection: ______
 - [ ] Equivocation: ______

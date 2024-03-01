@@ -16,7 +16,7 @@ One demonstrates loyalty to the tribe via one's response to a virtue signal. In 
 
 ### Secondary
 - the challenge (an individual demonstrates acceptance or rejection of the VS)
-- calibration (the overlay needs to be toxic enough, but not too toxic, the determination of which is encoded into the tribal narrative fiction; analogous to the *difficulty adjustment* of the proof of work consensus mechanism)
+- calibration (the overlay needs to incur a cost that is not too high and not too low, the determination of which is encoded into the tribal narrative fiction; analogous to the *difficulty adjustment* of the proof of work consensus mechanism)
 
 # Standard Binary Responses:
 

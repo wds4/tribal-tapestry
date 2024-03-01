@@ -18,7 +18,7 @@ The First Rule of the Social / Tribal mode is that *We don't talk about the soci
 
 ### Test Procedure
 
-To test our Predictions (P), two people, a Questioner and a Subject, familarize themselves with the TTH as stated on the accompanying pages, either indepdently or together, until they are each satisfied that they are familiar with the TTH and that:
+To test our Predictions (P), two people, a Questioner and a Subject, familarize themselves with the TTH as stated on the accompanying pages, either independently or together, until they are each satisfied that they are familiar with the TTH and that:
 1. the TTH is substantive, i.e. both testable and nontrivial
 2. the TTH is novel, i.e. it contains at least one substantive element that they have not previously encountered.
 

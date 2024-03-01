@@ -10,23 +10,23 @@ One demonstrates loyalty to the tribe via one's response to a virtue signal. In 
 
 # Components and features
 ### Primary
-- universally acceptible *core*
-- toxic *overlay*
-- *union* of the core with the overlay
+- a universally acceptible *core* (ideas, values, etc that most or all people would agree with, regardless of tribal affiliation)
+- a toxic *overlay* (e.g. hypocrisy or unfalsifiable assertions of fact)
+- the *union* of the core with the overlay (an argument that acceptance of the core and the overlay are a package deal. This argument is included within the toxic overlay.)
 
 ### Secondary
-- the challenge
-- calibration
+- the challenge (an individual demonstrates acceptance or rejection of the VS)
+- calibration (the overlay needs to be toxic enough, but not too toxic, the determination of which is encoded into the tribal narrative fiction; analogous to the *difficulty adjustment* of the proof of work consensus mechanism)
 
 # Standard Binary Responses:
 
-There are two factors to consider when evaluating a subject's 
+There are two factors to consider when evaluating a subject's response to the challenge.
 - Does the subject endorse or reject the virtue signal?
 - Does the subject attempt to separate the core from the overlay, or bind them together more tightly?
 
-Virtuous subject: endorse the virtue signal and attempt to bind them together more tightly
+The virtuous subject endorses the virtue signal and resists any attempt to disentabgle the core and the overlay.
 
-the Other: reject the virtue signal; may attempt to unravel the union of the core and the overlay, so that the core can be accepted while the overlay is rejected
+The Other rejects the virtue signal; may attempt to unravel the core and the overlay, so that the core can be accepted while the overlay is rejected.
 
 # Nonstandard responses
 
